@@ -72,6 +72,6 @@
   </voices>
 <loot>
 <item id="6527" countmax="25" chance="70000"/><!-- event coins -->
-<item id="9971" countmax="4" chance="50000"/><!-- dinheiro -->
+<item id="9971" countmax="10" chance="50000"/><!-- dinheiro -->
 </loot>
 </monster>

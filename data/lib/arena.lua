@@ -1,7 +1,7 @@
--- arena script
+-- arena script by 5mok3
 InitArenaScript = 0
 arena_room_max_time = 240 -- time in seconds for one arena room
-arenaKickPosition = {x=160, y=54, z=7} -- position where kick from arena when you leave/you did arena level
+arenaKickPosition = {x=32222, y=31080, z=6} -- position where kick from arena when you leave/you did arena level
 arena_monsters = {}
 arena_monsters[42300] = 'frostfur' -- first monster from 1 arena
 arena_monsters[42301] = 'bloodpaw'
@@ -42,4 +42,4 @@ function getArenaMonsterIdByName(name)
         end
     end
     return 0
-end  
+end

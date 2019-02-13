@@ -25,7 +25,7 @@ for key, combat in pairs(combat_types) do
 	setCombatParam(combat.object, COMBAT_PARAM_DISTANCEEFFECT, combat.anim or CONST_ANI_NONE)
 	setCombatParam(combat.object, COMBAT_PARAM_BLOCKARMOR, config.block_armor and 1 or 0)
 
-	setCombatFormula(combat.object, COMBAT_FORMULA_LEVELMAGIC, 0, -700, 0, -800)
+	setCombatFormula(combat.object, COMBAT_FORMULA_LEVELMAGIC, 0, -750, 0, -850)
 
 	if combat.cond then
 		local condition = createConditionObject(combat.cond)
@@ -52,3 +52,4 @@ function onUseWeapon(cid, var)
 
 	return doCombat(cid, combat.object, var)
 end
+

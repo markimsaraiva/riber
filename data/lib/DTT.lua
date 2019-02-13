@@ -17,13 +17,13 @@
 dtt = {
     pos = {
         temple_wait = {x=438, y=1138, z=7}, -- sala de espera
-        tp_create = {x=166, y=54, z=7}, -- onde teleport de entrada sera criado
+        tp_create = {x=166, y=53, z=7}, -- onde teleport de entrada sera criado
     },
 
     --Configurações de abertura
     days_open = {1, 2, 3, 4, 5, 6, 7}, -- dias de semana que vai abrir
-    min_players = 4, -- numero minimo de jogadores em cada time
-    min_level = 50, -- level minimo permitido para entrar no evento
+    min_players = 1, -- numero minimo de jogadores em cada time
+    min_level = 200, -- level minimo permitido para entrar no evento
     wait_time = 3, -- tempo de espera para iniciar o evento, em minutos
     block_mc = true, -- false para permitir mcs no evento
 
@@ -32,9 +32,9 @@ dtt = {
     townid = {init = 1, blue = 2, red = 3}, -- init = templo da cidade, blue = templo do time azul, red = templo do time vermelho
 
     --Configurações dos premios
-    reward_items = {{6527,120}, {9971,10}, {12695,5}},
+    reward_items = {6527, 6527},
     bonus_time = 240, -- experiencia bonus em minutos
-    bonus_rate = 0.2, -- porcentagem de experiencia bonus: 1 = 100% | 0.3 = 30%
+    bonus_rate = 1, -- porcentagem de experiencia bonus: 1 = 100% | 0.3 = 30%
 
     --Configuração dos monstros
     monster = {
@@ -374,7 +374,7 @@ end
 
 function dtt.reward(pid)
 	local random_item = dtt.reward_items[math.random(1, #dtt.reward_items)]
-    doPlayerAddItem(pid, 6527, 70)
+    doPlayerAddItem(pid, 6527, 80)
     dtt.setBonusExp(pid)
     doPlayerSendTextMessage(pid, 25, dtt.msg.reward)   
     return true

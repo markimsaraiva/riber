@@ -1,6 +1,6 @@
 local config = {
 positions = {
-["Baiak"] = { x = 155, y = 54, z = 7 },
+["BKNEW"] = { x = 155, y = 54, z = 7 },
 }
 }
 
@@ -10,4 +10,5 @@ doSendAnimatedText(pos, text, 89)
 end
 
 return TRUE
-end
+end 
+

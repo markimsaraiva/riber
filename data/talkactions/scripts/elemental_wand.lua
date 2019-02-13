@@ -25,7 +25,7 @@ local config = {
 }
 
 -- /////////////////////Requerimentos///////////////////--
-local req_itemid = 12672                              -- ID do item requerido
+local req_itemid = 12661                                  -- ID do item requerido
 local req_text = "You cannot use this command."           -- Mensagem caso nao possua o item
 --/////////////////////////////////////////////////////--
 

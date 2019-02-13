@@ -1,8 +1,6 @@
 local config = {
 positions = {
 ["Snowball"] = { x = 162, y = 52, z = 7 },
-["18 Hrs"] = { x = 163, y = 52, z = 7 },
-
 }
 }
 
@@ -13,4 +11,5 @@ doSendMagicEffect(pos, 43)
 end
 
 return TRUE
-end
+end 
+

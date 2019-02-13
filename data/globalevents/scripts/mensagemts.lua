@@ -4,8 +4,8 @@ function onThink(interval, lastExecution)
     local mensagens ={
 [[BaiakNew:
 Red Skull = 100 frags no dia
-Black Skull =  200 frags no dia
-para remover skulls compre o Removedor de Skull no site!
+Black Skull = Sem limites
+para remover skulls compre o Removedor de Skull do ShopGuild!
 ]]
 }
 

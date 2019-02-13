@@ -8,7 +8,7 @@ local c = {
 
 function onTime ()
 	doItemSetAttribute(doCreateTeleport(1387, c.teleportToPosition, c.teleportPosition), "aid", 1742)
-	doBroadcastMessage("[Zombie] Zombie event sera comecado em 3 minutos! O teleport sera fechado quando o evento comecar!", MESSAGE_STATUS_WARNING)
+	doBroadcastMessage("Zombie event starting in 3 minutes! The teleport will be closed when the event start!", MESSAGE_STATUS_WARNING)
 	setGlobalStorageValue(3, 0)
 	addEvent(startEvent, 3 * 60 * 1000)
 	return true
@@ -18,9 +18,9 @@ function startEvent()
 	doRemoveItem(getTileItemById(c.teleportPosition, 1387).uid, 1)
 	if getGlobalStorageValue(3) > 0 then
 		addEvent(spawnZombie, 10 * 1000)
-		doBroadcastMessage("[Zombie]Boa sorte na Arena do Zombie Event Galera! O teleport foi fechado!", MESSAGE_STATUS_WARNING)
+		doBroadcastMessage("Good luck in the zombie event people! The teleport has closed!", MESSAGE_STATUS_WARNING)
 	else
-		doBroadcastMessage('[Zombie] O Zombie Event nao comecou porque nao havia a quantidade de players suficiente!')
+		doBroadcastMessage('Zombie Event hasn\'t started beacuse there were not enough players.')
 	end
 end
 

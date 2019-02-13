@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Gnorre Chyllson" nameDescription="gnorre chyllson" race="blood" experience="4000" speed="900" manacost="0">
-    <health now="160000" max="160000"/>
+<monster name="Gnorre Chyllson" nameDescription="gnorre chyllson" race="blood" experience="4000" speed="380" manacost="0">
+    <health now="7100" max="7100"/>
 	<look type="251" head="11" body="9" legs="11" feet="85" addons="1" corpse="7349"/>
     <targetchange interval="60000" chance="0"/>
     <strategy attack="100" defense="0"/>
@@ -19,15 +19,15 @@
 	    <flag runonhealth="0"/>
     </flags>
     <attacks>
-		<attack name="melee" interval="1000" skill="180" attack="220"/>
-		<attack name="physical" interval="1000" chance="15" radius="3" target="0" min="-952" max="-1500">
+		<attack name="melee" interval="2000" skill="90" attack="110"/>
+		<attack name="physical" interval="1000" chance="15" radius="3" target="0" min="-210" max="-400">
 			<attribute key="areaEffect" value="blackspark"/>
 		</attack>
-		<attack name="death" interval="1000" chance="9" range="7" target="1" min="-870" max="-1540">
+		<attack name="death" interval="1000" chance="9" range="7" target="1" min="-170" max="-240">
 			<attribute key="areaEffect" value="giantice"/>
 			<attribute key="shootEffect" value="snowball"/>
 		</attack>
-		<attack name="ice" interval="1000" chance="13" length="8" spread="0" min="900" max="-1530">
+		<attack name="ice" interval="1000" chance="13" length="8" spread="0" min="0" max="-230">
 			<attribute key="areaEffect" value="bluenote"/>
 		</attack>
 		<attack name="drowncondition" interval="1000" chance="11" radius="4" target="0" min="-800" max="-1400">
@@ -43,17 +43,15 @@
 		<immunity invisible="1"/>
     </immunities>
 	<elements>
-		<element holyPercent="25"/>
-		<element physicalPercent="-10"/>
-		<element energyPercent="-20"/>
+		<element holyPercent="-1"/>
+		<element physicalPercent="1"/>
+		<element energyPercent="1"/>
 	</elements>
     <summons maxSummons="0">
     </summons>
     <voices interval="2000" chance="5">
 		<voice sentence="I am like the merciless northwind"/>
 		<voice sentence="Snow will be your death shroud."/>
+                                    <voice sentence="Feel the wrath of father chyll!"/>
     </voices>
-	  <script>
-<event name="teleportarena1"/>
-</script>
 </monster>

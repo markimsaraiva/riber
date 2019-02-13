@@ -4,25 +4,14 @@ function onSay(cid, words, param, channel)
 		func = doCreateNpc
 	end
 
-	local pid, t = cid, string.explode(param, ",")
-	if(t[2]) then
-		pid = getPlayerByNameWildcard(t[2])
-		if(not pid) then
-			doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "Player " .. t[2] .. " not found.")
-			return true
-		end
-	end
-
-	local position, effect = getCreaturePosition(pid), CONST_ME_MAGIC_RED
-	errors(false)
-	local ret = func(t[1], position)
-	errors(true)
-
+	local position = getCreaturePosition(cid)
+	local effect = CONST_ME_MAGIC_RED
+	local ret = func(param, position, FALSE)
 	if(tonumber(ret) == nil) then
 		effect = CONST_ME_POFF
-		doPlayerSendDefaultCancel(cid, (not ret and RETURNVALUE_NOTPOSSIBLE or RETURNVALUE_NOTENOUGHROOM))
+		doPlayerSendDefaultCancel(cid, (ret == LUA_ERROR and RETURNVALUE_NOTPOSSIBLE or RETURNVALUE_NOTENOUGHROOM))
 	end
 
 	doSendMagicEffect(position, effect)
-	return true
+	return TRUE
 end

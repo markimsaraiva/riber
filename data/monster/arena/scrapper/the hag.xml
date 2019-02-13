@@ -28,6 +28,11 @@
 	<immunities>
 		<immunity name="invisible"/>
 	</immunities>
+                    <elements>
+		<element energyPercent="-10"/>
+		<element icePercent="-1"/>
+		<element firePercent="-30"/>
+	</elements>
 	<summons maxSummons="2">
 		<summon name="Ghost" interval="2000" chance="26"/>
 		<summon name="Crypt Shambler" interval="2000" chance="26"/>

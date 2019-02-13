@@ -1,8 +1,8 @@
 function onSay(cid, words, param, channel)
-	if(param == '') then
-		return true
+	if(param == "") then
+		return TRUE
 	end
 
 	doPlayerBroadcastMessage(cid, param)
-	return true
+	return TRUE
 end

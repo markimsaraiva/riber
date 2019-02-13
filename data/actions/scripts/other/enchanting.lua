@@ -1,9 +1,31 @@
 local config = {
+	hardcoreManaSpent = getConfigValue("addManaSpentInPvPZone"),
 	manaCost = 300,
-	soulCost = 2
+	soulCost = 2,
+}
+
+local spheres = {
+	[7759] = {3, 7},
+	[7760] = {1, 5},
+	[7761] = {2, 6},
+	[7762] = {4, 8}
 }
 
 function onUse(cid, item, fromPosition, itemEx, toPosition)
+	if isInArray({33268, 33269}, toPosition.x) and toPosition.y == 31830 and toPosition.z == 10 and getPlayerStorageValue(cid, 65100) > 0 then
+		if not isInArray(spheres[item.itemid], getPlayerVocation(cid)) then
+			return false
+		elseif isInArray({7915, 7916}, itemEx.itemid) == TRUE then
+			doCreatureSay(cid, 'Turn off the machine first.', TALKTYPE_ORANGE_1)
+			return true
+		else
+			setPlayerStorageValue(cid, 65102, math.max(1, getPlayerStorageValue(cid, 65102) + 1))
+			doSendMagicEffect(toPosition, CONST_ME_PURPLEENERGY)
+			doChangeTypeItem(item.uid, item.type - 1)
+			return true
+		end
+	end
+
 	if(item.itemid == 2147 and itemEx.itemid == 2342) then
 		doTransformItem(itemEx.uid, 2343)
 		doDecayItem(itemEx.uid)
@@ -44,11 +66,14 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 			return false
 		end
 
-		doTransformItem(item.uid, enchantedGems[a])
 		doPlayerAddMana(cid, -mana)
 		doPlayerAddSoul(cid, -soul)
 
-		doPlayerAddSpentMana(cid, mana)
+		doTransformItem(item.uid, enchantedGems[a])
+		if(not getPlayerFlagValue(cid, PlayerFlag_NotGainMana) and (not getTileInfo(getThingPosition(cid)).hardcore or config.hardcoreManaSpent)) then
+			doPlayerAddSpentMana(cid, mana)
+		end
+
 		doSendMagicEffect(fromPosition, CONST_ME_HOLYDAMAGE)
 		return true
 	end

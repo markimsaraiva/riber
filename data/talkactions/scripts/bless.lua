@@ -1,21 +1,31 @@
-local bless = {1, 2, 3, 4, 5}
-local cost = 80000
+-- !blessing by leo
+local cost = 50000 -- Cost in gp.
+
 function onSay(cid, words, param)
-for i = 1, table.maxn(bless) do
-if(getPlayerBlessing(cid, bless[i])) then
-doPlayerSendCancel(cid, "Voceja tem todas as bless.")
+
+
+
+
+if getPlayerBlessing(cid, 5) == TRUE then
+doPlayerSendCancel(cid, "You have already have been blessed.")
+doSendMagicEffect(getPlayerPosition(cid), CONST_ME_POFF)
 return TRUE
-end
 end
 
-if(doPlayerRemoveMoney(cid, cost) == TRUE) then
-for i = 1, table.maxn(bless) do
-doPlayerAddBlessing(cid, bless[i])
-end
-doCreatureSay(cid, "You are now blessed!" ,19)
-doSendMagicEffect(getPlayerPosition(cid), 49)
-else
-doPlayerSendCancel(cid, "Voce precisa de 80k para a bless.")
-end
+if doPlayerRemoveMoney(cid, cost) == TRUE then
+doPlayerAddBlessing(cid, 1)
+doPlayerAddBlessing(cid, 2)
+doPlayerAddBlessing(cid, 3)
+doPlayerAddBlessing(cid, 4)
+doPlayerAddBlessing(cid, 5)
+doSendAnimatedText(getCreaturePosition(cid), 'Blessed!!!', TEXTCOLOR_WHITE)
 return TRUE
-end 
+else
+doPlayerPopupFYI(cid, "You need to have "..cost.."gp to buy blessings.")
+doSendMagicEffect(getPlayerPosition(cid), CONST_ME_POFF)
+return TRUE
+end
+
+
+
+end

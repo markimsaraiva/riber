@@ -1,5 +1,5 @@
 function onUse(cid, item, frompos, item2, topos)
-doBroadcastMessage("[AVISO] A RibeirOT City foi invadida por Monstros, venha proteger a cidade!")
+doBroadcastMessage("[AVISO] A BaiakNew foi invadida por Monstros, venha proteger a cidade!")
 	pos1 = {x=164,y=57,z=7}
 	pos2 = {x=176,y=39,z=7}
 	pos3 = {x=169,y=40,z=7} 
@@ -147,35 +147,5 @@ elseif item.uid == 19003 then
    doSummonCreature("Green Phantom", pos26)
    doSummonCreature("Green Phantom", pos27)
    doSummonCreature("Green Phantom", pos28) 
-end
-elseif item.uid == 19004 then
-   doSummonCreature("Breezee", pos1)
-   doSummonCreature("Breezee", pos2)
-   doSummonCreature("Breezee", pos3)
-   doSummonCreature("Breezee", pos4)
-   doSummonCreature("Breezee", pos5)
-   doSummonCreature("Breezee", pos6)
-   doSummonCreature("Breezee", pos7)
-   doSummonCreature("Breezee", pos8)
-   doSummonCreature("Breezee", pos9)
-   doSummonCreature("Breezee", pos10)
-   doSummonCreature("Breezee", pos11)
-   doSummonCreature("Breezee", pos12)
-   doSummonCreature("Breezee", pos13)
-   doSummonCreature("Breezee", pos14)
-   doSummonCreature("Breezee", pos15)
-   doSummonCreature("Breezee", pos16)
-   doSummonCreature("Breezee", pos17)
-   doSummonCreature("Breezee", pos18)
-   doSummonCreature("Breezee", pos19)
-   doSummonCreature("Breezee", pos20)
-   doSummonCreature("Breezee", pos21)
-   doSummonCreature("Breezee", pos22)
-   doSummonCreature("Breezee", pos23)
-   doSummonCreature("Breezee", pos24)
-   doSummonCreature("Breezee", pos25)
-   doSummonCreature("Breezee", pos26)
-   doSummonCreature("Breezee", pos27)
-   doSummonCreature("Breezee", pos28) 
 end
 end

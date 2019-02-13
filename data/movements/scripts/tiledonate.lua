@@ -2,7 +2,7 @@ function onStepIn(cid, item, position, fromPosition)
 
 local tileConfig = {
 	kickPos = fromPosition, kickEffect = CONST_ME_POFF,
-	kickMsg = "Você não e um player donate para virar acesse: ribeirot.servegame.com",
+	kickMsg = "Você não e um player donate para virar acesse: www.baiaknew.com",
 	enterMsg = "Bem Vindo a area donate, agradecemos a sua doação!",
 	enterEffect = CONST_ME_MAGIC_RED,
 }

@@ -1,9 +1,3 @@
-db.updateQueryLimitOperator = db.updateLimiter
-db.stringComparisonOperator = db.stringComparer
-db.stringComparison = db.stringComparer
-db.executeQuery = db.query
-db.quote = db.escapeString
-
 if(result == nil) then
 	print("> WARNING: Couldn't load database lib.")
 	return

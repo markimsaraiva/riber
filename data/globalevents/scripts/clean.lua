@@ -1,11 +1,21 @@
 function executeClean()
-	doCleanMap()
-	doBroadcastMessage("O mapa foi limpo.")
-	return true
+	
+doCleanMap()
+	
+doBroadcastMessage("Game map cleaned, next clean in 2 hours.")
+	
+return true
+
 end
 
-function onThink(interval, lastExecution, thinkInterval)
-	doBroadcastMessage("[Warning] O Mapa vai ser limpo, guarde seus itens.")
-	addEvent(executeClean, 50000)
-	return true
+
+
+function onThink(interval)
+	
+doBroadcastMessage("Game map cleaning within 30 seconds, please pick up your items!")
+	
+addEvent(executeClean, 30000)
+	
+return true
+
 end

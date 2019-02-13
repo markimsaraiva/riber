@@ -52,7 +52,14 @@ local teleport = {x=1349, y=1504, z=7}
 				
 			
 				
-	
+				 setGlobalStorageValue(9952,-1)
+				 
+				 if guild == guild_sto then
+				 
+				  setPlayerStorageValue(cid,9952,guild)
+				  
+				  end
+               
                
                setPlayerStorageValue(cid,storages[1], sto_vezes + 1)
                

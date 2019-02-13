@@ -1,7 +1,7 @@
-local MIN_HEALTH = 500
-local MAX_HEALTH = 550
-local MIN_MANA = 300
-local MAX_MANA = 350
+local MIN_HEALTH = 600
+local MAX_HEALTH = 950
+local MIN_MANA = 430
+local MAX_MANA = 580
 local EMPTY_POTION = 7635
 
 local exhaust = createConditionObject(CONDITION_EXHAUST)

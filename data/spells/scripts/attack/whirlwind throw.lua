@@ -11,8 +11,5 @@ end
 
 setCombatCallback(combat, CALLBACK_PARAM_SKILLVALUE, "onGetFormulaValues")
 function onCastSpell(cid, var)
-if isMonster(cid) then
-        doCreatureSay(cid, "exori hur", TALKTYPE_MONSTER)
-    end
 	return doCombat(cid, combat, var)
 end

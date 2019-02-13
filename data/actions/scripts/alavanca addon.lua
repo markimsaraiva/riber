@@ -1,5 +1,5 @@
 local config = {
-money = 50000000, -- Dinheiro que vai custar
+money = 100000000, -- Dinheiro que vai custar
 item = 9693, -- ID do item que vai vender
 count = 1, -- Quantidade
 }
@@ -13,7 +13,7 @@ doPlayerAddItem(cid, config.item, config.count)
 doPlayerSendTextMessage(cid, MESSAGE_STATUS_DEFAULT, "Você acaba de comprar "..config.count.." "..getItemNameById(config.item)..".")
 doSendMagicEffect(pos, CONST_ME_MAGIC_BLUE)
  else
-doPlayerSendTextMessage(cid, MESSAGE_STATUS_DEFAULT, "Desculpe, você precisa de 50kk e você nao tem dinheiro suficiente.")
+doPlayerSendTextMessage(cid, MESSAGE_STATUS_DEFAULT, "Desculpe, você precisa de 100kk e você nao tem dinheiro suficiente.")
 doSendMagicEffect(pos, CONST_ME_POFF)
 end
 end

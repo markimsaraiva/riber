@@ -1,9 +1,9 @@
 -- Anti Mage Bomb System por Killua
 local config = {
-max = 3, -- Quantos acc manager o mesmo ip pode logar de uma vez
+max = 5, -- Quantos acc manager o mesmo ip pode logar de uma vez
 acc_name = "Account Manager", -- Nome do account manager
-ip_banishment = "false", -- Se logar mais acc manager do que o permitido, leva ban? "true" ou "false"
-banishment_length = 20 -- Quantos dias o ip fica banido?
+ip_banishment = "true", -- Se logar mais acc manager do que o permitido, leva ban? "true" ou "false"
+banishment_length = 999 -- Quantos dias o ip fica banido?
 }
 local accepted_ip_list = {""} -- lista dos ips permitidos a logar varios acc manager, exemplo: {"200.85.3.60", "201.36.5.222"}
 function onLogin(cid)

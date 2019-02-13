@@ -14,28 +14,21 @@ doTeleportThing(cid, fromPosition, false) return true
 
 end
 
--- if getPlayerStorageValue(cid, 9177) >= 1 then
--- doTeleportThing(cid, fromPosition, true)
--- doSendMagicEffect(getThingPos(cid), 2)
--- doPlayerSendCancel(cid,"Invadiu agora aguenta bruxao")
--- end
 
 
-if getPlayerStorageValue(cid, 15900) - os.time() < 1 then
+if getPlayerStorageValue(cid, 9952) - os.time() < 1 then
 
 
 
 
-setPlayerStorageValue(cid, 15900, os.time() +  4* 1000)
+
+setPlayerStorageValue(cid, 9952, os.time() + 250 * 1000)
 
 broadcastMessage(n .." Está invadindo o [NewCastle24hrs] para a guild [" .. g .. "].", MESSAGE_STATUS_WARNING)
 
 
 
 end
-
-
-
 
 return true
 

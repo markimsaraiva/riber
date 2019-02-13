@@ -19,10 +19,10 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 			doAddContainerItem(reward, 7364, 100)
 		end
 		if doPlayerAddItemEx(cid, reward, 0) == RETURNVALUE_NOERROR then
-			doPlayerSendTextMessage(cid,MESSAGE_INFO_DESCR,'You found ' .. getItemName(getThing(reward).uid) .. '.')
+			doPlayerSendTextMessage(cid,MESSAGE_INFO_DESCR,'Yo  u found ' .. getItemName(getThing(reward).uid) .. '.')
 			setPlayerStorageValue(cid, 42361, 1)
 		else
-			doPlayerSendTextMessage(cid,MESSAGE_INFO_DESCR,'You do not have enought capacity or place in backpack.')
+			doPlayerSendTextMessage(cid,MESSAGE_INFO_DESCR,'Yo  u do not have enought capacity or place in backpack.')
 		end
 	elseif item.actionid >= 42371 and item.actionid <= 42375 and getPlayerStorageValue(cid, 42371) ~= 1 then
 		local reward = 0
@@ -47,10 +47,10 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 			doAddContainerItem(reward, 2304, 50)
 		end
 		if doPlayerAddItemEx(cid, reward, 0) == RETURNVALUE_NOERROR then
-			doPlayerSendTextMessage(cid,MESSAGE_INFO_DESCR,'You found ' .. getItemName(getThing(reward).uid) .. '.')
+			doPlayerSendTextMessage(cid,MESSAGE_INFO_DESCR,'Yo  u found ' .. getItemName(getThing(reward).uid) .. '.')
 			setPlayerStorageValue(cid, 42371, 1)
 		else
-			doPlayerSendTextMessage(cid,MESSAGE_INFO_DESCR,'You do not have enought capacity or place in backpack.')
+			doPlayerSendTextMessage(cid,MESSAGE_INFO_DESCR,'Yo  u do not have enought capacity or place in backpack.')
 		end
 	elseif item.actionid >= 42381 and item.actionid <= 42385 and getPlayerStorageValue(cid, 42381) ~= 1 then
 		local reward = 0
@@ -59,13 +59,13 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 			doAddContainerItem(reward, 7372, 1)
 			doAddContainerItem(reward, 6569, 10)
 			doAddContainerItem(reward, 6574, 1)
-			doAddContainerItem(reward, 6568, 1)
+			doAddContainerItem(reward, 5080, 1)
 		elseif item.actionid == 42382 then
-			reward = doCreateItemEx(7429,1)
+			reward = doCreateItemEx(7390,1)
 		elseif item.actionid == 42383 then
 			reward = doCreateItemEx(7434,1)
 		elseif item.actionid == 42384 then
-			reward = doCreateItemEx(7390,1)
+			reward = doCreateItemEx(7429,1)
 		elseif item.actionid == 42385 then
 			reward = doCreateItemEx(7342,1)
 			doAddContainerItem(reward, 2273, 50)
@@ -75,10 +75,10 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 			doAddContainerItem(reward, 6529, 100)
 		end
 		if doPlayerAddItemEx(cid, reward, 0) == RETURNVALUE_NOERROR then
-			doPlayerSendTextMessage(cid,MESSAGE_INFO_DESCR,'You found ' .. getItemName(getThing(reward).uid) .. '.')
+			doPlayerSendTextMessage(cid,MESSAGE_INFO_DESCR,'Yo  u found ' .. getItemName(getThing(reward).uid) .. '.')
 			setPlayerStorageValue(cid, 42381, 1)
 		else
-			doPlayerSendTextMessage(cid,MESSAGE_INFO_DESCR,'You do not have enought capacity or place in backpack.')
+			doPlayerSendTextMessage(cid,MESSAGE_INFO_DESCR,'Yo  u do not have enought capacity or place in backpack.')
 		end
 	end
 	return TRUE

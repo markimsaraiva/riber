@@ -1,13 +1,13 @@
 function onAdvance(cid, skill, oldLevel, newLevel)
 
 local config = {
-[100] = {item = 9971, count = 3},
-[200] = {item = 9971, count = 2},
-[300] = {item = 7443, count = 1},
+[100] = {item = 2160, count = 100},
+[200] = {item = 2160, count = 150},
+[300] = {item = 9971, count = 2},
 [350] = {item = 9971, count = 3},
-[400] = {item = 9693, count = 1},
+[400] = {item = 9971, count = 4},
 [450] = {item = 9971, count = 5},
-[500] = {item = 8981, count = 1},
+[500] = {item = 9971, count = 6},
 [550] = {item = 9971, count = 7},
 [600] = {item = 9971, count = 10},
 }

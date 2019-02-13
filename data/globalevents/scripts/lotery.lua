@@ -1,7 +1,7 @@
 local config = {
         lottery_hour = "2 hours", -- Tempo ate a proxima loteria (Esse tempo vai aparecer somente como broadcast message)
-        rewards_id = {9971, 12695}, -- ID dos Itens Sorteados na Loteria
-        crystal_counts = 1, -- Usado somente se a rewards_id for crystal coin (ID: 2160).
+        rewards_id = {2345}, -- ID dos Itens Sorteados na Loteria
+        crystal_counts = 10, -- Usado somente se a rewards_id for crystal coin (ID: 2160).
         website = "yes", -- Only if you have php scripts and table `lottery` in your database!
         days = {
                 "Monday-00:00",
@@ -148,17 +148,17 @@ function onThink(cid, interval)
             if(random_item == 2160) then
                 doPlayerSetStorageValue(winner, 281821, os.time() + 3600 * 24)
                 doPlayerAddItem(winner, random_item, config.crystal_counts)
-                doBroadcastMessage("[LOTTERY SYSTEM] Vencedor: " .. getCreatureName(winner) .. ", Recompensa: " .. config.crystal_counts .." " .. getItemNameById(random_item) .. "s! Parabéns! (Proxima Loteria em  " .. config.lottery_hour .. ")")
+                doBroadcastMessage("[LOTTERY SYSTEM] Winner: " .. getCreatureName(winner) .. ", Reward: " .. config.crystal_counts .." " .. getItemNameById(random_item) .. "s! Congratulations! (Next lottery in " .. config.lottery_hour .. ")")
             else
                 doPlayerSetStorageValue(winner, 281821, os.time() + 3600 * 24)
-                doBroadcastMessage("[LOTTERY SYSTEM] Vencedor: " .. getCreatureName(winner) .. ", Recompensa: " ..getItemNameById(random_item) .. "! Parabens! (Proxima Loteria em " .. config.lottery_hour .. ")")
+                doBroadcastMessage("[LOTTERY SYSTEM] Winner: " .. getCreatureName(winner) .. ", Reward: " ..getItemNameById(random_item) .. "! Congratulations! (Next lottery in " .. config.lottery_hour .. ")")
                 doPlayerAddItem(winner, random_item, 1)
             end
             if(config.website == "yes") then
                 query("INSERT INTO `lottery` (`name`, `item`, `world_id`, `item_name`, `date`) VALUES ('".. getCreatureName(winner).."', '".. random_item .."', '".. world .."', '".. item_name .."', '".. data .."');")
             end
         else
-            print("Ninguem OnLine para ganhar na loteria")
+            print("Ninguem OnLine pra ganhar na loteria")
         end
     end
     return true

@@ -1,5 +1,5 @@
-local MIN = 400
-local MAX = 600
+local MIN = 500
+local MAX = 700
 local EMPTY_POTION = 7635
 
 local exhaust = createConditionObject(CONDITION_EXHAUST)

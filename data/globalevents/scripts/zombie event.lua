@@ -2,7 +2,7 @@ local config = {
         playerCount = 2001, -- Global storage for counting the players left/entered in the event
         zombieCount = 2002, -- Global storage for counting the zombies in the event
         teleportActionId = 2000, -- Action id of the teleport needed for the movement script
-        teleportPosition = {x = 172, y = 50, z = 7, stackpos = 1}, -- Where the teleport will be created
+        teleportPosition = {x = 158, y = 53, z = 7, stackpos = 1}, -- Where the teleport will be created
         teleportToPosition = {x = 838, y = 61, z = 7}, -- Where the teleport will take you
         teleportId = 1387, -- Id of the teleport
         timeToStartEvent = 5, -- Minutes, after these minutes the teleport will be removed and the event will be declared started
@@ -19,7 +19,7 @@ local config = {
 function onTime()
         local tp = doCreateTeleport(config.teleportId, config.teleportToPosition, config.teleportPosition)
         doItemSetAttribute(tp, "aid", config.teleportActionId)
-        doBroadcastMessage("[Zombie] O Zombie Event vai comecar em " .. config.timeToStartEvent .. " minutos! O teleport sera fechado quando o evento comecar!", MESSAGE_STATUS_WARNING)
+        doBroadcastMessage("Zombie event starting in " .. config.timeToStartEvent .. " minutes! The teleport will be closed when the event start!", MESSAGE_STATUS_WARNING)
         setGlobalStorageValue(config.playerCount, 0)
         setGlobalStorageValue(config.zombieCount, 0)
         addEvent(startEvent, config.timeToStartEvent * 1000 * 60)
@@ -36,7 +36,7 @@ function startEvent()
 
         if getGlobalStorageValue(config.playerCount) >= config.playersNeededToStartEvent then
                 addEvent(spawnZombie, config.timeBetweenSpawns * 1000)
-                doBroadcastMessage("[Zombie]Boa Sorte no Zombie Event pessoal! O teleport foi fechado!", MESSAGE_STATUS_WARNING)
+                doBroadcastMessage("Good luck in the zombie event people! The teleport has closed!", MESSAGE_STATUS_WARNING)
                 
                 for x = fromp.x, top.x do
                         for y = fromp.y, top.y do
@@ -50,7 +50,7 @@ function startEvent()
                         end
                 end
         else
-                doBroadcastMessage("[Zombie] O evento Zombie nao comecou porque nao havia participantes suficiente!.\n sao necessarios  " .. config.playersNeededToStartEvent .. " players !", MESSAGE_STATUS_WARNING)
+                doBroadcastMessage("The Zombie event could not start because of to few players participating.\n At least " .. config.playersNeededToStartEvent .. " players is needed!", MESSAGE_STATUS_WARNING)
                 for x = fromp.x, top.x do
                         for y = fromp.y, top.y do
                                 for z = fromp.z, top.z do
@@ -72,7 +72,7 @@ function spawnZombie()
                 doSummonCreature(config.zombieName, pos)
                 doSendMagicEffect(pos, CONST_ME_MORTAREA)
                 setGlobalStorageValue(config.zombieCount, getGlobalStorageValue(config.zombieCount)+1)
-                doBroadcastMessage("[Zombie] Os Zombies foram summonados! Tem " .. getGlobalStorageValue(config.zombieCount) .. " Zombies no Zombie event!", MESSAGE_STATUS_CONSOLE_RED)
+                doBroadcastMessage("A zombie has spawned! There is currently " .. getGlobalStorageValue(config.zombieCount) .. " zombies in the zombie event!", MESSAGE_STATUS_CONSOLE_RED)
                 addEvent(spawnZombie, config.timeBetweenSpawns * 1000)
         end
 end

@@ -1,12 +1,12 @@
 function onUse(cid, item, fromPosition, itemEx, toPosition)
 	if(item.actionid == 4830) then
-       doTeleportThing(getTopCreature({x=993,y=960,z=1}).uid, {x=993,y=960,z=4})
+       doTeleportThing(getTopCreature({x=32991,y=31539,z=1}).uid, {x=32991,y=31539,z=4})
 	elseif (item.actionid == 4831) then
-		doTeleportThing(getTopCreature({x=993,y=960,z=4}).uid, {x=993,y=960,z=1})
+		doTeleportThing(getTopCreature({x=32991,y=31539,z=4}).uid, {x=32991,y=31539,z=1})
 	elseif (item.actionid == 4832) then
-		doTeleportThing(getTopCreature({x=995,y=968,z=4}).uid, {x=1063,y=948,z=10})
+		doTeleportThing(getTopCreature({x=32993,y=31547,z=4}).uid, {x=33061,y=31527,z=10})
 	elseif (item.actionid == 4833) then
-		doTeleportThing(getTopCreature({x=1063,y=948,z=10}).uid, {x=995,y=968,z=4})
+		doTeleportThing(getTopCreature({x=33061,y=31527,z=10}).uid, {x=32993,y=31547,z=4})
 	end
 	return true
 end

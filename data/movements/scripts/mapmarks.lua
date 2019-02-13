@@ -2,17 +2,15 @@ local config = {
 	storage = 9432,
 	version = 1, -- Increase this value after adding new marks, so player can step again and receive new map marks
 	marks = {
-		{mark = 5, pos = {x = 100, y = 45, z = 7}, desc = "Dorion Temple"},
-		{mark = 11, pos = {x = 103, y = 64, z = 7}, desc = "Tools Shop!"},
-		{mark = 7, pos = {x = 92, y = 64, z = 7}, desc = "Paladin Shop!"},
-		{mark = 8, pos = {x = 93, y = 75, z = 7}, desc = "Weapon Shop!"},
-		{mark = 8, pos = {x = 102, y = 76, z = 7}, desc = "Armor Shop!"},
-		{mark = 4, pos = {x = 81, y = 69, z = 7}, desc = "Dorion Depot!"},
-		{mark = 9, pos = {x = 45, y = 79, z = 7}, desc = "Boat!"},
-		{mark = 2, pos = {x = 26, y = 51, z = 7}, desc = "Football!"},
-		{mark = 5, pos = {x = 119, y = 98, z = 7}, desc = "Sanctuary!"},
-		{mark = 12, pos = {x = 48, y = 103, z = 7}, desc = "Arena PVP!"},
-		{mark = 1, pos = {x = 666, y = 666, z = 6}}
+		{mark = 5, pos = {x = 32369, y = 32241, z = 7}, desc = "Temple of Thais"},
+		{mark = 7, pos = {x = 32376, y = 32200, z = 7}, desc = "NPC with tools!"},
+		{mark = 13, pos = {x = 32343, y = 32229, z = 7}, desc = "Bank"},
+		{mark = 10, pos = {x = 32346, y = 32224, z = 7}, desc = "Depot"},
+		{mark = 8, pos = {x = 32362, y = 32198, z = 7}, desc = "Equipment Store"},
+		{mark = 15, pos = {x = 32342, y = 32282, z = 7}, desc = "South Gate"},
+		{mark = 17, pos = {x = 32283, y = 32265, z = 7}, desc = "West Gate"},
+		{mark = 16, pos = {x = 32431, y = 32225, z = 7}, desc = "East Gate"},
+		{mark = 14, pos = {x = 32368, y = 32178, z = 7}, desc = "North Gate"},
 	}
 }
 

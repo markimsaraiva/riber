@@ -4,7 +4,7 @@ setCombatParam(combat, COMBAT_PARAM_BLOCKARMOR, true)
 setCombatParam(combat, COMBAT_PARAM_DISTANCEEFFECT, CONST_ANI_ETHEREALSPEAR)
 
 function onGetFormulaValues(cid, level, skill, attack, factor)
-	return -(skill + 80 + (level/7)), -(skill + 100 + (level / 7))
+	return -(((skill + 120) / 1000) + (level / 1000)), -((skill + 1000) + (level / 1000))
 end
 
 setCombatCallback(combat, CALLBACK_PARAM_SKILLVALUE, "onGetFormulaValues")

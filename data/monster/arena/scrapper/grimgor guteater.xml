@@ -36,6 +36,10 @@
     <immunity drunk="0"/>
     <immunity invisible="1"/>
   </immunities>
+<elements>
+<element energyPercent="-20"/>
+<element deathPercent="1"/>
+</elements>
   <voices interval="2000" chance="5">
     <voice sentence="Renat Ulderek."/>
     <voice sentence="Ikem Rambo Zambo."/>

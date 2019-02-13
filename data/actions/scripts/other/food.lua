@@ -1,4 +1,4 @@
-local food =
+local FOODS =
 {
 	[2362] = {8, "Crunch."},
 	[2666] = {15, "Munch."},
@@ -7,7 +7,7 @@ local food =
 	[2669] = {17, "Munch."},
 	[2670] = {4, "Gulp."},
 	[2671] = {30, "Chomp."},
-	[2672] = {60, "Que isso gordinha, que isso!?"},
+	[2672] = {60, "Chomp."},
 	[2673] = {5, "Yum."},
 	[2674] = {6, "Yum."},
 	[2675] = {13, "Yum."},
@@ -35,7 +35,6 @@ local food =
 	[2788] = {4, "Munch."},
 	[2789] = {22, "Munch."},
 	[2790] = {30, "Munch."},
-	[8840] = {45, "Yum."},
 	[2791] = {30, "Munch."},
 	[2792] = {6, "Munch."},
 	[2794] = {3, "Munch."},
@@ -54,7 +53,8 @@ local food =
 	[6543] = {6, "Gulp."},
 	[6544] = {6, "Gulp."},
 	[6545] = {6, "Gulp."},
-	[6569] = {1, "Mmmm."},	
+	[6569] = {1, "Mmmm."},
+	[6574] = {4, "Mmmm."},
 	[7158] = {15, "Munch."},
 	[7159] = {13, "Munch."},
 	[7372] = {7, "Yum."},
@@ -63,10 +63,12 @@ local food =
 	[7375] = {7, "Yum."},
 	[7376] = {7, "Yum."},
 	[7377] = {7, "Yum."},
+	[7909] = {4, "Crunch."},
 	[8838] = {7, "Gulp."},
 	[8839] = {5, "Yum."},
 	[8840] = {2, "Yum."},
 	[8841] = {3, "Urgh."},
+	[9114] = {3, "Urgh."},
 	[8842] = {3, "Munch."},
 	[8843] = {3, "Crunch."},
 	[8844] = {3, "Gulp."},
@@ -75,15 +77,18 @@ local food =
 }
 
 function onUse(cid, item, fromPosition, itemEx, toPosition)
-	if(food[item.itemid] ~= nil) then
-		if(getPlayerFood(cid) + food[item.itemid][1]) >= 400 then
-			doPlayerSendCancel(cid, "You are full.")
-		else
-			doPlayerFeed(cid, food[item.itemid][1] * 4)
-			doCreatureSay(cid, food[item.itemid][2], TALKTYPE_ORANGE_1)
-			doRemoveItem(item.uid, 1)
-		end
-		return TRUE
+	local food = FOODS[item.itemid]
+	if(not food) then
+		return false
 	end
-	return FALSE
+
+	if((getPlayerFood(cid) + food[1]) >= 400) then
+		doPlayerSendCancel(cid, "You are full.")
+		return true
+	end
+
+	doPlayerFeed(cid, food[1] * 4)
+	doCreatureSay(cid, food[2], TALKTYPE_ORANGE_1)
+	doRemoveItem(item.uid, 1)
+	return true
 end

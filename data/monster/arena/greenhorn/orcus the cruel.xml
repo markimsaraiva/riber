@@ -20,4 +20,8 @@
 		<immunity name="fire"/>
 		<immunity name="invisible"/>
 	</immunities>
+                   <elements>
+                                     <element energyPercent="-20"/>
+                                     <element earthPercent="20"/>
+                  </elements>
 </monster>

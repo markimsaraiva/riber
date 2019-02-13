@@ -2,7 +2,7 @@ function onThink(interval, lastExecution)
   -- Configurações
     local cor = 20 -- Defina a cor da mensagem (22 = branco)
     local mensagens ={
-[[Deseja fazer uma doação? Acesse agora o site http://ribeirot.servegame.com/]]
+[[Deseja fazer uma doação? Acesse agora o site hellbaiak.sytes.net]]
 }
 
   -- Fim de Configurações

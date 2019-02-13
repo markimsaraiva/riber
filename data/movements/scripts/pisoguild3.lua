@@ -6,7 +6,5 @@ doTeleportThing(cid, fromPosition, true)
 doSendMagicEffect(getThingPos(cid), 2)
 doPlayerSendCancel(cid,"Somente level " .. level .. " ou mais podem passar aqui.")
 end
-
-
-return true
+return TRUE
 end

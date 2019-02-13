@@ -42,6 +42,10 @@
 		<immunity name="paralyze"/>
 		<immunity name="invisible"/>
 	</immunities>
+                  <elements>	    
+		<element deathPercent="-1"/>		
+		<element firePercent="-40"/>
+	</elements>
 	<summons maxSummons="3">
 		<summon name="Ghoul" interval="2000" chance="20"/>
 	</summons>

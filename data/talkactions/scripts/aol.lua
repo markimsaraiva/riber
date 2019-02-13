@@ -1,11 +1,9 @@
 function onSay(cid, words, param)
-if doPlayerRemoveMoney(cid, 20000) == TRUE then
-local bp = doPlayerAddItem(cid, 2173, 1)
-local efeitos = math.random(34, 54)
-doSendMagicEffect(getCreaturePosition(cid), efeitos)
-doCreatureSay(cid, "Voce comprou um AOL", TALKTYPE_ORANGE_1)
+if doPlayerRemoveMoney(cid, 50000) == TRUE then
+doPlayerAddItem(cid, 2173, 1)
 else
-doPlayerSendTextMessage(cid, 22, "Você precisa de dinheiro para comprar um aol")
+doPlayerSendCancel(cid, 'You don\'t have enough money.')
 doSendMagicEffect(getPlayerPosition(cid), CONST_ME_POFF)
 end
+return TRUE
 end

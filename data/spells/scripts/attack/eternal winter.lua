@@ -7,9 +7,5 @@ local area = createCombatArea(AREA_CROSS5X5)
 setCombatArea(combat, area)
 
 function onCastSpell(cid, var)
-
-if isMonster(cid) then
-                doCreatureSay(cid, "exevo gran mas frigo", TALKTYPE_MONSTER)
-end
 	return doCombat(cid, combat, var)
 end

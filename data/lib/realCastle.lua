@@ -110,7 +110,6 @@ realCastle.removePlayers = function()
 end
 
 realCastle.open = function()
-    doBroadcastMessage("[New Castle] A batalhar para conquistar o New Castle começou! Boa sorte a Todas as Guilds!")
 	setGlobalStorageValue(realCastle.open_storage,1)
 	setGlobalStorageValue(realCastle.guild_storage,-1)
 	realCastle.removePlayers()

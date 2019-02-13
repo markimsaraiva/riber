@@ -7,9 +7,9 @@ local cf = {
 
 function onTime ()
 	doItemSetAttribute(doCreateTeleport(1387, cf.teleportToPosition, cf.teleportPosition), "aid", 1747)
-	doBroadcastMessage("[Firestorm] O FireStorm event vai comecar em 3 minutos! O teleport sera fechado quando o evento comecar!", MESSAGE_STATUS_WARNING)
+	doBroadcastMessage("FireStorm event starting in 3 minutes! The teleport will be closed when the event start!", MESSAGE_STATUS_WARNING)
 	setGlobalStorageValue(17, 0)
-	addEvent(startEventF, 1 * 60 * 1000)
+	addEvent(startEventF, 3 * 60 * 1000)
 	return true
 end
 
@@ -17,9 +17,9 @@ function startEventF ()
 	doRemoveItem(getTileItemById(cf.teleportPosition, 1387).uid, 1)
 	if getGlobalStorageValue(17) > 0 then
 		addEvent(doRepeatCheckFireStorm, 5 * 1000)
-		doBroadcastMessage("[Firestorm] Boa sorte no evento FireStorm galera! O teleport foi fechado!", MESSAGE_STATUS_WARNING)
+		doBroadcastMessage("Good luck in the FireStorm event people! The teleport has closed!", MESSAGE_STATUS_WARNING)
 	else
-		doBroadcastMessage('[FireStorm] O evento FireStorm nao comecou porque nao havia a quantidade de Players suficiente!')
+		doBroadcastMessage('FireStorm Event hasn\'t started beacuse there were not enough players.')
 	end
 end
 
@@ -56,10 +56,9 @@ function doRepeatCheckFireStorm ()
 			doCreatureAddMana(playerTable[1], getCreatureMaxMana(playerTable[1]) - getCreatureMana(playerTable[1]))
 			doTeleportThing(playerTable[1], getTownTemplePosition(getPlayerTown(playerTable[1])), true)
 			doItemSetAttribute(doPlayerAddItem(playerTable[1], 7371), "name", "trophy " .. getCreatureName(playerTable[1]) .. "! Congratulations! Winner a fire event")
-			doPlayerAddItem(playerTable[1],9971,10)
-			doPlayerAddItem(playerTable[1],6527,100)
-			doPlayerAddItem(playerTable[1],12695,10)
-			doBroadcastMessage('O evento FireStorm terminou. O vencedor e ' .. getCreatureName(playerTable[1]) .. '. Congratulations.')
+			doPlayerAddItem(playerTable[1],9971,50)
+			doPlayerAddItem(playerTable[1],6527,200)
+			doBroadcastMessage('FireStorm Event has finished. The winner is ' .. getCreatureName(playerTable[1]) .. '. Congratulations.')
 			setGlobalStorageValue(17, 0)
 			
 			x, y = 1, 1
@@ -83,7 +82,7 @@ function doRepeatCheckFireStorm ()
 			
 			x = x + 1
 		else
-			doBroadcastMessage('Nao houve vencedor no FireStorm Event')
+			doBroadcastMessage('No one have won in Fire Storm Event.')
 			setGlobalStorageValue(17, 0)
 			x, y = 1, 1
 		end

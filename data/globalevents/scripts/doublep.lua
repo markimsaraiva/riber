@@ -5,7 +5,7 @@ function onThink(interval, lastExecution)
 [[
 AJUDE O SERVIDOR A MANTER-SE ONLINE COM A SUA DOAÇÃO!
 
-Entre em nosso site Ribeirot.servegame.com]]
+Entre em nosso site www.baiaknew.top]]
 }
 
   -- Fim de Configurações

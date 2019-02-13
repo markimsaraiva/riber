@@ -1,6 +1,6 @@
 local config = {
 	days = 90,
-	cost = 5000,
+	cost = 10000,
 	maxDays = 360
 }
 

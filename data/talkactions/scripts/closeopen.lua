@@ -5,10 +5,10 @@ function onSay(cid, words, param, channel)
 	end
 
 	local str = "Failed to " .. (state == GAMESTATE_CLOSED and "close" or "open") .. " server."
-	if(doSetGameState(state)) then
+	if(doSetGameState(state) ~= LUA_ERROR) then
 		str = "Server has been " .. (state == GAMESTATE_CLOSED and "closed" or "opened") .. " successfully."
 	end
 
 	doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, str)
-	return true
+	return TRUE
 end

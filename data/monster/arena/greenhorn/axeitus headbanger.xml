@@ -15,4 +15,7 @@
 		</attack>
 	</attacks>
 	<defenses armor="15" defense="17"/>
+                  <elements>
+                 <element firePercent="5"/>
+                 </elements>
 </monster>

@@ -6,6 +6,6 @@
 ]]
 
 function onTime()
-	realTeamBattle.open(8)
+	realTeamBattle.open(66)
 	return true
 end

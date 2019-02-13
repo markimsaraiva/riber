@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Darakan the Executioner" nameDescription="darakan the executioner" race="blood" experience="1600" speed="900" manacost="0">
-  <health now="130000" max="130000"/>
+<monster name="Darakan the Executioner" nameDescription="darakan the executioner" race="blood" experience="1600" speed="255" manacost="0">
+  <health now="3500" max="3500"/>
   <look type="255" head="78" body="114" legs="114" feet="114" corpse="7349"/>
   <targetchange interval="2000" chance="5"/>
   <strategy attack="100" defense="0"/>
@@ -19,13 +19,13 @@
     <flag runonhealth="0"/>
   </flags>
   <attacks>
-    <attack name="melee" interval="1000" skill="180" attack="220"/>
-    <attack name="physical" interval="1000" chance="18" min="-872" max="-1670"> 
+    <attack name="melee" interval="2000" skill="70" attack="75"/>
+    <attack name="physical" interval="2000" chance="18" min="-72" max="-170"> 
 	    <attribute key="shootEffect" value="spear"/>
     </attack>
   </attacks>
   <defenses armor="30" defense="31">
-	<defense name="healing" interval="6000" chance="65" min="200" max="250">
+	<defense name="healing" interval="6000" chance="65" min="20" max="50">
 		<attribute key="areaEffect" value="blueshimmer"/>
 	</defense>
   </defenses>
@@ -35,15 +35,15 @@
   </elements>
   <immunities>
     <immunity invisible="1"/>
-	<immunity paralyze="1"/>
   </immunities>
+<elements>
+<element icePercent="-1"/>
+<element firePercent="1"/>
+	</elements>
   <voices interval="4000" chance="15">
     <voice sentence="FIGHT LIKE A BARBARIAN!"/>
     <voice sentence="VICTORY IS MINE!"/>
     <voice sentence="I AM your father!"/>
     <voice sentence="To be the man you have to beat the man!"/>
   </voices>
-  <script>
-<event name="teleportarena1"/>
-</script>
 </monster>

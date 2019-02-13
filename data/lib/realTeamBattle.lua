@@ -10,7 +10,7 @@ realTeamBattle = {
 	countStorage = 722385,
 	teamStorage = 722386,
 	checkStorage = 722387,
-	rewards = {{6527,120}, {9971,10}, {12695,5}},
+	rewards = {{6527,120}, {9971,50}},
 
 	redTeam = {name = "Red Assassins", startPos = {x = 594, y = 784, z = 7}, storage = 1},
 	blueTeam = {name = "Blue Norsemen", startPos = {x = 654, y = 784, z = 7}, storage = 2},
@@ -43,7 +43,7 @@ realTeamBattle = {
 	{x = 595, y = 821, z = 7}
 	},
 
-	teleportPosition = {x = 162, y = 43, z = 7},
+	teleportPosition = {x = 162, y = 45, z = 7},
 	exit = {x = 155, y = 54, z = 7},
 	ips = {}
 
@@ -129,9 +129,8 @@ function realTeamBattle.winEvent(team,ammount)
 	local teams = {"Red Assassins","Blue Norsemen","Black Hunters","Green Beggars"}
 	for _, pid in pairs(realTeamBattle.getPlayers()) do
 		if getPlayerStorageValue(pid,realTeamBattle.teamStorage) == team then
-			doPlayerAddItem(pid, 6527, 100)
-			doPlayerAddItem(pid, 12695, 5)
-			doPlayerSendTextMessage(pid,25,"[Team Battle] Parabéns por vencer o evento, você ganhou 100 Event Coins!")
+			doPlayerAddItem(pid, 6527, 120)
+			doPlayerSendTextMessage(pid,25,"[Team Battle] Parabéns por vencer o evento, você ganhou 80 Event Coins!")
 		end
 		realTeamBattle.cleanPlayer(pid)
 		doTeleportThing(pid,realTeamBattle.exit)
@@ -139,7 +138,7 @@ function realTeamBattle.winEvent(team,ammount)
 	setGlobalStorageValue(realTeamBattle.countStorage,0)
 	setGlobalStorageValue(realTeamBattle.checkStorage,-1)
 	realTeamBattle.createStones()
-	doBroadcastMessage("[Team Battle] "..ammount.." jogadores do time "..teams[team].." venceram o evento e ganharam 100 Event Coins!")
+	doBroadcastMessage("[Team Battle] "..ammount.." jogadores do time "..teams[team].." venceram o evento e ganharam 120 Event Coins e 50kk!")
 end
 
 function realTeamBattle.empate(team1,team2)
@@ -147,9 +146,8 @@ function realTeamBattle.empate(team1,team2)
 	for _, pid in pairs(realTeamBattle.getPlayers()) do
 		local sto = getPlayerStorageValue(pid,realTeamBattle.teamStorage)
 		if sto == team1 or sto == team2 then
-			doPlayerAddItem(pid, 6527, 50)
-			doPlayerAddItem(pid, 12695, 2)
-			doPlayerSendTextMessage(pid,25,"[Team Battle] Parabéns por vencer o evento, você ganhou 50 Event Coins!")
+			doPlayerAddItem(pid, 6527, 120)
+			doPlayerSendTextMessage(pid,25,"[Team Battle] Parabéns por vencer o evento, você ganhou 120 Event Coins e 50kk!")
 		end
 		realTeamBattle.cleanPlayer(pid)
 		doTeleportThing(pid,realTeamBattle.exit)
@@ -157,7 +155,7 @@ function realTeamBattle.empate(team1,team2)
 	setGlobalStorageValue(realTeamBattle.countStorage,0)
 	setGlobalStorageValue(realTeamBattle.checkStorage,-1)
 	realTeamBattle.createStones()
-	doBroadcastMessage("[Team Battle] O evento empatou ficando apenas um jogador do time "..teams[team1].." e um do time "..teams[team2]..". Cada um deles ganhou 50 Event Coins!")
+	doBroadcastMessage("[Team Battle] O evento empatou ficando apenas um jogador do time "..teams[team1].." e um do time "..teams[team2]..". Cada um deles ganhou 120 Event Coins e 50kk!")
 end
 
 function realTeamBattle.checkTeams()
