@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mod name="New_Items" version="1.0" author="Raell" contact="fishingmap.eu" enabled="yes">
+	<item id="2196" article="a" name="amulet of never-ending loss">
+		<attribute key="weight" value="420"/>
+		<attribute key="slotType" value="necklace"/>
+		<attribute key="charges" value="-1"/>
+		<attribute key="preventDrop" value="1"/>
+
+	</item>
+	<item id="2198" article="an" name="elven amulet">
+		<attribute key="weight" value="270"/>
+		<attribute key="slotType" value="necklace"/>
+		<attribute key="charges" value="1"/>
+		<attribute key="showcharges" value="1"/>
+		<attribute key="absorbPercentEarth" value="90"/>
+		<attribute key="showattributes" value="1"/>
+	</item>
+		<item id="4569" article="an" name="elven amulet of loss">
+		<attribute key="weight" value="270"/>
+		<attribute key="slotType" value="necklace"/>
+		<attribute key="charges" value="1"/>
+		<attribute key="preventDrop" value="1"/>
+		<attribute key="showcharges" value="1"/>
+		<attribute key="absorbPercentEarth" value="90"/>
+		<attribute key="showattributes" value="1"/>
+		<attribute key="decayTo" value="2173"/>
+	</item>
+	<item id="9932" article="a" name="firewalker boots">
+		<attribute key="description" value="Free ultimate light and speed."/>
+		<attribute key="weight" value="950"/>
+		<attribute key="armor" value="15"/>
+		<attribute key="slotType" value="feet"/>
+		<attribute key="absorbPercentFire" value="10"/>
+		<attribute key="transformDeEquipTo" value="9933"/>
+		<attribute key="speed" value="80"/>
+		<attribute key="healthGain" value="1000"/>
+		<attribute key="healthTicks" value="2000"/>
+		<attribute key="manaGain" value="1000"/>
+		<attribute key="manaTicks" value="2000"/>
+	</item>
+	<item id="9933" article="a" name="firewalker boots">
+		<attribute key="description" value="Free ultimate light and speed."/>
+		<attribute key="weight" value="950"/>
+		<attribute key="armor" value="15"/>
+		<attribute key="slotType" value="feet"/>
+		<attribute key="absorbPercentFire" value="10"/>
+		<attribute key="speed" value="80"/>
+		<attribute key="transformEquipTo" value="9932"/>
+	</item>
+	<item id="7708" article="a" name="manashield ring">
+		<attribute key="weight" value="40"/>
+		<attribute key="slotType" value="ring"/>
+		<attribute key="manashield" value="1"/>
+			</item>
+	<item id="2357" article="a" name="trial manashield ring">
+		<attribute key="weight" value="40"/>
+		<attribute key="slotType" value="ring"/>
+		<attribute key="manashield" value="1"/>
+		<attribute key="decayTo" value="0"/>
+		<attribute key="transformDeEquipTo" value="4441"/>
+		<attribute key="duration" value="12000"/>
+		<attribute key="showduration" value="1"/>
+	</item>
+		<item id="4441" article="a" name="trial manashield ring">
+		<attribute key="weight" value="80"/>
+		<attribute key="slotType" value="ring"/>
+		<attribute key="transformEquipTo" value="2357"/>
+		<attribute key="stopduration" value="1"/>
+		<attribute key="showduration" value="1"/>
+	</item>
+	<item id="2173" article="an" name="amulet of loss">
+		<attribute key="weight" value="420"/>
+		<attribute key="slotType" value="necklace"/>
+		<attribute key="charges" value="1"/>
+		<attribute key="preventDrop" value="1"/>
+	</item>
+	<item id="6119" article="a" name="teleport scroll">
+		<attribute key="weight" value="120"/>
+	</item>
+	<item id="2270" article="a" name="mana rune">
+		<attribute key="weight" value="120"/>
+	</item>
+	<item id="2283" article="a" name="knight mana rune">
+		<attribute key="weight" value="120"/>
+	</item>
+	<item id="2127" article="a" name="bangle of death">
+		<attribute key="weight" value="170"/>
+		<attribute key="slotType" value="ring"/>
+	</item>
+	<item id="2453" article="an" name="arcane staff">
+		<attribute key="weight" value="4000"/>
+		<attribute key="defense" value="20"/>
+		<attribute key="attack" value="0"/>
+		<attribute key="range" value="6"/>
+		<attribute key="weaponType" value="club"/>
+	</item>
+	<item id="7426" article="a" name="maple staff">
+		<attribute key="weight" value="3500"/>
+		<attribute key="defense" value="25"/>
+		<attribute key="attack" value="0"/>
+		<attribute key="range" value="6"/>
+		<attribute key="weaponType" value="club"/>
+	</item>
+	<item id="7958" article="a" name="deadly wand">
+		<attribute key="weight" value="3500"/>
+		<attribute key="defense" value="30"/>
+		<attribute key="attack" value="0"/>
+		<attribute key="range" value="6"/>
+		<attribute key="weaponType" value="club"/>
+	</item>
+
+
+	<item id="9971" article="a" name="gold bar">
+		<attribute key="weight" value="200"/>
+		<attribute key="worth" value="1000000"/>
+	</item>
+	<item id="9743" article="an" name="upgrade crystal">
+		<attribute key="weight" value="10"/>
+	</item>
+	<item id="8306" article="an" name="attack upgrade crystal" override="yes">
+		<attribute key="weight" value="10"/>
+	</item>
+		<item id="4567" article="an" name="armor upgrade crystal">
+		<attribute key="weight" value="10"/>
+	</item>
+		<item id="4455" article="a" name="defense upgrade crystal">
+		<attribute key="weight" value="10"/>
+	</item>
+	<item id="7722" article="an" name="experience scroll">
+	<attribute key="description" value="Use to gain free experience, level depending!"/>
+		<attribute key="weight" value="100"/>
+	</item>
+
+	<item id="2469" name="immortal knights plate legs">
+	<attribute key="description" value="These heavy things just prevent leg amputations."/>
+		<attribute key="weight" value="4800"/>
+		<attribute key="armor" value="50"/>
+		<attribute key="skillSword" value="7"/>
+		<attribute key="skillClub" value="7"/>
+		<attribute key="skillAxe" value="7"/>
+		<attribute key="slotType" value="legs"/>
+	</item>
+		<item id="4758" article="an" name="immortal knights plate armor">
+		<attribute key="description" value="This is said to protect you from death itself."/>
+		<attribute key="weight" value="11400"/>
+		<attribute key="armor" value="50"/>
+		<attribute key="skillSword" value="7"/>
+		<attribute key="skillClub" value="7"/>
+		<attribute key="skillAxe" value="7"/>
+		<attribute key="slotType" value="body"/>
+	</item>
+	<item id="2506" article="an" name="immortal knights headpiece">
+		<attribute key="description" value="Take this off, and you'll scare your opponents to death."/>
+		<attribute key="weight" value="6000"/>
+		<attribute key="armor" value="50"/>
+		<attribute key="skillSword" value="7"/>
+		<attribute key="skillClub" value="7"/>
+		<attribute key="skillAxe" value="7"/>
+		<attribute key="slotType" value="head"/>
+	</item>
+	<item id="2517" article="an" name="immortal archers shield">
+		<attribute key="description" value="Blessed by the gods. Rumored to increase magic damage."/>
+		<attribute key="skillDist" value="7"/>
+		<attribute key="weight" value="5400"/>
+		<attribute key="defense" value="60"/>
+		<attribute key="weaponType" value="shield"/>
+	</item>
+		<item id="4759" article="an" name="immortal knights shield">
+		<attribute key="description" value="Forged by the Cold Hard One for his long lost love Celestine."/>
+		<attribute key="weight" value="8400"/>
+		<attribute key="defense" value="75"/>
+		<attribute key="skillSword" value="7"/>
+		<attribute key="skillClub" value="7"/>
+		<attribute key="skillAxe" value="7"/>
+		<attribute key="weaponType" value="shield"/>
+	</item>
+		<item id="4756" article="an" name="immortal mages robe">
+		<attribute key="maxmanapercent" value="107"/>
+		<attribute key="description" value="Like a rock. Built mage tough."/>
+		<attribute key="weight" value="2200"/>
+		<attribute key="armor" value="15"/>
+		<attribute key="slotType" value="body"/>
+	</item>
+	<item id="2662" article="an" name="immortal mages hat">
+		<attribute key="weight" value="750"/>
+		<attribute key="armor" value="15"/>
+		<attribute key="slotType" value="head"/>
+		<attribute key="maxmanapercent" value="107"/>
+		<attribute key="description" value="Barely protects anything, made for looks."/>
+	</item>
+		<item id="4757" name="immortal knights greaves">
+		<attribute key="description" value="A knight quick on their feet is a knight impossible to beat."/>
+		<attribute key="weight" value="900"/>
+		<attribute key="armor" value="25"/>
+		<attribute key="skillSword" value="7"/>
+		<attribute key="slotType" value="feet"/>
+	</item>
+	<item id="7461" article="an" name="immortal archers helm">
+		<attribute key="weight" value="5100"/>
+		<attribute key="armor" value="30"/>
+		<attribute key="description" value="Warning: Could restrict your line of sight!"/>
+		<attribute key="slotType" value="head"/>
+		<attribute key="skillDist" value="7"/>
+		</item>
+	<item id="7730" name="immortal mages legs">
+		<attribute key="weight" value="1800"/>
+		<attribute key="armor" value="15"/>
+		<attribute key="slotType" value="legs"/>
+		<attribute key="maxmanapercent" value="107"/>
+		<attribute key="description" value="Light as a feather to provide quick and easy mobility."/>
+	</item>
+	<item id="7735" article="an" name="immortal mages wand">
+		<attribute key="description" value="Unrivaled damage is expelled from this wand."/>
+		<attribute key="maxmanapercent" value="107"/>
+		<attribute key="manaGain" value="200"/>
+		<attribute key="manaTicks" value="2000"/>
+		<attribute key="weight" value="3500"/>
+		<attribute key="defense" value="30"/>
+		<attribute key="attack" value="0"/>
+		<attribute key="range" value="6"/>
+		<attribute key="weaponType" value="club"/>
+	</item>
+	<item id="7894" name="immortal archers legs">
+		<attribute key="weight" value="1900"/>
+		<attribute key="armor" value="30"/>
+		<attribute key="slotType" value="legs"/>
+		<attribute key="description" value="Heated pads create just enough heat to keep any archer warm during battle."/>
+		<attribute key="skillDist" value="7"/>
+	</item>
+	<item id="8851" article="a" name="immortal archers crossbow">
+		<attribute key="weight" value="12000" />
+		<attribute key="slotType" value="one-handed" />
+		<attribute key="weaponType" value="distance" />
+		<attribute key="ammoType" value="" />
+		<attribute key="range" value="15" />
+		<attribute key="hitChance" value="100" />
+		<attribute key="attack" value="300" />
+	</item>
+	<item id="8886" article="an" name="immortal archers armor">
+		<attribute key="armor" value="30"/>
+		<attribute key="slotType" value="body"/>
+		<attribute key="weight" value="7500"/>
+		<attribute key="description" value="Comes with a built-in quiver around the back!"/>
+		<attribute key="skillDist" value="7"/>
+	</item>
+	<item id="8918" article="an" name="immortal spellbook of destruction">
+		<attribute key="description" value="Dark powers eminate from this spellbook."/>
+		<attribute key="weight" value="2850"/>
+		<attribute key="maxmanapercent" value="107"/>
+		<attribute key="defense" value="16"/>
+		<attribute key="weaponType" value="shield"/>
+	</item>	
+		<item id="2640" article="a" name="pair of soft boots">
+		<attribute key="weight" value="800"/>
+		<attribute key="slotType" value="feet"/>
+		<attribute key="decayTo" value="10021"/>
+		<attribute key="transformDeEquipTo" value="6132"/>
+		<attribute key="duration" value="14400"/>
+		<attribute key="healthGain" value="1000"/>
+		<attribute key="healthTicks" value="2000"/>
+		<attribute key="manaGain" value="1000"/>
+		<attribute key="manaTicks" value="2000"/>
+		<attribute key="showduration" value="1"/>
+	</item>
+		<item id="2431" article="a" name="diamond slicer">
+		<attribute key="description" value="An axe of great prestige."/>
+		<attribute key="weight" value="9900"/>
+		<attribute key="defense" value="30"/>
+		<attribute key="attack" value="95"/>
+		<attribute key="weaponType" value="axe"/>
+	</item>
+		<item id="7420" article="a" name="chaotic axe">
+		<attribute key="description" value="This axe is stained with the blood of many evil creatures."/>
+		<attribute key="weight" value="5900"/>
+		<attribute key="defense" value="35"/>
+		<attribute key="attack" value="195"/>
+		<attribute key="weaponType" value="axe"/>
+	</item>
+		<item id="2415" article="a" name="demonic waraxe">
+		<attribute key="description" value="It is said to have been cursed by the great archmage Pacyfus himself."/>
+		<attribute key="weight" value="9000"/>
+		<attribute key="defense" value="45"/>
+		<attribute key="attack" value="345"/>
+		<attribute key="weaponType" value="axe"/>
+	</item>
+		<item id="2421" article="a" name="diamond smasher">
+		<attribute key="description" value="Imbued by the Gods of Tibia."/>
+		<attribute key="weight" value="12500"/>
+		<attribute key="defense" value="25"/>
+		<attribute key="attack" value="110"/>
+		<attribute key="weaponType" value="club"/>
+	</item>
+		<item id="7437" article="a" name="chaotic mace">
+		<attribute key="description" value="This mace glows right before striking a victim."/>
+		<attribute key="weight" value="2100"/>
+		<attribute key="defense" value="30"/>
+		<attribute key="attack" value="210"/>
+		<attribute key="weaponType" value="club"/>
+	</item>
+		<item id="7415" article="a" name="demonic warmace">
+		<attribute key="description" value="For those powerful enough to wield such a weapon, true power will be gained"/>
+		<attribute key="weight" value="7800"/>
+		<attribute key="defense" value="40"/>
+		<attribute key="attack" value="360"/>
+		<attribute key="weaponType" value="club"/>
+	</item>
+	<item id="2400" article="a" name="diamond cutter">
+		<attribute key="description" value="It can slice clean through a diamond."/>
+		<attribute key="weight" value="4200"/>
+		<attribute key="defense" value="35"/>
+		<attribute key="attack" value="90"/>
+		<attribute key="weaponType" value="sword"/>
+	</item>
+	<item id="2408" article="a" name="chaotic sword">
+		<attribute key="description" value="Wreaks havoc on all who oppose it."/>
+		<attribute key="weight" value="6400"/>
+		<attribute key="defense" value="40"/>
+		<attribute key="attack" value="190"/>
+		<attribute key="weaponType" value="sword"/>
+	</item>
+	<item id="7390" article="the" name="demonic warblade">
+		<attribute key="description" value="Unimaginable powers flow through this sword."/>	
+		<attribute key="weight" value="5000"/>
+		<attribute key="defense" value="50"/>
+		<attribute key="attack" value="340"/>
+		<attribute key="weaponType" value="sword"/>
+	</item>
+	<item id="9518" article="a" name="frozenhell crest"/>
+	<item id="9520" article="a" name="frozenhell crest"/>
+	
+
+	<item id="10223" article="the" name="fishmaster deluxe c5000">
+		<attribute key="weight" value="7500"/>
+		<attribute key="description" value="Professional fishing rod."/>
+		<attribute key="skillFish" value="20"/>
+	</item>
+	<item id="9020" article="an" name="event token" override="yes">
+		<attribute key="description" value="Collect these to redeem prizes from the event shop."/>
+		<attribute key="weight" value="5"/>
+	</item>
+
+		<item id="7863" article="a" name="immortal knights waraxe">
+		<attribute key="description" value="The original owner of this axe is said to be the great Kenneth himself."/>
+		<attribute key="weight" value="6150"/>
+		<attribute key="defense" value="45"/>
+		<attribute key="attack" value="505"/>
+		<attribute key="weaponType" value="axe"/>
+		<attribute key="maxhealthpercent" value="105"/>
+		<attribute key="healthGain" value="200"/>
+		<attribute key="healthTicks" value="2000"/>
+	</item>
+			<item id="7422" name="immortal knights warhammer">
+		<attribute key="weight" value="9200"/>
+		<attribute key="description" value="The original owner of this hammer is said to be the great Jason himself."/>
+		<attribute key="defense" value="40"/>
+		<attribute key="attack" value="510"/>
+		<attribute key="weaponType" value="club"/>
+		<attribute key="maxhealthpercent" value="105"/>
+		<attribute key="healthGain" value="200"/>
+		<attribute key="healthTicks" value="2000"/>
+	</item>
+		<item id="7405" article="an" name="immortal knights longsword">
+		<attribute key="description" value="The original owner of this sword is said to be the great Menoxcide himself."/>
+		<attribute key="weight" value="7200"/>
+		<attribute key="defense" value="50"/>
+		<attribute key="attack" value="500"/>
+		<attribute key="maxhealthpercent" value="105"/>
+		<attribute key="healthGain" value="200"/>
+		<attribute key="healthTicks" value="2000"/>
+		<attribute key="weaponType" value="sword"/>
+	</item>
+
+<!--Knights Trial Donation-->	
+	<item id="4450" article="an" name="immortal knights shield">
+		<attribute key="description" value="Bind this item with another to increase its defense."/>
+		<attribute key="weight" value="6000"/>
+		<attribute key="maxhealthpercent" value="105"/>
+		<attribute key="healthGain" value="200"/>
+		<attribute key="healthTicks" value="2000"/>
+		<attribute key="defense" value="0"/>
+		<attribute key="weaponType" value="shield"/>
+	</item>
+	<item id="4451" article="an" name="immortal knights headpiece">
+		<attribute key="description" value="Bind this item with another to increase its armor."/>
+		<attribute key="weight" value="6000"/>
+		<attribute key="armor" value="0"/>
+		<attribute key="maxhealthpercent" value="105"/>
+		<attribute key="healthGain" value="200"/>
+		<attribute key="healthTicks" value="2000"/>
+		<attribute key="slotType" value="head"/>
+	</item>
+	<item id="4452" article="an" name="immortal knights plate armor">
+		<attribute key="description" value="Bind this item with another to increase its armor."/>
+		<attribute key="weight" value="6000"/>
+		<attribute key="armor" value="0"/>
+		<attribute key="maxhealthpercent" value="105"/>
+		<attribute key="healthGain" value="200"/>
+		<attribute key="healthTicks" value="2000"/>
+		<attribute key="slotType" value="body"/>
+	</item>
+	<item id="4453" article="an" name="immortal knights plate legs">
+		<attribute key="description" value="Bind this item with another to increase its armor."/>
+		<attribute key="weight" value="6000"/>
+		<attribute key="armor" value="0"/>
+		<attribute key="maxhealthpercent" value="105"/>
+		<attribute key="healthGain" value="200"/>
+		<attribute key="healthTicks" value="2000"/>
+		<attribute key="slotType" value="legs"/>
+	</item>
+	
+<!--Paladins Trial Donation-->
+	<item id="4442" article="an" name="immortal archers shield">
+		<attribute key="description" value="Bind this item with another to increase its defense."/>
+		<attribute key="maxhealthpercent" value="103"/>
+		<attribute key="maxmanapercent" value="102"/>
+		<attribute key="healthGain" value="200"/>
+		<attribute key="healthTicks" value="2000"/>
+		<attribute key="weight" value="5400"/>
+		<attribute key="defense" value="0"/>
+		<attribute key="weaponType" value="shield"/>
+	</item>
+	<item id="4443" article="an" name="immortal archers helm">
+		<attribute key="description" value="Bind this item with another to increase its armor."/>
+		<attribute key="maxhealthpercent" value="103"/>
+		<attribute key="maxmanapercent" value="102"/>
+		<attribute key="healthGain" value="200"/>
+		<attribute key="healthTicks" value="2000"/>
+		<attribute key="weight" value="5400"/>
+		<attribute key="armor" value="0"/>
+		<attribute key="slotType" value="head"/>
+	</item>
+	<item id="4444" article="an" name="immortal archers armor">
+		<attribute key="description" value="Bind this item with another to increase its armor."/>
+		<attribute key="maxhealthpercent" value="103"/>
+		<attribute key="maxmanapercent" value="102"/>
+		<attribute key="healthGain" value="200"/>
+		<attribute key="healthTicks" value="2000"/>
+		<attribute key="weight" value="5400"/>
+		<attribute key="armor" value="0"/>
+		<attribute key="slotType" value="body"/>
+	</item>
+	<item id="4445" article="an" name="immortal archers legs">
+		<attribute key="description" value="Bind this item with another to increase its armor."/>
+		<attribute key="maxhealthpercent" value="103"/>
+		<attribute key="maxmanapercent" value="102"/>
+		<attribute key="healthGain" value="200"/>
+		<attribute key="healthTicks" value="2000"/>
+		<attribute key="weight" value="5400"/>
+		<attribute key="armor" value="0"/>
+		<attribute key="slotType" value="legs"/>
+	</item>
+	
+<!--Mages Trial Donation-->	
+	<item id="4446" article="an" name="immortal spellbook of destruction">
+		<attribute key="maxmanapercent" value="107"/>
+		<attribute key="manaGain" value="200"/>
+		<attribute key="manaTicks" value="2000"/>
+		<attribute key="description" value="Bind this item with another to increase its defense."/>
+		<attribute key="weight" value="2200"/>
+		<attribute key="defense" value="0"/>
+		<attribute key="weaponType" value="shield"/>
+	</item>
+	<item id="4447" article="an" name="immortal mages hat">
+		<attribute key="maxmanapercent" value="107"/>
+		<attribute key="manaGain" value="200"/>
+		<attribute key="manaTicks" value="2000"/>
+		<attribute key="description" value="Bind this item with another to increase its armor."/>
+		<attribute key="weight" value="750"/>
+		<attribute key="armor" value="0"/>
+		<attribute key="slotType" value="head"/>
+	</item>
+	<item id="4448" article="an" name="immortal mages robe">
+		<attribute key="maxmanapercent" value="107"/>
+		<attribute key="manaGain" value="200"/>
+		<attribute key="manaTicks" value="2000"/>
+		<attribute key="description" value="Bind this item with another to increase its armor."/>
+		<attribute key="weight" value="750"/>
+		<attribute key="armor" value="0"/>
+		<attribute key="slotType" value="body"/>
+	</item>
+	<item id="4449" article="an" name="immortal mages legs">
+		<attribute key="maxmanapercent" value="107"/>
+		<attribute key="manaGain" value="200"/>
+		<attribute key="manaTicks" value="2000"/>
+		<attribute key="description" value="Bind this item with another to increase its armor."/>
+		<attribute key="weight" value="750"/>
+		<attribute key="armor" value="0"/>
+		<attribute key="slotType" value="legs"/>
+	</item>
+	<item id="8887" article="a" name="frozen plate">
+		<attribute key="description" value="It's ability to absorb ice damage is beyond this world."/>
+		<attribute key="armor" value="20"/>
+		<attribute key="slotType" value="body"/>
+		<attribute key="weight" value="7500"/>
+		<attribute key="absorbPercentIce" value="25"/>
+	</item>
+	<item id="8474" article="a" name="flask of frost water">
+		<attribute key="weight" value="200"/>
+		<attribute key="description" value="CAUTION: The contents of this flask will freeze anything it comes in contact with."/>
+	</item>
+	<item id="9078" article="a" name="frozen flask">
+		<attribute key="weight" value="200"/>
+		<attribute key="description" value="You should bring this to Cameron, he may be able to refill this for you."/>
+	</item>
+		<item id="7440" article="a" name="paralysis potion">
+		<attribute key="weight" value="200"/>
+		<attribute key="description" value="Paralyzes everything on your screen and provides immunity to paralysis for 2 minutes."/>
+	</item>
+		<item id="7410" article="a" name="wand of deliverance">
+		<attribute key="weight" value="2300"/>
+		<attribute key="description" value="Grants 500 magic levels and other effects for 15 seconds. "/>
+	</item>
+		<item id="5953" article="a" name="herb of speed boost">
+	<attribute key="description" value="Increases weapon and player speed."/>
+		<attribute key="weight" value="850"/>
+	</item>
+		<item id="2529" article="a" name="shield of enforcement">
+		<attribute key="description" value="Blocks 100% damage for ten hits."/>
+		<attribute key="weight" value="4200"/>
+		<attribute key="defense" value="35"/>
+		<attribute key="weaponType" value="shield"/>
+	</item>
+		<item id="6536" article="a" name="tear of satan">
+                <attribute key="description" value="God And Cm And Gms Not Use Or Down Server ! [Only players]." />
+		<attribute key="weight" value="0"/>
+		<attribute key="slotType" value="ring"/>
+	</item>
+		<item id="7443" article="a" name="soul potion">
+		<attribute key="weight" value="200"/>
+		<attribute key="description" value="Instantly gain 200 soulpoints."/>
+	</item>
+		<item id="9707" article="a" name="unique ooze" />
+	
+
+</mod>
