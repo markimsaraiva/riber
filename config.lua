@@ -209,7 +209,7 @@
 	houseDataStorage = "binary-tilebased"
 	storeTrash = true
 	cleanProtectedZones = true
-	mapName = "Baiak New.otbm"
+	mapName = "Baiak Barao.otbm"
 	
 	mailMaxAttempts = 5
 	mailBlockPeriod = 30 * 60 * 1000
