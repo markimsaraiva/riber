@@ -1,0 +1,18 @@
+SCRIPTS
+- task point trocar por item
+- fazer uma quest/missão para liberar um X de vender itens por % mais caro q o NPC loot normal
+- sistem de boosted item igual ao do pokemon tibia
+- EVENTOS: BELLATRA, WAR300, LAST MAN STANDING, RUN EVENT, SNOWBALL WAR
+- LOTERIA, SUPER LOTERIA, FIDELIDADE
+- INVASÕES
+-TRADE OFFLINE
+- SISTEMA CAST, DUALWIELD, MINING, ESSENCE, AURA, CRAFTING.
+- WEAPONLVL
+- item temporario ( testar itens dnt)
+MAPA
+-
+-
+-
+-
+-
+-

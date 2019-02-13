@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Captain Cyron" script="dark chateau.lua" walkinterval="0" floorchange="0">
+<health now="100" max="100"/>
+<look type="145" head="95" body="95" legs="95" feet="132" addons="3"/>
+    <parameters>
+        <parameter key="module_travel" value="1"/>
+		<parameter key="message_greet" value="Hello |PLAYERNAME|. Eu posso te levar para a Quest Dark Chateau, Diga {Dark Chateau}. Isto ira te custar 5kk, Venha voar com a ESCURIDÃO!"/>
+        <parameter key="travel_destinations" value="quest dark chateau,1361,754,7,5000000."/>
+</parameters>
+</npc>

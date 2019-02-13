@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Guide Behil" script="data/npc/scripts/guide1.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="146" head="114" body="87" legs="85" feet="126" addons="0"/>
+ <parameters>
+        <parameter key="message_greet" value=" Ola |PLAYERNAME|! Voce quer auxilio de {marcacoes} no mapa? ?!"/>
+    </parameters>
+</npc>

@@ -1,0 +1,7 @@
+SISTEMA DE MONSTERINFO NO CREATURESCRIPTS
+QUE FAZ MATAR E JA VER QUANTO O CARA GANHA DE XP RANK SEMANAL
+SE ESTA TUDO BEM.
+
+
+-- coloquei /task para o simple task 4.0 vodkart
+--coloquei !task para o simple task 3.0 vodkart

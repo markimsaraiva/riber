@@ -1,0 +1,66 @@
+﻿SCRIPTS
+ANTES
+
+ACT
+ok - CARTA
+ok -BANANEIRA
+
+CREAT
+ok -MONSTER INFO (XPRANK SEMANAL XP MONSTRO)
+ok -OUTFIT VERIFICADOR ( PARA SITE E DB [AJEITAR NA DB]) 
+ok -fidelidade
+OK - GUILD SEMANAL (verificar msm ip AJEITAR NA DB E VER SE TA OK)
+OK - LOOT CORACAO
+OK - BUY ITENS DONATE
+OK - COMANDO EXTRA EXP
+OK - ORB EXP BONUS. COM COMANDOS.
+OK - COMANDO EXTRA EXP
+
+ - MAGNUS SYSTEM (AJEITAR TUDO CERTIM)
+-KILLING IN THE NAME OF ( AJEITAR TUDO CERTIM)
+-TELEPORT MONSTER 3,2,1 (INQUISITION, SÓ TESTAR)
+PARCIALMENTE OK (FALTA ARRUMAR PREMIAÇAO E MAILBOX)- INVITE FRIENDS (msm ip? AJEITAR TUDO CERTIM)
+-AUTO LOOT CREATURESCRIPTS ( NAO SEI SE FUNCIONA)
+OK - (FEITO PELO CREATURES, ANALISAR) agE (AJEITAR TUDO CERTIM)
+-RECOMPENSA LEVEL (AJEITAR TUDO CERTIM)
+
+GLOBAL
+[em progresso] (falta setar a premiaçao) -guildsemanalreiniciar
+-armyreset(colocar do guildsemanal? qual e melhor?)
+-xp semanal reinicio (é o mesmo do guild semanal)
+OK -AGE ( verificar se o de fidelidade funciona (por creaturscript), senao deixa esse mesmo)
+- ajeitar as msg programada (eventos e talz)
+-configurar horario dos eventos e talz, dps de ajeitado no DP, as localizaçao etc
+- ajeitar loteria e seus premios
+- iremos usar fly?
+- killua cave owners ( posicao das areas novas)
+
+LIB
+-verificar premiaçoes do sistema army
+- ajeitar o invite friends (msm ip tbm)
+- tp treiner ?
+- xpsemanal, resetar patente? 
+-war anti entrosa
+
+MOVEMENTS
+-CARTA AO GOD
+- RAINBOW (OQ VAMOS FAZER COM ESSSA POTENCIA?)
+- PREMIO (DOMINIO CASTLE ABERTAUM)
+- ARRASTAR ITEM TEMPORARIO?
+- ITEM COM ATTACKSPEED DIFERENTE
+
+
+AGR
+- STAMINA DNT CLICANDO E O DONO SENDO UNICO (FALTA TESTAR)
+- SELLPOINTS FIXADO (TEORIA) (FALTA TESTAR)
+- (NPC) BUY ITENS DONATE (FALTA TESTAR)
+- Fidelidade (FALTA TESTAR)
+-
+-
+-
+-
+-
+-
+-
+-
+-

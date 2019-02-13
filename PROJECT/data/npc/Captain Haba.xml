@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Captain Haba" script="data/npc/scripts/Captain Haba.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="98" head="0" body="0" legs="0" feet="0" addons="2"/>
+<voices>
+<voice text="Passagens para Aracura, Solaris, Nissey, Sarn e Baiak City!" interval2="100" margin="1" yell="no"/>
+</voices>
+<parameters>
+<parameter key="message_farewell" value="Valew! Fico Feliz por ter vindo ate mim!" />
+<parameter key="message_walkaway" value="Valew! Fico Feliz por ter vindo ate mim!" />
+ <parameter key="message_greet" value="Bem vindo a bordo, |PLAYERNAME|. Aqui e Baiak City. Para onde iremos ir hoje? {aracura} , {solaris} , {nissey} , {sarn} , {baiak} city."/>
+</parameters>
+</npc>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Skull Man [Event]" script="data/npc/scripts/Colecionador.lua" walkinterval="2000" skull="red" lookdir="3" floorchange="0">
+<health now="100" max="100"/>
+<look type="37" />
+  <parameters>
+  <parameter key="message_greet" value="Hello |PLAYERNAME|. I change bones for a random item. I need 30 bones, bring it back say {bones}." />
+  <parameter key="message_farewell" value="How wonderful ... How many bones" />
+  <parameter key="message_walkaway" value="Yeah, kill more" />
+  <parameter key="message_onsendtrade" value="Yeah, kill more" />
+  <parameter key="module_shop" value="1" />
+  </parameters>
+</npc>

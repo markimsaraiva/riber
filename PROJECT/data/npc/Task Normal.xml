@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Task Normal" script="data/npc/scripts/task3.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="144" head="97" body="97" legs="94" feet="97" addons="3"/>
+<parameters>
+
+	<parameter key="module_shop" value="1"/>
+	<parameter key="shop_buyable" value="Stamina Doll,8985,400000"/>
+	<parameter key="message_farewell" value="Até mais!" />
+		<parameter key="message_walkaway" value="Até mais!" />
+        </parameters>
+
+</npc>
+
+

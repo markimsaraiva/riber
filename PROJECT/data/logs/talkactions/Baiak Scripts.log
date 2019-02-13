@@ -1,0 +1,5940 @@
+[5/11/2017 3:18:31] /r
+[5/11/2017 3:18:36] /reload mods
+[5/11/2017 3:20:8] /reload mods
+[5/11/2017 16:54:24] /i 12709
+[5/11/2017 16:56:10] /i 12709
+[5/11/2017 16:56:36] /i 12708
+[5/11/2017 16:56:39] /i 12707
+[5/11/2017 16:56:46] /i 12705
+[5/11/2017 16:56:51] /i bag
+[5/11/2017 16:56:53] /i 12705
+[5/11/2017 16:57:0] /i 12709
+[8/1/2018 23:21:39] /t
+[8/1/2018 23:23:12] /reload actions
+[8/1/2018 23:23:40] /i dodgestone
+[8/1/2018 23:24:5] /i 12575
+[8/1/2018 23:24:7] /i 12575
+[8/1/2018 23:24:47] /i bag
+[8/1/2018 23:24:51] /i 12575
+[8/1/2018 23:24:51] /i 12575
+[8/1/2018 23:24:52] /i 12575
+[8/1/2018 23:27:9] /reload actions
+[8/1/2018 23:34:24] /reload monsters
+[8/1/2018 23:35:12] /m exp bug
+[8/1/2018 23:35:14] /m exp bug
+[8/1/2018 23:35:19] /m Exp bug
+[8/1/2018 23:35:36] /reload monsters
+[8/1/2018 23:35:45] /m exp bug
+[8/1/2018 23:36:39] /reload monsters
+[8/1/2018 23:36:42] /m exp bug
+[8/1/2018 23:36:45] /m exp bug
+[8/1/2018 23:37:17] /reload monsters
+[8/1/2018 23:37:20] /m exp bug
+[8/1/2018 23:37:24] /m Exp bug
+[8/1/2018 23:38:35] /reload monsters
+[8/1/2018 23:38:52] /m bugxp
+[8/1/2018 23:38:54] /m bugxp
+[8/1/2018 23:38:57] /m demon
+[8/1/2018 23:39:38] /reload monsters
+[8/1/2018 23:39:44] /r
+[8/1/2018 23:39:46] /m demon
+[8/1/2018 23:40:12] /r
+[8/1/2018 23:40:32] /m demon
+[8/1/2018 23:41:21] /reload weapons
+[8/1/2018 23:41:25] /r
+[8/1/2018 23:41:29] /m demon
+[8/1/2018 23:42:59] /m demon
+[8/1/2018 23:43:44] /m demon
+[8/1/2018 23:55:44] /reload actions
+[8/1/2018 23:56:54] /m demon
+[9/1/2018 0:2:46] /m demon
+[9/1/2018 0:3:26] /save
+[9/1/2018 0:3:56] /m demon
+[9/1/2018 0:3:56] /m demon
+[9/1/2018 0:3:57] /m demon
+[9/1/2018 0:3:58] /m demon
+[9/1/2018 0:4:38] /save
+[9/1/2018 0:6:6] /reload monsters
+[9/1/2018 0:6:21] /m demon
+[9/1/2018 0:7:36] /m demon
+[9/1/2018 0:9:33] /reload actions
+[9/1/2018 0:10:27] /reload actions
+[9/1/2018 0:11:27] /reload actions
+[9/1/2018 0:12:5] /reload actions
+[9/1/2018 0:13:46] /m demon
+[9/1/2018 0:14:30] /save
+[9/1/2018 0:16:40] /reload monsters
+[9/1/2018 0:16:49] /m demon
+[9/1/2018 4:49:9] /reload globalevents
+[9/1/2018 20:59:44] /reload globalevents
+[9/1/2018 21:3:34] /reload globalevents
+[9/1/2018 21:22:24] /reload globalevents
+[9/1/2018 22:56:21] /reload creaturescripts
+[9/1/2018 23:4:51] /reload creaturescripts
+[9/1/2018 23:13:43] /reload globalevents
+[9/1/2018 23:14:25] /reload globalevents
+[9/1/2018 23:15:40] /reload globalevents
+[9/1/2018 23:17:22] /reload globalevents
+[9/1/2018 23:17:27] /reload globalevents
+[9/1/2018 23:17:48] /reload globalevents
+[9/1/2018 23:17:54] /reload globalevents
+[9/1/2018 23:20:42] /reload talkactions
+[9/1/2018 23:20:46] /reload globalevents
+[9/1/2018 23:47:16] /reload globalevents
+[9/1/2018 23:51:37] /m dragon
+[9/1/2018 23:51:37] /m dragon
+[9/1/2018 23:52:9] /m dragon
+[9/1/2018 23:52:9] /m dragon
+[9/1/2018 23:52:9] /m dragon
+[9/1/2018 23:52:10] /m dragon
+[10/1/2018 0:1:23] /m dragon
+[10/1/2018 0:1:29] /m dragon
+[10/1/2018 0:1:29] /m dragon
+[10/1/2018 0:1:45] /save
+[10/1/2018 0:2:10] /reload globalevents
+[10/1/2018 0:2:24] /m dragon
+[10/1/2018 0:2:24] /m dragon
+[10/1/2018 0:3:5] /save
+[10/1/2018 0:4:49] /reload globalevents
+[10/1/2018 0:5:12] /save
+[10/1/2018 0:5:33] /m dragon
+[10/1/2018 0:5:34] /m dragon
+[10/1/2018 0:5:39] /save
+[10/1/2018 0:7:25] /reload globalevents
+[10/1/2018 0:7:35] /m dragon
+[10/1/2018 0:7:35] /m dragon
+[10/1/2018 0:8:39] /reload globalevents
+[10/1/2018 0:8:58] /m dragon
+[10/1/2018 0:8:58] /m dragon
+[10/1/2018 0:8:58] /m dragon
+[10/1/2018 0:9:8] /m dragon
+[10/1/2018 0:9:8] /m dragon
+[10/1/2018 0:9:8] /m dragon
+[10/1/2018 0:9:20] /m dragon
+[10/1/2018 0:9:20] /m dragon
+[10/1/2018 0:16:0] /m dragon
+[10/1/2018 0:16:1] /m dragon
+[10/1/2018 0:16:1] /m dragon
+[10/1/2018 0:31:3] /reload globalevents
+[10/1/2018 0:31:23] /m dragon
+[10/1/2018 0:31:24] /m dragon
+[10/1/2018 0:31:24] /m dragon
+[10/1/2018 0:33:53] /reload talkactions
+[10/1/2018 0:38:0] /m dragon lord
+[10/1/2018 0:38:1] /m dragon lord
+[10/1/2018 0:38:1] /m dragon lord
+[10/1/2018 0:38:1] /m dragon lord
+[10/1/2018 0:38:1] /m dragon lord
+[10/1/2018 0:38:1] /m dragon lord
+[10/1/2018 0:38:1] /m dragon lord
+[10/1/2018 0:38:1] /m dragon lord
+[10/1/2018 0:38:1] /m dragon lord
+[10/1/2018 0:38:16] /m dragon lord
+[10/1/2018 0:38:17] /m dragon lord
+[10/1/2018 0:38:17] /m dragon lord
+[10/1/2018 0:38:18] /m dragon lord
+[10/1/2018 0:38:18] /m dragon lord
+[10/1/2018 0:38:18] /m dragon lord
+[10/1/2018 0:38:18] /m dragon lord
+[10/1/2018 0:38:18] /m dragon lord
+[10/1/2018 0:38:18] /m dragon lord
+[10/1/2018 0:38:18] /m dragon lord
+[10/1/2018 0:38:18] /m dragon lord
+[10/1/2018 0:38:32] /m dragon lord
+[10/1/2018 0:38:33] /m dragon lord
+[10/1/2018 0:38:33] /m dragon lord
+[10/1/2018 0:38:33] /m dragon lord
+[10/1/2018 0:38:33] /m dragon lord
+[10/1/2018 0:38:33] /m dragon lord
+[10/1/2018 0:38:33] /m dragon lord
+[10/1/2018 0:38:33] /m dragon lord
+[10/1/2018 0:38:33] /m dragon lord
+[10/1/2018 0:38:33] /m dragon lord
+[10/1/2018 0:38:33] /m dragon lord
+[10/1/2018 0:38:33] /m dragon lord
+[10/1/2018 0:39:11] /m dragon lord
+[10/1/2018 0:39:11] /m dragon lord
+[10/1/2018 0:39:11] /m dragon lord
+[10/1/2018 0:39:11] /m dragon lord
+[10/1/2018 0:39:11] /m dragon lord
+[10/1/2018 0:39:32] /m dragon lord
+[10/1/2018 0:39:32] /m dragon lord
+[10/1/2018 0:39:32] /m dragon lord
+[10/1/2018 0:39:32] /m dragon lord
+[10/1/2018 0:39:32] /m dragon lord
+[10/1/2018 0:39:32] /m dragon lord
+[10/1/2018 0:39:32] /m dragon lord
+[10/1/2018 0:39:32] /m dragon lord
+[10/1/2018 0:39:32] /m dragon lord
+[10/1/2018 0:39:33] /m dragon lord
+[10/1/2018 0:39:33] /m dragon lord
+[10/1/2018 0:39:33] /m dragon lord
+[10/1/2018 0:39:33] /m dragon lord
+[10/1/2018 0:40:43] /reload globalevents
+[10/1/2018 0:40:51] /m dragon lord
+[10/1/2018 0:40:51] /m dragon lord
+[10/1/2018 0:40:51] /m dragon lord
+[10/1/2018 0:40:51] /m dragon lord
+[10/1/2018 0:40:52] /m dragon lord
+[10/1/2018 0:41:8] /m dragon lord
+[10/1/2018 0:41:9] /m dragon lord
+[10/1/2018 0:41:9] /m dragon lord
+[10/1/2018 0:41:30] /m dragon lord
+[10/1/2018 0:41:31] /m dragon lord
+[10/1/2018 0:41:31] /m dragon lord
+[10/1/2018 0:41:31] /m dragon lord
+[10/1/2018 0:41:31] /m dragon lord
+[10/1/2018 0:41:31] /m dragon lord
+[10/1/2018 0:41:31] /m dragon lord
+[10/1/2018 0:41:31] /m dragon lord
+[10/1/2018 0:41:31] /m dragon lord
+[10/1/2018 0:41:31] /m dragon lord
+[10/1/2018 0:41:31] /m dragon lord
+[10/1/2018 0:41:31] /m dragon lord
+[10/1/2018 0:41:31] /m dragon lord
+[10/1/2018 0:41:31] /m dragon lord
+[10/1/2018 0:41:31] /m dragon lord
+[10/1/2018 0:41:31] /m dragon lord
+[10/1/2018 0:41:31] /m dragon lord
+[10/1/2018 0:41:31] /m dragon lord
+[10/1/2018 0:41:31] /m dragon lord
+[10/1/2018 0:46:9] /reload creaturescripts
+[10/1/2018 0:46:9] /reload actions
+[10/1/2018 0:46:33] /reload globalevents
+[10/1/2018 0:46:41] /m dragon lord
+[10/1/2018 0:46:43] /m dragon lord
+[10/1/2018 0:46:44] /m dragon lord
+[10/1/2018 0:46:44] /up
+[10/1/2018 0:46:44] /m dragon lord
+[10/1/2018 0:46:47] /down
+[10/1/2018 0:48:10] /reload mods
+[10/1/2018 0:49:11] /reload mods
+[10/1/2018 0:49:18] /reload mods
+[10/1/2018 0:49:46] /reload mods
+[10/1/2018 0:49:56] /r
+[10/1/2018 0:50:24] /r
+[10/1/2018 0:52:9] /m dragon lord
+[10/1/2018 0:52:9] /m dragon lord
+[10/1/2018 0:52:10] /m dragon lord
+[10/1/2018 0:52:10] /m dragon lord
+[10/1/2018 0:52:10] /m dragon lord
+[10/1/2018 0:52:49] /m dragon lord
+[10/1/2018 0:52:49] /m dragon lord
+[10/1/2018 0:52:49] /m dragon lord
+[10/1/2018 0:52:49] /m dragon lord
+[10/1/2018 0:52:49] /m dragon lord
+[10/1/2018 0:52:50] /m dragon lord
+[10/1/2018 0:53:11] /m dragon lord
+[10/1/2018 0:53:12] /m dragon lord
+[10/1/2018 0:53:12] /m dragon lord
+[10/1/2018 0:53:12] /m dragon lord
+[10/1/2018 0:53:12] /m dragon lord
+[10/1/2018 0:53:12] /m dragon lord
+[10/1/2018 0:53:12] /m dragon lord
+[10/1/2018 0:53:12] /m dragon lord
+[10/1/2018 0:53:13] /m dragon lord
+[10/1/2018 0:53:13] /m dragon lord
+[10/1/2018 1:10:49] /reload talkactions
+[10/1/2018 1:17:54] /reload talkactions
+[10/1/2018 1:22:12] /reload talkactions
+[10/1/2018 1:22:49] /m dragon lord
+[10/1/2018 1:22:49] /m dragon lord
+[10/1/2018 1:22:49] /m dragon lord
+[10/1/2018 1:22:49] /m dragon lord
+[10/1/2018 1:22:50] /m dragon lord
+[10/1/2018 1:24:9] /m dragon lord
+[10/1/2018 1:24:9] /m dragon lord
+[10/1/2018 1:24:9] /m dragon lord
+[10/1/2018 1:24:36] /m dragon lord
+[10/1/2018 1:24:36] /m dragon lord
+[10/1/2018 1:24:36] /m dragon lord
+[10/1/2018 1:24:36] /m dragon lord
+[10/1/2018 1:24:36] /m dragon lord
+[10/1/2018 1:28:56] /m dragon lord
+[10/1/2018 1:28:57] /m dragon lord
+[10/1/2018 1:38:47] /reload talkactions
+[10/1/2018 1:38:53] /a 3
+[10/1/2018 1:50:16] /i scroll
+[10/1/2018 1:50:30] /i winning lottery ticket
+[10/1/2018 1:51:2] /i golden newspaper
+[10/1/2018 1:51:29] /i 8981
+[10/1/2018 1:52:23] /reload talkactions
+[10/1/2018 1:53:27] /m dragon lord
+[10/1/2018 1:53:28] /m dragon lord
+[10/1/2018 1:53:28] /m dragon lord
+[10/1/2018 1:53:28] /m dragon lord
+[10/1/2018 1:56:11] /reload talkactions
+[10/1/2018 1:56:31] /up
+[10/1/2018 1:56:34] /down
+[10/1/2018 1:56:48] /m dragon lord
+[10/1/2018 1:56:48] /m dragon lord
+[10/1/2018 1:56:49] /m dragon lord
+[10/1/2018 1:56:49] /m dragon lord
+[10/1/2018 1:58:5] /reload talkactions
+[10/1/2018 1:58:45] /m dragon lord
+[10/1/2018 1:58:45] /m dragon lord
+[10/1/2018 1:58:46] /m dragon lord
+[10/1/2018 2:0:57] /reload talkactions
+[10/1/2018 2:1:5] /m dragon lord
+[10/1/2018 2:1:5] /m dragon lord
+[10/1/2018 2:1:5] /m dragon lord
+[10/1/2018 2:1:5] /m dragon lord
+[10/1/2018 2:1:6] /m dragon lord
+[10/1/2018 2:1:33] /up
+[10/1/2018 2:6:44] /reload talkactions
+[10/1/2018 2:8:1] /reload talkactions
+[10/1/2018 2:9:46] /reload talkactions
+[10/1/2018 2:10:53] /reload talkactions
+[10/1/2018 2:11:51] /reload talkactions
+[10/1/2018 2:12:22] /reload talkactions
+[10/1/2018 17:54:8] /c boizao
+[10/1/2018 17:57:15] /reload globalevents
+[10/1/2018 18:2:27] /save
+[10/1/2018 18:8:33] /reload globalevents
+[10/1/2018 18:14:28] /save
+[10/1/2018 18:20:29] /reload globalevents
+[10/1/2018 18:22:0] /reload talkactions
+[10/1/2018 18:23:37] /reload globalevents
+[10/1/2018 18:23:59] /reload globalevents
+[10/1/2018 18:27:23] /reload globalevents
+[10/1/2018 18:31:25] /reload globalevents
+[10/1/2018 18:41:43] /r
+[10/1/2018 18:43:59] /clean
+[10/1/2018 18:46:44] /save
+[10/1/2018 18:53:14] /reload globalevents
+[10/1/2018 19:28:20] /reload actions
+[10/1/2018 19:28:44] /i 5093
+[10/1/2018 21:2:46] /reload globalevents
+[10/1/2018 21:14:14] /i 5093
+[10/1/2018 23:3:32] /save
+[11/1/2018 0:7:13] /reload globalevents
+[11/1/2018 1:44:35] /reload globalevents
+[11/1/2018 3:23:41] /reload globalevents
+[11/1/2018 3:27:11] /reload globalevents
+[11/1/2018 3:28:42] /i 5093
+[11/1/2018 4:29:43] /m dragon
+[11/1/2018 4:29:45] /m dragon
+[11/1/2018 4:29:45] /m dragon
+[11/1/2018 4:29:45] /m dragon
+[11/1/2018 4:29:45] /m dragon
+[11/1/2018 4:29:45] /m dragon
+[11/1/2018 4:37:11] /reload creaturescripts
+[11/1/2018 4:37:55] /reload creaturescripts
+[11/1/2018 4:38:18] /reload creaturescripts
+[11/1/2018 4:38:52] /reload creaturescripts
+[11/1/2018 14:22:19] /reload globalevents
+[11/1/2018 14:23:28] /reload globalevents
+[11/1/2018 14:24:14] /reload globalevents
+[11/1/2018 14:25:31] /reload globalevents
+[11/1/2018 14:26:56] /reload globalevents
+[11/1/2018 14:28:13] /reload globalevents
+[11/1/2018 14:29:16] /reload globalevents
+[11/1/2018 14:29:28] /reload globalevents
+[11/1/2018 14:31:22] /reload globalevents
+[11/1/2018 14:32:45] /reload globalevents
+[11/1/2018 14:34:45] /reload globalevents
+[11/1/2018 14:36:13] /reload globalevents
+[11/1/2018 14:36:22] /reload globalevents
+[11/1/2018 14:38:2] /reload globalevents
+[11/1/2018 14:38:40] /reload globalevents
+[11/1/2018 14:39:38] /reload globalevents
+[11/1/2018 14:40:37] /reload globalevents
+[11/1/2018 14:43:40] /reload globalevents
+[11/1/2018 14:44:35] /reload globalevents
+[11/1/2018 14:45:22] /reload globalevents
+[11/1/2018 14:46:20] /reload globalevents
+[11/1/2018 14:47:31] /reload globalevents
+[11/1/2018 14:48:49] /reload globalevents
+[11/1/2018 14:49:13] /reload globalevents
+[11/1/2018 14:51:10] /reload globalevents
+[11/1/2018 15:3:11] /reload globalevents
+[11/1/2018 15:3:56] /reload globalevents
+[11/1/2018 15:7:46] /reload globalevents
+[11/1/2018 15:17:30] /reload globalevents
+[11/1/2018 15:19:14] /reload talkactions
+[11/1/2018 15:19:57] /reload talkactions
+[11/1/2018 15:20:0] /reload globalevents
+[11/1/2018 15:20:14] /reload globalevents
+[11/1/2018 15:22:5] /reload talkactions
+[11/1/2018 15:22:46] /reload talkactions
+[11/1/2018 15:23:51] /reload globalevents
+[11/1/2018 15:25:22] /reload talkactions
+[11/1/2018 15:26:5] /reload talkactions
+[11/1/2018 15:26:57] /reload talkactions
+[11/1/2018 15:27:52] /reload talkactions
+[11/1/2018 15:30:58] /reload talkactions
+[11/1/2018 15:31:34] /reload talkactions
+[11/1/2018 15:32:28] /reload talkactions
+[11/1/2018 15:32:55] /reload talkactions
+[11/1/2018 15:33:45] /reload talkactions
+[11/1/2018 15:34:35] /reload talkactions
+[11/1/2018 15:41:16] /reload creaturescripts
+[12/1/2018 1:29:16] /reload globalevents
+[12/1/2018 1:31:21] /reload globalevents
+[12/1/2018 1:35:2] /reload globalevents
+[12/1/2018 1:35:10] /reload globalevents
+[12/1/2018 1:43:45] /reload globalevents
+[12/1/2018 1:43:54] /reload globalevents
+[12/1/2018 1:44:25] /reload globalevents
+[12/1/2018 1:45:16] /reload globalevents
+[12/1/2018 1:46:9] /reload globalevents
+[12/1/2018 1:46:31] /reload globalevents
+[12/1/2018 1:46:38] /reload globalevents
+[12/1/2018 1:47:29] /reload globalevents
+[12/1/2018 1:47:34] /reload globalevents
+[12/1/2018 1:48:4] /reload globalevents
+[12/1/2018 1:48:8] /reload globalevents
+[12/1/2018 1:53:11] /reload globalevents
+[12/1/2018 1:53:31] /reload globalevents
+[12/1/2018 1:54:26] /reload globalevents
+[12/1/2018 1:55:23] /reload globalevents
+[12/1/2018 1:59:24] /reload globalevents
+[12/1/2018 1:59:38] /reload globalevents
+[12/1/2018 2:0:17] /reload globalevents
+[12/1/2018 2:3:1] /reload globalevents
+[12/1/2018 2:3:11] /reload globalevents
+[12/1/2018 2:5:56] /reload globalevents
+[12/1/2018 2:6:26] /reload globalevents
+[12/1/2018 17:46:34] /reload creatureevents
+[12/1/2018 17:52:36] /reload creatureevents
+[12/1/2018 18:1:42] /m dragon
+[12/1/2018 18:1:42] /m dragon
+[12/1/2018 18:1:42] /m dragon
+[12/1/2018 18:1:50] /m dragon
+[12/1/2018 18:1:51] /m dragon
+[12/1/2018 18:1:51] /m dragon
+[12/1/2018 18:1:51] /m dragon
+[12/1/2018 18:1:58] /m dragon
+[12/1/2018 18:1:58] /m dragon
+[12/1/2018 18:1:58] /m dragon
+[12/1/2018 18:1:58] /m dragon
+[12/1/2018 18:2:49] /r
+[12/1/2018 19:44:25] /reload creatureevents
+[12/1/2018 19:47:30] /reload creatureevents
+[12/1/2018 20:16:5] /reload creatureevents
+[12/1/2018 20:16:12] /reload creatureevents
+[12/1/2018 20:16:20] /reload globalevents
+[12/1/2018 20:24:31] /reload creatureevents
+[12/1/2018 20:26:2] /reload creatureevents
+[12/1/2018 20:26:50] /reload creatureevents
+[12/1/2018 21:22:25] /reload creatureevents
+[12/1/2018 21:22:28] /goto adm
+[12/1/2018 21:22:29] /goto adm
+[12/1/2018 21:22:33] /reload globalevents
+[12/1/2018 22:58:2] /a 20
+[12/1/2018 22:58:8] /a 20
+[12/1/2018 22:58:9] /a 20
+[12/1/2018 22:58:10] /a 20
+[12/1/2018 22:58:11] /a 20
+[12/1/2018 22:58:12] /a 20
+[12/1/2018 22:58:12] /a 20
+[12/1/2018 22:58:17] /r
+[12/1/2018 23:11:36] /reload actions
+[12/1/2018 23:13:26] /c pqj
+[12/1/2018 23:13:33] /r
+[12/1/2018 23:13:35] /c pqj
+[13/1/2018 17:34:28] /reload creatureevents
+[13/1/2018 17:35:59] /reload creatureevents
+[13/1/2018 17:39:47] /reload creatureevents
+[13/1/2018 18:49:22] /reload creaturescripts
+[13/1/2018 18:50:8] /reload creatureevents
+[13/1/2018 18:50:52] /reload creatureevents
+[13/1/2018 18:58:22] /reload creatureevents
+[13/1/2018 18:58:35] /reload creatureevents
+[13/1/2018 18:59:27] /reload creatureevents
+[13/1/2018 19:0:19] /reload creatureevents
+[13/1/2018 19:1:38] /reload creatureevents
+[13/1/2018 19:15:53] /reload creatureevents
+[13/1/2018 19:16:39] /reload creatureevents
+[13/1/2018 19:22:12] /reload creatureevents
+[13/1/2018 19:23:10] /reload creatureevents
+[13/1/2018 19:26:54] /reload creatureevents
+[14/1/2018 15:22:54] /reload globalevents
+[14/1/2018 15:23:22] /reload globalevents
+[14/1/2018 15:24:8] /reload globalevents
+[14/1/2018 15:25:25] /reload globalevents
+[14/1/2018 15:25:44] /reload globalevents
+[14/1/2018 17:32:6] /reload creaturescripts
+[14/1/2018 17:38:38] /reload creatureevents
+[14/1/2018 17:42:35] /reload creatureevents
+[14/1/2018 17:43:36] /reload creatureevents
+[14/1/2018 17:47:45] /reload creatureevents
+[14/1/2018 17:48:50] /reload creatureevents
+[14/1/2018 17:49:41] /reload creatureevents
+[14/1/2018 17:50:51] /reload creatureevents
+[14/1/2018 17:51:17] /reload creatureevents
+[14/1/2018 17:53:52] /reload creatureevents
+[14/1/2018 17:54:15] /reload creatureevents
+[14/1/2018 17:56:8] /reload creatureevents
+[14/1/2018 19:47:35] /reload creatureevents
+[14/1/2018 21:51:26] /reload creatureevents
+[14/1/2018 21:51:31] /reload talkactions
+[14/1/2018 21:52:28] /reload talkactions
+[14/1/2018 22:7:58] /m dragon
+[14/1/2018 22:9:54] /reload creatureevents
+[14/1/2018 22:10:2] /m dragon
+[14/1/2018 22:10:54] /reload creatureevents
+[14/1/2018 22:11:7] /m dragon
+[14/1/2018 22:14:20] /reload creatureevents
+[14/1/2018 22:14:26] /m dragon
+[14/1/2018 22:14:40] /i wand of vortex
+[14/1/2018 22:15:16] /reload creatureevents
+[14/1/2018 22:15:29] /reload creatureevents
+[14/1/2018 22:15:33] /m dragon
+[14/1/2018 22:18:25] /reload creatureevents
+[14/1/2018 22:18:28] /m dragon
+[14/1/2018 22:19:1] /reload creatureevents
+[14/1/2018 22:19:5] /m dragon
+[14/1/2018 22:19:8] /m dragon
+[14/1/2018 22:19:24] /m dragon
+[14/1/2018 22:19:28] /m dragon
+[14/1/2018 22:19:28] /m dragon
+[14/1/2018 22:19:29] /m dragon
+[14/1/2018 22:19:29] /m dragon
+[14/1/2018 22:23:32] /reload creatureevents
+[14/1/2018 22:23:36] /reload creatureevents
+[14/1/2018 22:23:42] /m dragon
+[14/1/2018 22:23:57] /reload creatureevents
+[14/1/2018 22:24:0] /m dragon
+[14/1/2018 22:24:0] /m dragon
+[14/1/2018 22:28:37] /reload creatureevents
+[14/1/2018 22:28:43] /m dragon
+[14/1/2018 22:28:44] /m dragon
+[14/1/2018 22:30:9] /reload creatureevents
+[14/1/2018 22:30:15] /m dragon
+[14/1/2018 22:30:37] /reload creatureevents
+[14/1/2018 22:30:41] /m dragon
+[14/1/2018 22:30:54] /m dragon
+[14/1/2018 22:31:44] /reload creatureevents
+[14/1/2018 22:31:48] /m dragon
+[14/1/2018 22:31:55] /m dragon
+[14/1/2018 22:40:10] /m dragon
+[14/1/2018 22:40:10] /m dragon
+[14/1/2018 22:40:10] /m dragon
+[14/1/2018 22:40:10] /m dragon
+[14/1/2018 22:41:14] /m dragon
+[14/1/2018 22:41:14] /m dragon
+[14/1/2018 22:41:14] /m dragon
+[14/1/2018 22:41:14] /m dragon
+[14/1/2018 22:41:14] /m dragon
+[14/1/2018 22:41:14] /m dragon
+[14/1/2018 22:41:14] /m dragon
+[14/1/2018 22:41:15] /m dragon
+[14/1/2018 22:41:15] /m dragon
+[14/1/2018 22:41:15] /m dragon
+[14/1/2018 22:41:15] /m dragon
+[14/1/2018 22:41:15] /m dragon
+[14/1/2018 22:41:15] /m dragon
+[14/1/2018 22:41:15] /m dragon
+[14/1/2018 22:41:21] /a 3
+[14/1/2018 22:41:22] /m dragon
+[14/1/2018 22:41:23] /m dragon
+[14/1/2018 22:41:23] /m dragon
+[14/1/2018 22:41:23] /m dragon
+[14/1/2018 22:41:23] /m dragon
+[14/1/2018 22:41:23] /m dragon
+[14/1/2018 22:41:24] /m dragon
+[14/1/2018 22:41:24] /m dragon
+[14/1/2018 22:41:24] /m dragon
+[14/1/2018 22:41:24] /m dragon
+[14/1/2018 22:41:25] /m dragon
+[14/1/2018 22:41:26] /m dragon
+[14/1/2018 22:41:26] /m dragon
+[14/1/2018 22:41:26] /m dragon
+[14/1/2018 22:41:27] /m dragon
+[14/1/2018 22:41:27] /m dragon
+[14/1/2018 22:41:27] /m dragon
+[14/1/2018 22:41:27] /m dragon
+[14/1/2018 22:41:27] /m dragon
+[14/1/2018 22:41:27] /m dragon
+[14/1/2018 22:41:28] /m dragon
+[14/1/2018 22:41:28] /m dragon
+[14/1/2018 22:41:28] /m dragon
+[14/1/2018 22:41:28] /m dragon
+[14/1/2018 22:41:28] /m dragon
+[14/1/2018 22:41:28] /m dragon
+[14/1/2018 22:41:29] /m dragon
+[14/1/2018 22:41:29] /m dragon
+[14/1/2018 22:45:16] /reload creatureevents
+[14/1/2018 22:45:25] /m dragon
+[14/1/2018 22:46:13] /reload creatureevents
+[14/1/2018 22:46:22] /m dragon
+[14/1/2018 22:47:34] /reload creatureevents
+[14/1/2018 22:47:38] /m dragon
+[14/1/2018 22:47:51] /m dragon
+[14/1/2018 22:47:53] /m dragon
+[14/1/2018 22:49:22] /reload globalevents
+[14/1/2018 22:49:27] /m dragon
+[14/1/2018 22:49:45] /reload creatureevents
+[14/1/2018 22:49:51] /m dragon
+[14/1/2018 22:51:23] /reload creatureevents
+[14/1/2018 22:51:27] /m dragon
+[14/1/2018 22:51:36] /m dragon
+[14/1/2018 22:51:37] /m dragon
+[14/1/2018 22:51:37] /m dragon
+[14/1/2018 22:58:16] /reload creatureevents
+[14/1/2018 23:1:27] /m dragon
+[14/1/2018 23:1:38] /m dragon
+[14/1/2018 23:1:38] /m dragon
+[14/1/2018 23:4:46] /reload creatureevents
+[14/1/2018 23:4:51] /m dragon
+[14/1/2018 23:6:47] /reload creatureevents
+[14/1/2018 23:6:54] /m dragon
+[14/1/2018 23:7:16] /m dragon
+[14/1/2018 23:7:49] /m dragon
+[14/1/2018 23:7:49] /m dragon
+[14/1/2018 23:7:49] /m dragon
+[14/1/2018 23:8:30] /reload creatureevents
+[14/1/2018 23:8:54] /reload creatureevents
+[14/1/2018 23:9:2] /m dragon
+[14/1/2018 23:9:4] /m dragon
+[14/1/2018 23:12:5] /reload creatureevents
+[14/1/2018 23:12:10] /m dragon
+[14/1/2018 23:12:10] /m dragon
+[14/1/2018 23:12:13] /m dragon
+[14/1/2018 23:12:39] /reload creatureevents
+[14/1/2018 23:14:16] /reload creatureevents
+[14/1/2018 23:15:34] /reload creatureevents
+[14/1/2018 23:16:8] /reload creatureevents
+[14/1/2018 23:16:14] /m dragon
+[14/1/2018 23:27:20] /reload creatureevents
+[14/1/2018 23:32:1] /reload creatureevents
+[14/1/2018 23:32:22] /m dragon
+[14/1/2018 23:32:23] /m dragon
+[14/1/2018 23:32:23] /m dragon
+[14/1/2018 23:32:23] /m dragon
+[14/1/2018 23:32:24] /m dragon
+[14/1/2018 23:32:24] /m dragon
+[14/1/2018 23:32:24] /m dragon
+[14/1/2018 23:32:24] /m dragon
+[14/1/2018 23:32:25] /m dragon
+[14/1/2018 23:32:25] /m dragon
+[14/1/2018 23:37:2] /m dragon
+[14/1/2018 23:37:3] /m dragon
+[14/1/2018 23:37:3] /m dragon
+[14/1/2018 23:59:12] /reload globalevents
+[15/1/2018 0:1:48] /reload creatureevents
+[15/1/2018 0:1:53] /reload globalevents
+[15/1/2018 0:48:33] /reload globalevents
+[15/1/2018 0:56:17] /reload creatureevents
+[15/1/2018 0:56:34] /reload globalevents
+[15/1/2018 0:58:5] /reload globalevents
+[15/1/2018 0:59:16] /reload globalevents
+[15/1/2018 0:59:44] /reload globalevents
+[15/1/2018 1:0:12] /reload globalevents
+[15/1/2018 1:25:24] /reload globalevents
+[15/1/2018 1:25:43] /reload globalevents
+[15/1/2018 1:25:48] /m dragon
+[15/1/2018 1:28:6] /reload globalevents
+[15/1/2018 1:33:14] /reload globalevents
+[15/1/2018 1:33:22] /m dragon
+[15/1/2018 1:37:4] /m dragon
+[15/1/2018 1:40:0] /reload globalevents
+[15/1/2018 1:42:45] /reload globalevents
+[15/1/2018 1:42:52] /reload globalevents
+[15/1/2018 1:43:59] /reload globalevents
+[15/1/2018 1:44:6] /reload globalevents
+[15/1/2018 1:44:8] /m dragon
+[15/1/2018 1:48:22] /reload globalevents
+[15/1/2018 1:48:24] /m dragon
+[15/1/2018 1:48:25] /m dragon
+[15/1/2018 1:50:16] /m dragon
+[15/1/2018 1:50:17] /m dragon
+[15/1/2018 1:50:31] /reload globalevents
+[15/1/2018 1:54:17] /m dragon
+[15/1/2018 1:54:17] /m dragon
+[15/1/2018 1:54:21] /reload globalevents
+[15/1/2018 1:56:56] /reload globalevents
+[15/1/2018 1:56:59] /m dragon
+[15/1/2018 1:56:59] /m dragon
+[15/1/2018 1:56:59] /m dragon
+[15/1/2018 1:57:38] /reload globalevents
+[15/1/2018 2:5:36] /m dragon
+[15/1/2018 2:5:36] /m dragon
+[15/1/2018 2:5:36] /m dragon
+[15/1/2018 2:5:40] /reload globalevents
+[18/1/2018 0:37:7] /i life ring
+[18/1/2018 0:38:8] /reload itens
+[18/1/2018 0:38:12] /reload items
+[18/1/2018 0:38:19] /r
+[18/1/2018 0:38:23] /i life ring
+[18/1/2018 0:38:51] /reload items
+[18/1/2018 0:38:56] /i life ring
+[18/1/2018 0:41:12] /i life ring
+[18/1/2018 0:48:39] /i knife
+[18/1/2018 1:14:7] /i knife
+[18/1/2018 1:14:8] /i knife
+[18/1/2018 1:14:9] /i knife
+[18/1/2018 1:14:10] /i knife
+[18/1/2018 1:14:11] /i knife
+[18/1/2018 1:14:12] /i knife
+[18/1/2018 1:14:15] /m monk
+[18/1/2018 1:14:50] /i ice sword
+[18/1/2018 1:14:55] /i ice rapier
+[18/1/2018 1:17:40] /i 2396,1
+[18/1/2018 1:17:46] /i 2396,1
+[18/1/2018 1:17:47] /i 2396,1
+[18/1/2018 1:17:50] /i monk
+[18/1/2018 1:17:52] /m monk
+[18/1/2018 1:18:10] /i training monk
+[18/1/2018 1:18:16] /m training monk
+[18/1/2018 1:18:21] /m treiner
+[18/1/2018 1:18:24] /m trainer
+[18/1/2018 1:18:34] /m trainer
+[18/1/2018 1:18:46] /m demon
+[18/1/2018 1:20:2] /m frost dragon
+[18/1/2018 1:21:1] /reload npc
+[18/1/2018 1:21:8] /n rashid
+[18/1/2018 1:21:25] /i gold
+[18/1/2018 1:21:30] /i gold coin
+[18/1/2018 1:22:0] /reload npc
+[18/1/2018 1:22:13] /m demon
+[18/1/2018 1:25:3] /reload config
+[18/1/2018 1:26:14] /n rashid
+[18/1/2018 1:26:17] /m monk
+[18/1/2018 1:28:3] /reload items
+[18/1/2018 1:28:11] /i ice rapier
+[18/1/2018 1:29:55] /i ice rapier
+[18/1/2018 1:30:3] /m demon
+[18/1/2018 1:30:22] /n rashid
+[18/1/2018 1:31:13] /r
+[18/1/2018 1:31:42] /m rat
+[18/1/2018 1:31:48] /m monk
+[18/1/2018 1:33:1] /reload config
+[18/1/2018 1:33:23] /m monk
+[18/1/2018 1:34:18] /reload config
+[18/1/2018 1:35:34] /i 7768
+[18/1/2018 1:35:40] /m monk
+[18/1/2018 1:35:53] /reload config
+[18/1/2018 1:36:10] /reload config
+[18/1/2018 1:36:37] /reload config
+[18/1/2018 1:37:2] /reload config
+[18/1/2018 1:42:3] /reload config
+[18/1/2018 1:42:15] /i barbarian axe
+[18/1/2018 1:42:26] /i 7768
+[18/1/2018 1:42:45] /i 7768
+[18/1/2018 1:42:59] /reload config
+[18/1/2018 1:44:59] /i shiver arrow
+[18/1/2018 1:45:3] /i bow
+[18/1/2018 1:45:35] /reload config
+[18/1/2018 1:46:3] /reload config
+[18/1/2018 1:46:6] /reload items
+[18/1/2018 1:47:21] /i shiver arrow
+[18/1/2018 1:47:30] /i bow/i bow
+[18/1/2018 1:47:31] /i bow
+[18/1/2018 1:47:34] /m monk
+[18/1/2018 1:47:56] /i ice rapier
+[18/1/2018 1:50:7] /i 7368
+[18/1/2018 1:50:27] /i backpack
+[18/1/2018 1:50:33] /m monk
+[18/1/2018 1:50:38] /m demon
+[18/1/2018 1:57:14] /reload talkactions
+[18/1/2018 1:57:36] /reload talkactions
+[18/1/2018 1:57:51] /reload talkactions
+[18/1/2018 2:2:46] /i dwarven shield
+[18/1/2018 2:5:58] /i knife
+[18/1/2018 2:15:5] /reload movements
+[18/1/2018 2:16:3] /reload movements
+[18/1/2018 2:16:42] /reload movements
+[18/1/2018 2:17:30] /reload movements
+[18/1/2018 2:17:43] /reload movements
+[18/1/2018 3:7:0] /i gold coin
+[18/1/2018 3:7:4] /i gold coin
+[18/1/2018 3:7:5] /i gold coin
+[18/1/2018 3:7:15] /i gold coin
+[18/1/2018 3:7:16] /i gold coin
+[18/1/2018 3:7:17] /i gold coin
+[18/1/2018 3:7:32] /i crystal coin
+[18/1/2018 3:7:38] /i crystal coin
+[18/1/2018 3:30:5] /reload movements
+[18/1/2018 3:30:29] /reload movements
+[18/1/2018 3:32:13] /reload movements
+[18/1/2018 3:35:47] /reload movements
+[18/1/2018 3:36:20] /i knife
+[18/1/2018 3:36:29] /i magic sword
+[18/1/2018 3:36:31] /i knife
+[18/1/2018 3:36:32] /i knife
+[18/1/2018 3:36:32] /i knife
+[18/1/2018 3:36:33] /i knife
+[18/1/2018 3:36:35] /i knife
+[18/1/2018 3:36:36] /i knife
+[18/1/2018 3:36:37] /i knife
+[18/1/2018 3:36:37] /i knife
+[18/1/2018 3:36:38] /i knife
+[18/1/2018 3:36:39] /i knife
+[18/1/2018 3:36:40] /i knife
+[18/1/2018 3:36:40] /i knife
+[18/1/2018 3:36:41] /i knife
+[18/1/2018 3:36:49] /i backpack
+[18/1/2018 3:39:6] /reload movements
+[18/1/2018 3:41:42] /reload movements
+[18/1/2018 3:41:59] /reload movements
+[18/1/2018 3:42:9] /i knife
+[18/1/2018 3:42:10] /i knife
+[18/1/2018 3:42:11] /i knife
+[18/1/2018 3:42:11] /i knife
+[18/1/2018 3:42:12] /i knife
+[18/1/2018 3:42:12] /i knife
+[18/1/2018 3:42:44] /reload movements
+[18/1/2018 3:42:57] /i knife
+[18/1/2018 3:42:58] /i knife
+[18/1/2018 3:42:58] /i knife
+[18/1/2018 3:42:59] /i knife
+[18/1/2018 3:43:1] /i knife
+[18/1/2018 3:43:1] /i knife
+[18/1/2018 3:43:20] /reload movements
+[18/1/2018 3:43:51] /reload movements
+[18/1/2018 3:44:13] /reload movements
+[18/1/2018 3:48:21] /i knife
+[18/1/2018 3:48:23] /i knife
+[18/1/2018 3:48:23] /i knife
+[18/1/2018 3:48:24] /i knife
+[18/1/2018 3:48:25] /i knife
+[18/1/2018 3:48:28] /i knife
+[18/1/2018 3:48:29] /i knife
+[18/1/2018 3:48:30] /i knife
+[18/1/2018 3:49:16] /i knife
+[18/1/2018 3:49:21] /i backpack
+[18/1/2018 3:49:26] /i backpack
+[18/1/2018 3:49:27] /i backpack
+[18/1/2018 3:49:27] /i backpack
+[18/1/2018 3:49:28] /i backpack
+[18/1/2018 3:49:28] /i backpack
+[18/1/2018 3:49:29] /i backpack
+[18/1/2018 3:49:29] /i backpack
+[18/1/2018 3:49:30] /i backpack
+[18/1/2018 3:49:41] /r
+[18/1/2018 3:49:44] /i backpack
+[18/1/2018 3:49:46] /i backpack
+[18/1/2018 3:49:52] /i knife
+[18/1/2018 3:49:53] /i knife
+[18/1/2018 3:49:54] /i knife
+[18/1/2018 3:49:54] /i knife
+[18/1/2018 3:49:54] /i knife
+[18/1/2018 3:49:55] /i backpack
+[18/1/2018 3:49:56] /i backpack
+[18/1/2018 3:49:57] /i backpack
+[18/1/2018 3:49:57] /i backpack
+[18/1/2018 3:49:58] /i backpack
+[18/1/2018 3:49:58] /i backpack
+[18/1/2018 3:50:5] /r
+[18/1/2018 3:50:10] /i backpack
+[18/1/2018 3:50:18] /i knife
+[18/1/2018 3:50:18] /i knife
+[18/1/2018 3:50:19] /i knife
+[18/1/2018 3:50:19] /i knife
+[18/1/2018 3:50:19] /i knife
+[18/1/2018 3:50:19] /i knife
+[18/1/2018 3:50:19] /i knife
+[18/1/2018 3:50:19] /i knife
+[18/1/2018 3:50:19] /i knife
+[18/1/2018 3:50:19] /i knife
+[18/1/2018 3:50:19] /i knife
+[18/1/2018 3:50:19] /i knife
+[18/1/2018 3:50:19] /i knife
+[18/1/2018 3:50:19] /i knife
+[18/1/2018 3:50:20] /i knife
+[18/1/2018 3:50:20] /i knife
+[18/1/2018 3:50:20] /i knife
+[18/1/2018 3:50:20] /i knife
+[18/1/2018 3:50:20] /i knife
+[18/1/2018 3:50:20] /i knife
+[18/1/2018 3:50:20] /i knife
+[18/1/2018 3:50:20] /i knife
+[18/1/2018 3:50:20] /i knife
+[18/1/2018 3:50:20] /i knife
+[18/1/2018 3:50:20] /i knife
+[18/1/2018 3:50:20] /i knife
+[18/1/2018 3:50:20] /i knife
+[18/1/2018 3:50:20] /i knife
+[18/1/2018 3:50:20] /i knife
+[18/1/2018 3:50:20] /i knife
+[18/1/2018 3:50:20] /i knife
+[18/1/2018 3:50:20] /i knife
+[18/1/2018 3:50:20] /i knife
+[18/1/2018 3:50:20] /i knife
+[18/1/2018 3:56:21] /i 2400
+[18/1/2018 3:56:22] /i 2400
+[18/1/2018 3:56:23] /i 2400
+[18/1/2018 3:56:24] /i 2400
+[18/1/2018 3:56:25] /i 2400
+[18/1/2018 3:56:25] /i 2400
+[18/1/2018 3:56:26] /i 2400
+[18/1/2018 3:57:7] /reload movements
+[18/1/2018 3:58:46] /reload movements
+[18/1/2018 3:59:48] /reload movements
+[18/1/2018 4:1:58] /i magic sword
+[18/1/2018 4:1:59] /i magic sword
+[18/1/2018 4:2:0] /i magic sword
+[18/1/2018 4:2:4] /i bag
+[18/1/2018 4:2:18] /reload movements
+[18/1/2018 4:2:40] /i magic sword
+[18/1/2018 4:2:41] /i magic sword
+[18/1/2018 4:2:42] /i magic sword
+[18/1/2018 4:2:43] /i magic sword
+[18/1/2018 4:2:49] /i magic sword
+[18/1/2018 4:2:50] /i magic sword
+[18/1/2018 4:2:52] /i magic sword
+[18/1/2018 4:2:55] /i knife
+[18/1/2018 4:2:57] /i magic sword
+[18/1/2018 4:2:58] /i magic sword
+[18/1/2018 4:2:59] /i magic sword
+[18/1/2018 4:2:59] /i magic sword
+[18/1/2018 4:3:0] /i magic sword
+[19/1/2018 0:54:22] /m demon
+[19/1/2018 0:54:25] /i longsword
+[19/1/2018 0:54:31] /i backpack
+[19/1/2018 0:54:42] /i mace
+[19/1/2018 0:54:47] /i 2399
+[19/1/2018 0:54:51] /i 2400
+[19/1/2018 0:55:4] /reload movements
+[19/1/2018 0:55:38] /reload movements
+[19/1/2018 0:56:56] /m monk
+[3/3/2018 16:50:13] /goto matheus
+[3/3/2018 16:51:0] /c matheus
+[3/3/2018 16:51:11] /down
+[3/3/2018 16:51:13] /a 2
+[3/3/2018 16:51:18] /down
+[3/3/2018 16:51:21] /down
+[3/3/2018 16:51:23] /a 5
+[3/3/2018 16:52:24] /goto matheus
+[3/3/2018 16:52:25] /goto matheus
+[3/3/2018 16:52:27] /goto matheus
+[3/3/2018 16:52:28] /goto matheus
+[3/3/2018 16:52:29] /goto matheus
+[3/3/2018 16:52:30] /goto matheus
+[3/3/2018 16:52:31] /goto matheus
+[3/3/2018 16:52:35] /goto matheus
+[3/3/2018 16:52:47] /goto matheus
+[3/3/2018 16:52:50] /goto matheus
+[3/3/2018 16:52:52] /goto matheus
+[3/3/2018 16:52:54] /goto matheus
+[3/3/2018 16:52:57] /goto matheus
+[3/3/2018 16:53:0] /goto matheus
+[3/3/2018 16:53:5] /goto matheus
+[3/3/2018 16:54:5] /goto matheus
+[3/3/2018 16:54:8] /goto matheus
+[3/3/2018 16:54:10] /goto matheus
+[3/3/2018 16:54:12] /goto matheus
+[3/3/2018 16:54:58] /c matheus
+[3/3/2018 17:4:0] /goto matheus
+[3/3/2018 17:5:41] /goto matheus
+[3/3/2018 17:6:24] /goto matheus
+[3/3/2018 17:6:28] /goto matheus
+[3/3/2018 17:7:51] /goto matheus
+[3/3/2018 17:9:26] /goto matheus
+[3/3/2018 17:34:48] /save
+[3/3/2018 17:35:2] /a 2
+[3/3/2018 17:35:8] /a 2
+[3/3/2018 17:35:12] /a 2
+[3/3/2018 17:35:30] /save
+[3/3/2018 17:35:37] /a 2
+[3/3/2018 17:35:37] /a 2
+[3/3/2018 17:35:38] /a 2
+[3/3/2018 17:35:38] /a 2
+[3/3/2018 17:35:38] /a 2
+[3/3/2018 17:35:39] /a 2
+[3/3/2018 17:35:43] /a 2
+[3/3/2018 17:35:46] /a 2
+[3/3/2018 17:36:1] /a 2
+[3/3/2018 17:36:1] /a 2
+[3/3/2018 17:36:1] /a 2
+[3/3/2018 17:36:1] /a 2
+[3/3/2018 17:36:2] /a 2
+[3/3/2018 17:36:2] /a 2
+[3/3/2018 17:36:3] /a 2
+[3/3/2018 17:36:3] /a 2
+[3/3/2018 17:36:3] /a 2
+[3/3/2018 17:36:3] /a 2
+[3/3/2018 17:36:3] /a 2
+[3/3/2018 17:36:4] /a 2
+[3/3/2018 17:36:4] /a 2
+[3/3/2018 17:36:4] /a 2
+[3/3/2018 17:36:5] /a 2
+[3/3/2018 17:36:5] /a 2
+[3/3/2018 17:36:6] /a 2
+[3/3/2018 17:36:6] /a 2
+[3/3/2018 17:36:7] /a 2
+[3/3/2018 17:36:7] /a 2
+[3/3/2018 17:36:7] /a 2
+[3/3/2018 17:36:8] /a 2
+[3/3/2018 17:36:8] /a 2
+[3/3/2018 17:36:8] /a 2
+[3/3/2018 17:36:8] /a 2
+[3/3/2018 17:36:14] /a 2
+[3/3/2018 17:36:14] /a 2
+[3/3/2018 17:36:14] /a 2
+[3/3/2018 17:36:15] /a 2
+[3/3/2018 17:36:15] /a 2
+[3/3/2018 17:36:16] /a 2
+[3/3/2018 17:36:16] /a 2
+[3/3/2018 17:36:17] /a 2
+[3/3/2018 17:36:17] /a 2
+[3/3/2018 17:36:17] /a 2
+[3/3/2018 17:36:17] /a 2
+[3/3/2018 17:36:17] /a 2
+[3/3/2018 17:36:18] /a 2
+[3/3/2018 17:36:18] /a 2
+[3/3/2018 17:36:18] /a 2
+[3/3/2018 17:36:18] /a 2
+[3/3/2018 17:36:18] /a 2
+[3/3/2018 17:36:18] /a 2
+[3/3/2018 17:36:19] /a 2
+[3/3/2018 17:36:19] /a 2
+[3/3/2018 17:36:19] /a 2
+[3/3/2018 17:36:19] /a 2
+[3/3/2018 17:36:19] /a 2
+[3/3/2018 17:36:19] /a 2
+[3/3/2018 17:36:19] /a 2
+[3/3/2018 17:36:19] /a 2
+[3/3/2018 17:36:19] /a 2
+[3/3/2018 17:36:19] /a 2
+[3/3/2018 17:37:38] /a 2
+[3/3/2018 17:37:38] /a 2
+[3/3/2018 17:37:38] /a 2
+[3/3/2018 17:37:39] /a 2
+[3/3/2018 17:37:39] /a 2
+[3/3/2018 17:37:40] /a 2
+[3/3/2018 17:37:40] /a 2
+[3/3/2018 17:37:40] /a 2
+[3/3/2018 17:37:42] /a 2
+[3/3/2018 17:37:42] /a 2
+[3/3/2018 17:37:43] /a 2
+[3/3/2018 17:37:43] /a 2
+[3/3/2018 17:37:43] /a 2
+[3/3/2018 17:37:43] /a 2
+[3/3/2018 17:37:43] /a 2
+[3/3/2018 17:37:43] /a 2
+[3/3/2018 17:37:44] /a 2
+[3/3/2018 17:37:44] /a 2
+[3/3/2018 17:37:44] /a 2
+[3/3/2018 17:37:44] /a 2
+[3/3/2018 17:37:44] /a 2
+[3/3/2018 17:37:44] /a 2
+[3/3/2018 17:37:44] /a 2
+[3/3/2018 17:37:44] /a 2
+[3/3/2018 17:37:44] /a 2
+[3/3/2018 17:37:44] /a 2
+[3/3/2018 17:37:44] /a 2
+[3/3/2018 17:37:44] /a 2
+[3/3/2018 17:37:44] /a 2
+[3/3/2018 17:37:44] /a 2
+[3/3/2018 17:37:45] /a 2
+[3/3/2018 17:37:45] /a 2
+[3/3/2018 17:37:46] /a 2
+[3/3/2018 17:37:47] /a 2
+[3/3/2018 17:37:47] /a 2
+[3/3/2018 17:37:47] /a 2
+[3/3/2018 17:37:58] /c matheus
+[3/3/2018 17:38:2] /t
+[3/3/2018 17:38:5] /c matheus
+[3/3/2018 17:38:6] /c matheus
+[3/3/2018 17:38:13] /a 2
+[3/3/2018 17:38:17] /a 2
+[3/3/2018 17:38:18] /a 2
+[3/3/2018 17:38:18] /a 2
+[3/3/2018 17:38:19] /a 2
+[3/3/2018 17:38:20] /a 2
+[3/3/2018 17:38:21] /a 2
+[3/3/2018 17:38:22] /a 2
+[3/3/2018 17:38:57] /t
+[3/3/2018 17:38:58] /c matheus
+[3/3/2018 17:39:15] /t
+[3/3/2018 17:39:16] /c matheus
+[3/3/2018 17:39:28] /c matheus
+[3/3/2018 17:39:40] /c matheus
+[3/3/2018 17:39:48] /c matheus
+[3/3/2018 17:39:57] /c matheus
+[3/3/2018 17:39:59] /c matheus
+[3/3/2018 17:40:3] /c matheus
+[3/3/2018 17:40:6] /c matheus
+[3/3/2018 17:40:9] /up
+[3/3/2018 17:40:9] /c matheus
+[3/3/2018 17:40:18] /m dragon
+[3/3/2018 17:40:21] /a 2
+[3/3/2018 17:40:28] /t
+[3/3/2018 17:40:28] /c matheus
+[3/3/2018 17:41:23] /c matheus
+[3/3/2018 17:41:23] /c matheus
+[3/3/2018 17:41:24] /c matheus
+[3/3/2018 17:43:55] /a 2
+[3/3/2018 17:43:55] /a 2
+[3/3/2018 17:43:58] /a 2
+[3/3/2018 17:43:59] /a 2
+[3/3/2018 17:43:59] /a 2
+[3/3/2018 17:43:59] /a 2
+[3/3/2018 17:44:0] /a 2
+[3/3/2018 17:44:4] /a 2
+[3/3/2018 17:44:4] /a 2
+[3/3/2018 17:44:4] /a 2
+[3/3/2018 17:44:4] /a 2
+[3/3/2018 17:44:5] /a 2
+[3/3/2018 17:44:5] /a 2
+[3/3/2018 17:44:6] /a 2
+[3/3/2018 17:44:7] /a 2
+[3/3/2018 17:44:7] /a 2
+[3/3/2018 17:44:7] /a 2
+[3/3/2018 17:44:7] /a 2
+[3/3/2018 17:44:7] /a 2
+[3/3/2018 17:44:8] /a 2
+[3/3/2018 17:44:8] /a 2
+[3/3/2018 17:44:8] /a 2
+[3/3/2018 17:44:8] /a 2
+[3/3/2018 17:44:8] /a 2
+[3/3/2018 17:44:8] /a 2
+[3/3/2018 17:44:9] /a 2
+[3/3/2018 17:44:9] /a 2
+[3/3/2018 17:44:9] /a 2
+[3/3/2018 17:44:9] /a 2
+[3/3/2018 17:44:10] /a 2
+[3/3/2018 17:44:10] /a 2
+[3/3/2018 17:44:10] /a 2
+[3/3/2018 17:44:10] /a 2
+[3/3/2018 17:44:10] /a 2
+[3/3/2018 17:44:10] /a 2
+[3/3/2018 17:44:10] /a 2
+[3/3/2018 17:44:10] /a 2
+[3/3/2018 17:44:10] /a 2
+[3/3/2018 17:44:11] /a 2
+[3/3/2018 17:44:11] /a 2
+[3/3/2018 17:44:11] /a 2
+[3/3/2018 17:44:11] /a 2
+[3/3/2018 17:44:12] /a 2
+[3/3/2018 17:44:12] /a 2
+[3/3/2018 17:44:12] /a 2
+[3/3/2018 17:44:12] /a 2
+[3/3/2018 17:44:12] /a 2
+[3/3/2018 17:44:13] /a 2
+[3/3/2018 17:44:13] /a 2
+[3/3/2018 17:44:13] /a 2
+[3/3/2018 17:44:13] /a 2
+[3/3/2018 17:44:13] /a 2
+[3/3/2018 17:44:14] /a 2
+[3/3/2018 17:44:14] /a 2
+[3/3/2018 17:44:14] /a 2
+[3/3/2018 17:44:14] /a 2
+[3/3/2018 17:44:15] /a 2
+[3/3/2018 17:44:15] /a 2
+[3/3/2018 17:44:15] /a 2
+[3/3/2018 17:44:15] /a 2
+[3/3/2018 17:44:16] /a 2
+[3/3/2018 17:44:16] /a 2
+[3/3/2018 17:44:16] /a 2
+[3/3/2018 17:44:16] /a 2
+[3/3/2018 17:44:17] /a 2
+[3/3/2018 17:44:17] /a 2
+[3/3/2018 17:44:17] /a 2
+[3/3/2018 17:44:17] /a 2
+[3/3/2018 17:44:17] /a 2
+[3/3/2018 17:44:18] /a 2
+[3/3/2018 17:44:18] /a 2
+[3/3/2018 17:44:18] /a 2
+[3/3/2018 17:44:47] /t
+[3/3/2018 17:44:50] /c matheus
+[3/3/2018 17:50:2] /reload globalevents
+[3/3/2018 17:50:19] /reload globalevents
+[3/3/2018 17:50:51] /reload globalevents
+[3/3/2018 17:51:18] /reload globalevents
+[3/3/2018 17:51:28] /reload globalevents
+[3/3/2018 17:51:46] /reload globalevents
+[3/3/2018 17:51:54] /reload globalevents
+[3/3/2018 17:52:4] /reload globalevents
+[3/3/2018 17:59:17] /r
+[3/3/2018 17:59:18] /r
+[3/3/2018 18:0:2] /r
+[3/3/2018 18:0:3] /r
+[3/3/2018 18:1:28] /reload movements
+[3/3/2018 18:1:47] /r
+[3/3/2018 18:1:55] /r
+[3/3/2018 18:2:38] /reload movements
+[3/3/2018 18:2:53] /r
+[3/3/2018 18:3:2] /r
+[3/3/2018 18:3:29] /reload movements
+[3/3/2018 18:3:42] /r
+[3/3/2018 18:4:53] /r
+[3/3/2018 18:6:31] /c matheus
+[3/3/2018 18:12:25] /reload globalevemts
+[3/3/2018 18:12:33] /reload globalevents
+[3/3/2018 18:16:20] /reload globalevents
+[3/3/2018 18:17:49] /reload globalevents
+[3/3/2018 18:18:8] /reload globalevents
+[3/3/2018 18:20:1] /reload globalevents
+[3/3/2018 18:20:44] /reload globalevents
+[3/3/2018 18:21:16] /reload globalevents
+[3/3/2018 18:22:13] /reload globalevents
+[3/3/2018 18:22:25] /reload globalevents
+[3/3/2018 19:48:46] /a 2
+[3/3/2018 19:48:46] /a 2
+[3/3/2018 19:48:46] /a 2
+[3/3/2018 19:48:46] /a 2
+[3/3/2018 19:48:46] /a 2
+[3/3/2018 19:48:47] /a 2
+[3/3/2018 19:48:47] /a 2
+[3/3/2018 19:48:47] /a 2
+[3/3/2018 19:48:47] /a 2
+[3/3/2018 19:48:48] /a 2
+[3/3/2018 19:48:48] /a 2
+[3/3/2018 19:48:57] /a 2
+[3/3/2018 19:48:57] /a 2
+[3/3/2018 19:48:58] /a 2
+[3/3/2018 19:48:58] /a 2
+[3/3/2018 19:48:58] /a 2
+[3/3/2018 19:48:58] /a 2
+[3/3/2018 19:48:59] /a 2
+[3/3/2018 19:49:11] /a 2
+[3/3/2018 19:49:11] /a 2
+[3/3/2018 19:49:11] /a 2
+[3/3/2018 19:49:12] /a 2
+[3/3/2018 19:49:12] /a 2
+[3/3/2018 19:49:12] /a 2
+[3/3/2018 19:49:12] /a 2
+[3/3/2018 19:49:13] /a 2
+[3/3/2018 19:49:13] /a 2
+[3/3/2018 19:49:13] /a 2
+[3/3/2018 19:49:13] /a 2
+[3/3/2018 19:49:14] /a 2
+[3/3/2018 19:49:14] /a 2
+[3/3/2018 19:49:14] /a 2
+[3/3/2018 19:49:14] /a 2
+[3/3/2018 19:49:14] /a 2
+[3/3/2018 19:49:15] /a 2
+[3/3/2018 19:49:15] /a 2
+[3/3/2018 19:49:15] /a 2
+[3/3/2018 19:49:15] /a 2
+[3/3/2018 19:49:16] /a 2
+[3/3/2018 19:49:17] /a 2
+[3/3/2018 19:49:17] /a 2
+[3/3/2018 19:49:17] /a 2
+[3/3/2018 19:49:17] /a 2
+[3/3/2018 19:49:17] /a 2
+[3/3/2018 19:49:18] /a 2
+[3/3/2018 19:49:18] /a 2
+[3/3/2018 19:49:24] /a 2
+[3/3/2018 19:49:25] /a 2
+[3/3/2018 19:49:25] /a 2
+[3/3/2018 19:49:25] /a 2
+[3/3/2018 19:49:25] /a 2
+[3/3/2018 19:49:26] /a 2
+[3/3/2018 19:49:26] /a 2
+[3/3/2018 19:49:26] /a 2
+[3/3/2018 19:49:27] /a 2
+[3/3/2018 19:49:27] /a 2
+[3/3/2018 19:49:27] /a 2
+[3/3/2018 19:49:28] /a 2
+[3/3/2018 19:49:28] /a 2
+[3/3/2018 19:49:28] /a 2
+[3/3/2018 19:49:28] /a 2
+[3/3/2018 20:1:9] /a 2
+[3/3/2018 20:1:10] /a 2
+[3/3/2018 20:1:10] /a 2
+[3/3/2018 20:1:10] /a 2
+[3/3/2018 20:1:10] /a 2
+[3/3/2018 20:1:24] /a 2
+[3/3/2018 20:1:24] /a 2
+[3/3/2018 20:1:24] /a 2
+[3/3/2018 20:1:25] /a 2
+[3/3/2018 20:1:25] /a 2
+[3/3/2018 20:1:25] /a 2
+[3/3/2018 20:1:26] /a 2
+[3/3/2018 20:1:26] /a 2
+[3/3/2018 20:1:26] /a 2
+[3/3/2018 20:1:27] /a 2
+[3/3/2018 20:1:27] /a 2
+[3/3/2018 20:1:27] /a 2
+[3/3/2018 20:1:27] /a 2
+[3/3/2018 20:1:27] /a 2
+[3/3/2018 20:1:28] /a 2
+[3/3/2018 20:1:28] /a 2
+[3/3/2018 20:1:28] /a 2
+[3/3/2018 20:1:28] /a 2
+[3/3/2018 20:1:29] /a 2
+[3/3/2018 20:1:29] /a 2
+[3/3/2018 20:1:29] /a 2
+[3/3/2018 20:7:44] /a 2
+[3/3/2018 20:7:44] /a 2
+[3/3/2018 20:7:44] /a 2
+[3/3/2018 20:7:44] /a 2
+[3/3/2018 20:7:44] /a 2
+[3/3/2018 20:7:44] /a 2
+[3/3/2018 20:7:45] /a 2
+[3/3/2018 20:7:45] /a 2
+[3/3/2018 20:7:45] /a 2
+[3/3/2018 20:7:45] /a 2
+[3/3/2018 20:7:45] /a 2
+[3/3/2018 20:7:45] /a 2
+[3/3/2018 20:7:46] /a 2
+[3/3/2018 20:7:48] /a 2
+[3/3/2018 20:7:49] /a 2
+[3/3/2018 20:7:49] /a 2
+[3/3/2018 20:7:49] /a 2
+[3/3/2018 20:7:49] /a 2
+[3/3/2018 20:7:49] /a 2
+[3/3/2018 20:7:49] /a 2
+[3/3/2018 20:7:50] /a 2
+[3/3/2018 20:7:50] /a 2
+[3/3/2018 20:20:13] /t
+[3/3/2018 20:20:15] /c matheus
+[4/3/2018 16:9:59] /i 12722
+[4/3/2018 16:10:12] /i 12289
+[4/3/2018 16:19:1] /reload actions
+[4/3/2018 16:20:44] /i 12289
+[4/3/2018 16:21:44] /reload actions
+[4/3/2018 16:22:1] /i 12889
+[4/3/2018 16:22:8] /i 12889
+[4/3/2018 16:22:16] /i 12289
+[4/3/2018 16:23:51] /reload actions
+[4/3/2018 16:24:29] /i 12289
+[4/3/2018 16:30:12] /reload actions
+[4/3/2018 16:31:19] /reload actions
+[4/3/2018 16:31:59] /reload actions
+[4/3/2018 16:33:40] /reload actions
+[4/3/2018 16:34:38] /i 12289
+[4/3/2018 16:34:38] /i 12289
+[4/3/2018 16:34:39] /i 12289
+[4/3/2018 16:34:40] /i 12289
+[4/3/2018 16:34:40] /i 12289
+[4/3/2018 16:34:41] /i 12289
+[4/3/2018 16:34:42] /i 12289
+[4/3/2018 16:34:50] /reload actions
+[4/3/2018 16:35:23] /reload actions
+[4/3/2018 16:36:14] /reload actions
+[4/3/2018 16:37:48] /reload actions
+[4/3/2018 16:39:15] /reload actions
+[4/3/2018 16:40:29] /reload actions
+[4/3/2018 16:42:58] /reload actions
+[4/3/2018 16:43:34] /reload actions
+[4/3/2018 16:45:14] /reload actions
+[4/3/2018 16:45:37] /reload actions
+[4/3/2018 16:47:56] /reload actions
+[4/3/2018 16:49:48] /i 12289
+[4/3/2018 16:49:50] /i 12289
+[4/3/2018 16:50:9] /i backpack
+[4/3/2018 16:52:11] /reload actions
+[4/3/2018 16:54:51] /i 12289
+[4/3/2018 16:56:17] /reload actions
+[4/3/2018 16:57:6] /reload actions
+[4/3/2018 16:59:39] /reload actions
+[4/3/2018 17:1:20] /reload actions
+[4/3/2018 17:4:20] /reload actions
+[4/3/2018 17:4:58] /reload actions
+[4/3/2018 17:7:17] /reload actions
+[4/3/2018 17:8:7] /reload actions
+[4/3/2018 17:8:44] /reload actions
+[4/3/2018 17:9:1] /reload actions
+[4/3/2018 17:9:42] /reload actions
+[4/3/2018 17:12:56] /reload actions
+[4/3/2018 17:13:27] /reload actions
+[4/3/2018 17:16:54] /reload actions
+[4/3/2018 17:18:6] /reload actions
+[4/3/2018 17:18:53] /reload actions
+[4/3/2018 17:19:32] /reload actions
+[4/3/2018 17:23:14] /reload actions
+[4/3/2018 17:23:53] /reload actions
+[4/3/2018 17:28:2] /reload actions
+[4/3/2018 17:28:38] /reload actions
+[4/3/2018 17:28:52] /reload actions
+[4/3/2018 17:30:5] /reload actions
+[4/3/2018 17:30:57] /reload actions
+[4/3/2018 17:32:1] /reload actions
+[4/3/2018 17:38:33] /reload actions
+[4/3/2018 17:45:13] /reload actions
+[4/3/2018 17:46:0] /i 12289
+[4/3/2018 18:3:59] /reload actions
+[4/3/2018 18:7:50] /i 12289
+[4/3/2018 18:7:53] /reload actions
+[4/3/2018 18:26:6] /reload actions
+[4/3/2018 18:27:37] /reload actions
+[4/3/2018 18:28:19] /reload actions
+[4/3/2018 18:28:49] /reload actions
+[4/3/2018 18:29:26] /reload actions
+[4/3/2018 18:30:5] /reload actions
+[4/3/2018 18:30:39] /reload actions
+[4/3/2018 18:31:8] /reload actions
+[4/3/2018 18:34:26] /reload actions
+[4/3/2018 18:34:53] /i 12289
+[4/3/2018 18:34:54] /i 12289
+[4/3/2018 18:34:55] /i 12289
+[4/3/2018 18:34:55] /i 12289
+[4/3/2018 18:34:55] /i 12289
+[4/3/2018 18:50:41] /reload actions
+[4/3/2018 19:17:54] /reload actions
+[4/3/2018 19:18:40] /reload actions
+[4/3/2018 19:19:10] /reload actions
+[4/3/2018 19:35:3] /m rat
+[4/3/2018 19:35:3] /m rat
+[4/3/2018 19:35:4] /m rat
+[4/3/2018 19:35:4] /m rat
+[4/3/2018 19:35:4] /m rat
+[4/3/2018 19:35:4] /m rat
+[4/3/2018 19:35:4] /m rat
+[4/3/2018 19:35:4] /m rat
+[4/3/2018 19:35:4] /m rat
+[4/3/2018 19:35:4] /m rat
+[4/3/2018 19:35:4] /m rat
+[4/3/2018 19:35:5] /m rat
+[4/3/2018 19:35:5] /m rat
+[4/3/2018 19:35:5] /a 2
+[4/3/2018 19:35:5] /m rat
+[4/3/2018 19:35:6] /m rat
+[4/3/2018 19:35:6] /m rat
+[4/3/2018 19:35:6] /m rat
+[4/3/2018 19:35:6] /m rat
+[4/3/2018 19:35:6] /m rat
+[4/3/2018 19:35:6] /m rat
+[4/3/2018 19:35:6] /m rat
+[4/3/2018 19:35:6] /m rat
+[4/3/2018 19:35:6] /m rat
+[4/3/2018 19:35:6] /m rat
+[4/3/2018 19:35:6] /a 2
+[4/3/2018 19:35:6] /m rat
+[4/3/2018 19:35:7] /m rat
+[4/3/2018 19:35:7] /m rat
+[4/3/2018 19:35:7] /m rat
+[4/3/2018 19:35:7] /m rat
+[4/3/2018 19:35:7] /m rat
+[4/3/2018 19:35:7] /m rat
+[4/3/2018 19:35:7] /m rat
+[4/3/2018 19:35:7] /m rat
+[4/3/2018 19:35:7] /m rat
+[4/3/2018 19:35:7] /m rat
+[4/3/2018 19:35:7] /m rat
+[4/3/2018 19:35:7] /a 2
+[4/3/2018 19:35:7] /m rat
+[4/3/2018 19:35:8] /m rat
+[4/3/2018 19:35:8] /m rat
+[4/3/2018 19:35:8] /m rat
+[4/3/2018 19:35:8] /m rat
+[4/3/2018 19:35:8] /m rat
+[4/3/2018 19:35:8] /m rat
+[4/3/2018 19:35:8] /m rat
+[4/3/2018 19:35:8] /m rat
+[4/3/2018 19:35:8] /m rat
+[4/3/2018 19:35:8] /a 2
+[4/3/2018 19:35:8] /m rat
+[4/3/2018 19:35:9] /m rat
+[4/3/2018 19:35:9] /m rat
+[4/3/2018 19:35:9] /m rat
+[4/3/2018 19:35:9] /m rat
+[4/3/2018 19:35:9] /m rat
+[4/3/2018 19:35:9] /m rat
+[4/3/2018 19:35:9] /m rat
+[4/3/2018 19:35:9] /m rat
+[4/3/2018 19:35:9] /m rat
+[4/3/2018 19:35:9] /m rat
+[4/3/2018 19:35:10] /m rat
+[4/3/2018 19:35:10] /a 2
+[4/3/2018 19:35:10] /m rat
+[4/3/2018 19:35:11] /m rat
+[4/3/2018 19:35:11] /m rat
+[4/3/2018 19:35:11] /m rat
+[4/3/2018 19:35:11] /m rat
+[4/3/2018 19:35:11] /m rat
+[4/3/2018 19:35:11] /m rat
+[4/3/2018 19:35:11] /m rat
+[4/3/2018 19:35:11] /m rat
+[4/3/2018 19:35:11] /m rat
+[4/3/2018 19:35:11] /m rat
+[4/3/2018 19:35:12] /a 2
+[4/3/2018 19:35:12] /m rat
+[4/3/2018 19:35:13] /m rat
+[4/3/2018 19:35:13] /m rat
+[4/3/2018 19:35:13] /m rat
+[4/3/2018 19:35:13] /m rat
+[4/3/2018 19:35:13] /m rat
+[4/3/2018 19:35:13] /m rat
+[4/3/2018 19:35:13] /m rat
+[4/3/2018 19:35:13] /m rat
+[4/3/2018 19:35:13] /m rat
+[4/3/2018 19:35:13] /m rat
+[4/3/2018 19:35:14] /a 2
+[4/3/2018 19:35:14] /m rat
+[4/3/2018 19:35:15] /m rat
+[4/3/2018 19:35:15] /m rat
+[4/3/2018 19:35:15] /m rat
+[4/3/2018 19:35:15] /m rat
+[4/3/2018 19:35:15] /m rat
+[4/3/2018 19:35:15] /m rat
+[4/3/2018 19:35:15] /m rat
+[4/3/2018 19:35:15] /m rat
+[4/3/2018 19:35:15] /m rat
+[4/3/2018 19:35:15] /a 2
+[4/3/2018 19:35:15] /m rat
+[4/3/2018 19:35:16] /m rat
+[4/3/2018 19:35:16] /m rat
+[4/3/2018 19:35:16] /m rat
+[4/3/2018 19:35:16] /m rat
+[4/3/2018 19:35:16] /m rat
+[4/3/2018 19:35:16] /m rat
+[4/3/2018 19:35:16] /m rat
+[4/3/2018 19:35:16] /a 2
+[4/3/2018 19:35:17] /m rat
+[4/3/2018 19:35:17] /m rat
+[4/3/2018 19:35:17] /m rat
+[4/3/2018 19:35:17] /m rat
+[4/3/2018 19:35:17] /m rat
+[4/3/2018 19:35:17] /m rat
+[4/3/2018 19:41:20] /i 12289
+[4/3/2018 19:41:51] /i 12289
+[4/3/2018 19:43:23] /i 12289
+[4/3/2018 19:44:9] /i 12289
+[4/3/2018 19:46:51] /reload actions
+[4/3/2018 19:47:3] /i 12289
+[4/3/2018 19:47:16] /i 12289
+[4/3/2018 19:50:58] /i 12289
+[4/3/2018 19:51:3] /i 12289
+[4/3/2018 19:58:36] /i 12289
+[4/3/2018 19:59:8] /reload actions
+[4/3/2018 19:59:21] /i 12289
+[4/3/2018 19:59:46] /reload actions
+[4/3/2018 20:0:8] /reload actions
+[4/3/2018 20:0:21] /i 12289
+[4/3/2018 20:0:41] /i 12289
+[4/3/2018 20:0:41] /i 12289
+[4/3/2018 20:0:42] /i 12289
+[4/3/2018 20:0:42] /i 12289
+[4/3/2018 20:0:43] /i 12289
+[10/3/2018 11:55:44] /m rat
+[10/3/2018 11:56:13] /m rat
+[10/3/2018 11:57:9] /m rat
+[10/3/2018 11:57:9] /m rat
+[10/3/2018 11:57:9] /m rat
+[10/3/2018 11:57:9] /m rat
+[10/3/2018 11:57:9] /m rat
+[10/3/2018 11:57:10] /m rat
+[10/3/2018 11:59:20] /reload creaturescripts
+[10/3/2018 11:59:32] /m rat
+[10/3/2018 11:59:32] /m rat
+[10/3/2018 11:59:32] /m rat
+[10/3/2018 11:59:32] /m rat
+[10/3/2018 11:59:32] /m rat
+[10/3/2018 11:59:32] /m rat
+[10/3/2018 11:59:32] /m rat
+[10/3/2018 12:3:11] /m rat
+[10/3/2018 12:3:11] /m rat
+[10/3/2018 12:3:11] /m rat
+[10/3/2018 12:3:12] /m rat
+[10/3/2018 12:3:12] /m rat
+[10/3/2018 12:3:12] /m rat
+[10/3/2018 12:29:4] /reload creaturescripts
+[10/3/2018 12:30:44] /reload creaturescripts
+[10/3/2018 12:35:2] /reload creaturescripts
+[10/3/2018 12:36:51] /reload creaturescripts
+[10/3/2018 12:55:23] /reload creaturescripts
+[10/3/2018 12:57:35] /reload creaturescripts
+[10/3/2018 13:2:8] /reload creaturescripts
+[10/3/2018 13:3:42] /reload creaturescripts
+[10/3/2018 13:7:18] /reload creaturescripts
+[10/3/2018 13:8:41] /reload creaturescripts
+[10/3/2018 13:10:4] /reload creaturescripts
+[10/3/2018 13:11:20] /reload creaturescripts
+[10/3/2018 13:11:41] /reload creaturescripts
+[10/3/2018 13:18:39] /reload creaturescripts
+[10/3/2018 13:26:11] /reload creaturescripts
+[10/3/2018 13:31:10] /reload creaturescripts
+[10/3/2018 13:31:54] /reload creaturescripts
+[10/3/2018 13:38:11] /reload creaturescripts
+[10/3/2018 13:40:28] /reload creaturescripts
+[10/3/2018 13:40:59] /reload creaturescripts
+[10/3/2018 13:41:3] /reload creaturescripts
+[10/3/2018 13:50:39] /reload creaturescripts
+[10/3/2018 13:52:16] /reload creaturescripts
+[10/3/2018 13:54:11] /reload creaturescripts
+[10/3/2018 13:54:20] /reload creaturescripts
+[10/3/2018 13:56:0] /reload creaturescripts
+[10/3/2018 13:57:41] /reload creaturescripts
+[10/3/2018 13:58:44] /reload creaturescripts
+[10/3/2018 13:59:0] /reload creaturescripts
+[10/3/2018 13:59:21] /reload creaturescripts
+[10/3/2018 14:2:21] /reload creaturescripts
+[10/3/2018 14:3:18] /reload creaturescripts
+[10/3/2018 14:3:47] /reload creaturescripts
+[10/3/2018 14:4:1] /reload creaturescripts
+[10/3/2018 14:4:27] /reload creaturescripts
+[10/3/2018 14:5:12] /reload creaturescripts
+[10/3/2018 14:5:59] /reload creaturescripts
+[10/3/2018 14:6:39] /reload creaturescripts
+[10/3/2018 14:10:13] /reload creaturescripts
+[10/3/2018 14:11:28] /reload creaturescripts
+[10/3/2018 14:16:45] /reload creaturescripts
+[10/3/2018 14:17:6] /r
+[10/3/2018 14:18:2] /reload creaturescripts
+[10/3/2018 14:18:40] /reload creaturescripts
+[10/3/2018 14:23:45] /reload talkactions
+[10/3/2018 14:23:51] /reload creaturescripts
+[10/3/2018 14:24:23] /reload talkactions
+[10/3/2018 14:24:47] /reload creaturescripts
+[10/3/2018 14:26:2] /reload creaturescripts
+[10/3/2018 14:26:6] /reload talkactions
+[10/3/2018 14:28:50] /reload creaturescripts
+[10/3/2018 14:30:4] /reload talkactions
+[10/3/2018 14:30:19] /reload creaturescripts
+[10/3/2018 14:33:5] /c aviao
+[10/3/2018 14:40:13] /goto matheus
+[10/3/2018 14:47:54] /reload creaturescripts
+[10/3/2018 14:55:7] /reload creaturescripts
+[10/3/2018 14:55:27] /reload creaturescripts
+[10/3/2018 14:58:56] /reload creaturescripts
+[10/3/2018 14:59:24] /reload talkactions
+[10/3/2018 15:6:1] /reload creaturescripts
+[10/3/2018 15:9:24] /reload creaturescripts
+[10/3/2018 15:10:46] /reload creaturescripts
+[10/3/2018 15:14:28] /reload creaturescripts
+[10/3/2018 15:18:19] /reload creaturescripts
+[10/3/2018 15:28:21] /reload creaturescripts
+[10/3/2018 15:29:20] /reload creaturescripts
+[10/3/2018 15:29:27] /reload creaturescripts
+[10/3/2018 15:30:42] /reload creaturescripts
+[10/3/2018 15:32:42] /reload creaturescripts
+[10/3/2018 15:33:38] /reload creaturescripts
+[10/3/2018 15:34:12] /reload creaturescripts
+[10/3/2018 16:2:14] /m rat
+[10/3/2018 16:2:18] /m dragon
+[10/3/2018 16:2:41] /reload creaturescripts
+[10/3/2018 16:2:52] /m dragon
+[10/3/2018 16:3:13] /m dragon
+[10/3/2018 16:5:3] /m dragon
+[10/3/2018 16:5:3] /m dragon
+[10/3/2018 16:5:3] /m dragon
+[10/3/2018 16:5:3] /m dragon
+[10/3/2018 16:5:3] /m dragon
+[10/3/2018 16:16:49] /reload creaturescripts
+[10/3/2018 17:13:42] /reload creaturescripts
+[10/3/2018 17:16:35] /reload creaturescripts
+[10/3/2018 17:22:21] /reload creaturescripts
+[10/3/2018 17:25:7] /reload creaturescripts
+[10/3/2018 17:28:18] /reload creaturescripts
+[10/3/2018 17:30:7] /reload creaturescripts
+[10/3/2018 17:37:49] /reload creaturescripts
+[10/3/2018 17:53:49] /reload creaturescripts
+[10/3/2018 20:4:26] /reload creaturescripts
+[10/3/2018 23:2:59] /i 11227
+[10/3/2018 23:3:51] /i harned bone
+[10/3/2018 23:14:59] /reload creaturescripts
+[10/3/2018 23:18:58] /i 11227
+[10/3/2018 23:21:48] /reload creaturescripts
+[10/3/2018 23:44:26] /reload creaturescripts
+[10/3/2018 23:51:17] /reload creaturescripts
+[10/3/2018 23:51:22] /reload talkactions
+[10/3/2018 23:52:33] /reload talkactions
+[10/3/2018 23:53:58] /reload creaturescripts
+[11/3/2018 0:3:18] /reload creaturescripts
+[11/3/2018 0:3:23] /reload talkactions
+[11/3/2018 0:3:36] /r
+[11/3/2018 0:4:23] /reload creaturescripts
+[11/3/2018 0:4:28] /r
+[11/3/2018 0:5:6] /reload creaturescripts
+[11/3/2018 0:5:11] /reload talkactions
+[11/3/2018 0:10:38] /reload talkactions
+[11/3/2018 0:10:42] /reload creaturescripts
+[11/3/2018 0:14:11] /reload creaturescripts
+[11/3/2018 0:14:17] /reload talkactions
+[11/3/2018 0:28:52] /goto matheus
+[11/3/2018 0:28:53] /goto matheus
+[11/3/2018 0:28:58] /goto matheus
+[11/3/2018 0:28:59] /goto matheus
+[11/3/2018 0:29:3] /goto matheus
+[11/3/2018 0:29:31] /a 2
+[11/3/2018 0:30:12] /goto matheus
+[11/3/2018 0:31:30] /goto matheus
+[11/3/2018 0:31:31] /goto matheus
+[11/3/2018 0:31:42] /goto matheus
+[11/3/2018 0:32:21] /goto matheus
+[11/3/2018 0:37:21] /i wand of vortex
+[11/3/2018 0:41:42] /n buy itens
+[11/3/2018 0:41:49] /n buy itens donaye
+[11/3/2018 0:41:51] /n buy itens donate
+[11/3/2018 0:43:5] /i backpack
+[11/3/2018 0:43:46] /i 12396
+[11/3/2018 0:44:3] /i 12575
+[11/3/2018 0:44:22] /i 12575
+[11/3/2018 0:45:35] /reload npcs
+[11/3/2018 0:46:49] /reload npcs
+[11/3/2018 0:50:3] /reload npcs
+[11/3/2018 0:50:44] /reload npcs
+[11/3/2018 0:58:55] /reload npcs
+[11/3/2018 0:59:0] /n buy itens donate
+[11/3/2018 0:59:26] /reload npcs
+[11/3/2018 1:0:40] /i coal basin
+[11/3/2018 1:0:42] /i coal basin
+[11/3/2018 1:0:44] /i coal basin
+[11/3/2018 1:0:46] /i coal basin
+[11/3/2018 1:0:47] /i coal basin
+[11/3/2018 1:0:55] /reload npcs
+[11/3/2018 1:1:18] /i 12372
+[11/3/2018 1:1:19] /i 12372
+[11/3/2018 1:1:20] /i 12372
+[11/3/2018 1:1:21] /i 12372
+[11/3/2018 1:1:21] /i 12372
+[11/3/2018 1:1:22] /i 12372
+[11/3/2018 1:1:23] /i 12372
+[11/3/2018 1:1:23] /i 12372
+[11/3/2018 1:1:24] /i 12372
+[11/3/2018 1:1:25] /i 12372
+[11/3/2018 1:2:13] /reload npcs
+[11/3/2018 1:3:17] /reload npcs
+[11/3/2018 1:3:47] /n event seller
+[11/3/2018 1:5:18] /reload npcs
+[11/3/2018 1:5:30] /i 6537
+[11/3/2018 1:5:31] /i 6537
+[11/3/2018 1:5:37] /i 6527
+[11/3/2018 1:5:38] /i 6527
+[11/3/2018 1:5:39] /i 6527
+[11/3/2018 1:5:39] /i 6527
+[11/3/2018 1:5:40] /i 6527
+[11/3/2018 1:5:41] /i 6527
+[11/3/2018 1:5:41] /i 6527
+[11/3/2018 1:5:46] /i 6527
+[11/3/2018 1:5:47] /i 6527
+[11/3/2018 1:5:50] /i 6527
+[11/3/2018 1:6:12] /r
+[11/3/2018 1:7:7] /reload npcs
+[11/3/2018 1:7:24] /reload npcs
+[11/3/2018 1:9:41] /i crystal coin
+[11/3/2018 1:10:59] /reload npcs
+[11/3/2018 1:18:13] /reload npcs
+[11/3/2018 1:20:15] /reload npcs
+[11/3/2018 1:20:50] /reload npcs
+[11/3/2018 1:20:58] /reload npcs
+[11/3/2018 1:21:3] /reload npcs
+[11/3/2018 1:22:8] /reload npcs
+[11/3/2018 1:22:54] /reload npcs
+[11/3/2018 1:27:45] /reload npcs
+[11/3/2018 1:27:47] /i backpack
+[11/3/2018 1:28:20] /i 8901
+[11/3/2018 1:28:22] /i 8901
+[11/3/2018 1:28:23] /i 8901
+[11/3/2018 1:28:23] /i 8901
+[11/3/2018 1:28:24] /i 8901
+[11/3/2018 1:28:25] /i 8901
+[11/3/2018 1:28:41] /i bag
+[11/3/2018 1:28:44] /i 8901
+[11/3/2018 1:29:11] /i 8901
+[11/3/2018 1:29:18] /i bag
+[11/3/2018 1:29:22] /i 8901
+[11/3/2018 1:29:43] /i 8901
+[11/3/2018 1:30:21] /reload npcs
+[11/3/2018 1:30:26] /i 8901
+[11/3/2018 1:30:27] /i 8901
+[11/3/2018 1:30:29] /i 8901
+[11/3/2018 1:30:47] /reload npcs
+[11/3/2018 1:31:13] /reload npcs
+[11/3/2018 1:31:36] /reload npcs
+[11/3/2018 1:31:55] /i bag
+[11/3/2018 1:31:57] /i 8901
+[11/3/2018 1:31:58] /i 8901
+[11/3/2018 1:31:59] /i 8901
+[11/3/2018 1:31:59] /i 8901
+[11/3/2018 1:33:40] /i 7426
+[11/3/2018 1:34:12] /reload npcs
+[11/3/2018 1:36:12] /reload npcs
+[11/3/2018 1:36:45] /reload npcs
+[11/3/2018 1:37:25] /reload npcs
+[11/3/2018 1:38:10] /reload npcs
+[11/3/2018 16:46:25] /n buy itens donate
+[11/3/2018 16:46:53] /i 10581
+[11/3/2018 16:46:57] /i 10581
+[11/3/2018 16:59:31] /reload npcs
+[11/3/2018 16:59:53] /reload npcs
+[11/3/2018 16:59:57] /n buy itens vip
+[11/3/2018 17:0:0] /n buy itens donate
+[11/3/2018 17:0:20] /i wyrm scale
+[11/3/2018 17:0:21] /i wyrm scale
+[11/3/2018 17:0:21] /i wyrm scale
+[11/3/2018 17:0:22] /i wyrm scale
+[11/3/2018 17:0:22] /i wyrm scale
+[11/3/2018 17:1:48] /i 2195
+[11/3/2018 17:1:59] /reload npcs
+[11/3/2018 17:8:9] /i 8901
+[11/3/2018 17:11:8] /reload npcs
+[11/3/2018 17:11:35] /i 8901
+[11/3/2018 17:11:36] /i 8901
+[11/3/2018 17:11:37] /i 8901
+[11/3/2018 17:12:6] /i 8901
+[11/3/2018 17:12:32] /i 8901
+[11/3/2018 17:13:20] /i 8901
+[11/3/2018 17:13:22] /i 8901
+[11/3/2018 17:16:37] /i 8901
+[11/3/2018 17:16:40] /i 8901
+[11/3/2018 19:1:36] /i coal basin
+[11/3/2018 19:1:37] /i coal basin
+[11/3/2018 19:1:38] /i coal basin
+[11/3/2018 19:1:39] /i coal basin
+[11/3/2018 19:1:42] /i coal basin
+[11/3/2018 19:1:42] /i coal basin
+[11/3/2018 19:1:45] /a 2
+[11/3/2018 19:1:48] /a 2
+[11/3/2018 19:1:50] /a 1
+[11/3/2018 19:1:56] /n buy itens donate
+[11/3/2018 19:2:2] /r
+[11/3/2018 19:2:4] /n buy itens donate
+[11/3/2018 19:2:9] /i coal basin
+[11/3/2018 19:5:47] /reload npcs
+[11/3/2018 19:6:1] /reload npcs
+[11/3/2018 19:6:39] /reload npcs
+[11/3/2018 19:6:55] /reload npcs
+[11/3/2018 19:8:45] /reload npcs
+[11/3/2018 19:11:31] /reload npcs
+[11/3/2018 19:12:25] /reload npcs
+[11/3/2018 19:12:52] /reload npcs
+[11/3/2018 19:13:8] /reload npcs
+[11/3/2018 19:13:22] /reload npcs
+[11/3/2018 19:15:9] /reload npcs
+[11/3/2018 19:15:25] /reload npcs
+[11/3/2018 19:15:56] /reload npc
+[11/3/2018 19:16:54] /reload npc
+[11/3/2018 19:17:13] /reload npc
+[11/3/2018 19:17:39] /reload npc
+[11/3/2018 19:17:40] /reload npc
+[11/3/2018 19:17:40] /reload npc
+[11/3/2018 19:17:40] /reload npc
+[11/3/2018 19:17:40] /reload npc
+[11/3/2018 19:18:6] /reload npc
+[11/3/2018 19:19:8] /reload npc
+[11/3/2018 19:19:31] /reload npc
+[11/3/2018 19:19:58] /reload npc
+[11/3/2018 19:20:17] /reload npc
+[11/3/2018 19:20:43] /reload npc
+[11/3/2018 19:20:56] /reload npc
+[11/3/2018 19:26:6] /n buy itens donate
+[11/3/2018 19:26:31] /reload npcs
+[11/3/2018 19:32:33] /reload npc
+[11/3/2018 19:34:25] /reload npc
+[11/3/2018 19:34:32] /reload npc
+[11/3/2018 19:34:53] /reload npc
+[11/3/2018 19:37:38] /reload npc
+[11/3/2018 19:37:44] /n buy itens donate
+[11/3/2018 19:38:42] /i 8981
+[11/3/2018 19:38:43] /i 8981
+[11/3/2018 19:38:51] /i spelbook of warding
+[11/3/2018 19:38:56] /i spelbook of warding
+[11/3/2018 19:40:4] /i 8901
+[11/3/2018 19:40:19] /i 8901
+[11/3/2018 19:40:33] /i 8901
+[11/3/2018 19:49:34] /reload npc
+[11/3/2018 19:50:1] /reload npc
+[11/3/2018 19:51:18] /reload npc
+[11/3/2018 19:52:31] /reload npc
+[11/3/2018 19:55:18] /reload npc
+[11/3/2018 19:56:7] /reload npc
+[11/3/2018 20:4:2] /reload npc
+[11/3/2018 20:4:43] /reload npc
+[11/3/2018 20:4:49] /n buy itens donate
+[11/3/2018 20:5:39] /reload npc
+[11/3/2018 20:5:57] /i 8901
+[11/3/2018 20:6:32] /reload npc
+[11/3/2018 20:6:47] /reload npc
+[11/3/2018 20:6:49] /reload npc
+[11/3/2018 20:6:52] /reload npc
+[11/3/2018 20:7:54] /reload npc
+[11/3/2018 20:8:36] /reload npc
+[11/3/2018 20:14:58] /reload npc
+[11/3/2018 20:15:25] /reload npc
+[11/3/2018 20:25:10] /reload npc
+[11/3/2018 20:31:7] /reload npc
+[11/3/2018 20:33:57] /reload npc
+[11/3/2018 20:36:4] /reload npc
+[11/3/2018 20:36:20] /reload npc
+[11/3/2018 20:37:38] /reload npc
+[11/3/2018 20:40:59] /reload npc
+[11/3/2018 20:42:54] /reload npc
+[11/3/2018 20:44:59] /reload npc
+[11/3/2018 20:45:29] /reload npc
+[11/3/2018 20:47:38] /reload npc
+[11/3/2018 20:48:16] /reload npc
+[11/3/2018 20:49:15] /reload npc
+[11/3/2018 20:49:31] /i 8901
+[11/3/2018 20:49:42] /i 8901
+[11/3/2018 20:51:4] /reload npc
+[11/3/2018 20:52:16] /reload npc
+[11/3/2018 20:52:36] /reload npc
+[11/3/2018 20:52:39] /reload npc
+[11/3/2018 20:53:27] /reload npc
+[11/3/2018 20:54:4] /reload npc
+[11/3/2018 20:56:57] /reload npc
+[11/3/2018 20:58:51] /reload npc
+[11/3/2018 20:59:28] /reload npc
+[11/3/2018 21:0:38] /reload npc
+[11/3/2018 21:1:12] /reload npc
+[11/3/2018 21:1:15] /reload npc
+[11/3/2018 21:1:46] /reload npc
+[11/3/2018 21:4:37] /reload npc
+[11/3/2018 21:5:48] /reload npc
+[11/3/2018 21:6:5] /m rat
+[11/3/2018 21:6:6] /reload npc
+[11/3/2018 21:8:43] /reload npc
+[11/3/2018 21:9:2] /reload npc
+[11/3/2018 21:22:45] /reload npc
+[11/3/2018 21:22:59] /reload npc
+[11/3/2018 21:25:19] /reload npc
+[11/3/2018 21:26:49] /reload npc
+[11/3/2018 21:27:51] /reload npc
+[11/3/2018 21:29:3] /reload npc
+[11/3/2018 21:29:24] /reload npc
+[11/3/2018 21:31:43] /reload npc
+[11/3/2018 21:34:59] /reload npc
+[11/3/2018 21:38:17] /reload npc
+[11/3/2018 21:41:46] /reload npc
+[11/3/2018 21:44:12] /reload npc
+[11/3/2018 21:44:35] /reload npc
+[11/3/2018 21:45:18] /reload npc
+[11/3/2018 21:45:44] /reload npc
+[11/3/2018 21:46:19] /reload npc
+[11/3/2018 21:46:45] /reload npc
+[11/3/2018 21:47:55] /reload npc
+[11/3/2018 21:48:17] /reload npc
+[11/3/2018 21:48:22] /reload npc
+[11/3/2018 21:48:48] /reload npc
+[11/3/2018 21:49:34] /reload npc
+[11/3/2018 21:49:38] /reload npc
+[11/3/2018 21:50:9] /reload npc
+[11/3/2018 21:51:31] /reload npc
+[11/3/2018 21:51:52] /reload npc
+[11/3/2018 21:52:25] /reload npc
+[11/3/2018 21:52:40] /i 8901
+[11/3/2018 21:52:42] /reload npc
+[11/3/2018 21:53:5] /i 8901
+[11/3/2018 21:53:42] /i 8901
+[11/3/2018 21:53:42] /i 8901
+[11/3/2018 21:53:43] /i 8901
+[11/3/2018 21:59:17] /reload npc
+[11/3/2018 22:0:39] /reload npc
+[11/3/2018 22:1:15] /reload npc
+[11/3/2018 22:1:23] /reload npc
+[11/3/2018 22:1:49] /reload npc
+[11/3/2018 22:2:5] /i 8901
+[11/3/2018 22:2:6] /i 8901
+[11/3/2018 22:6:0] /reload npc
+[11/3/2018 22:6:17] /i 8901
+[11/3/2018 22:6:18] /i 8901
+[11/3/2018 22:6:21] /i 8901
+[11/3/2018 22:6:23] /reload npc
+[11/3/2018 22:6:44] /i 8901
+[11/3/2018 22:6:45] /i 8901
+[11/3/2018 22:7:47] /reload npc
+[11/3/2018 22:18:58] /reload npc
+[11/3/2018 22:19:53] /reload npc
+[11/3/2018 22:21:2] /reload npc
+[11/3/2018 22:21:24] /reload npc
+[11/3/2018 22:21:31] /i 8901
+[11/3/2018 22:21:32] /i 8901
+[11/3/2018 22:21:33] /i 8901
+[11/3/2018 22:21:54] /reload npc
+[11/3/2018 22:21:55] /reload npc
+[11/3/2018 22:21:57] /reload npc
+[11/3/2018 22:22:10] /i 8901
+[11/3/2018 22:22:11] /i 8901
+[11/3/2018 22:22:11] /i 8901
+[11/3/2018 22:23:51] /reload npc
+[11/3/2018 22:28:48] /reload npc
+[11/3/2018 22:28:54] /reload npc
+[11/3/2018 22:28:55] /m rat
+[11/3/2018 22:28:57] /m rat
+[11/3/2018 22:28:58] /reload npc
+[11/3/2018 22:29:21] /reload npc
+[11/3/2018 22:30:22] /reload npc
+[11/3/2018 22:30:33] /i 8901
+[11/3/2018 22:30:34] /i 8901
+[11/3/2018 22:30:34] /i 8901
+[11/3/2018 22:30:35] /i 8901
+[11/3/2018 22:30:35] /i 8901
+[11/3/2018 22:31:28] /i 8901
+[11/3/2018 22:31:28] /i 8901
+[11/3/2018 22:31:29] /i 8901
+[11/3/2018 22:31:29] /i 8901
+[11/3/2018 22:32:27] /reload npc
+[11/3/2018 22:32:57] /reload npc
+[11/3/2018 22:33:18] /reload npc
+[11/3/2018 22:33:58] /i 8901
+[11/3/2018 22:33:59] /i 8901
+[11/3/2018 22:35:35] /reload npc
+[11/3/2018 22:35:39] /i 8901
+[11/3/2018 22:35:39] /i 8901
+[11/3/2018 22:35:40] /i 8901
+[11/3/2018 22:35:41] /i 8901
+[11/3/2018 22:35:47] /m rat
+[11/3/2018 22:35:48] /reload npc
+[11/3/2018 22:36:11] /reload npc
+[11/3/2018 22:36:49] /reload npc
+[11/3/2018 22:37:5] /i 8901
+[11/3/2018 22:37:6] /i 8901
+[11/3/2018 22:38:23] /reload npc
+[11/3/2018 22:39:12] /reload npc
+[11/3/2018 22:40:42] /reload npc
+[11/3/2018 22:41:41] /reload npc
+[11/3/2018 22:42:28] /reload npc
+[11/3/2018 22:52:31] /i 8901
+[11/3/2018 22:52:32] /i 8901
+[11/3/2018 22:52:33] /i 8901
+[12/3/2018 21:16:42] /a 2
+[12/3/2018 21:16:45] /a 2
+[12/3/2018 21:19:23] /a 2
+[12/3/2018 21:24:19] /t
+[12/3/2018 21:25:51] /reload talkactions
+[12/3/2018 21:26:58] /reload talkactions
+[12/3/2018 21:27:35] /reload talkactions
+[12/3/2018 21:38:47] /reload talkactions
+[12/3/2018 21:45:5] /reload talkactions
+[12/3/2018 21:46:46] /reload talkactions
+[12/3/2018 21:46:57] /reload lib
+[12/3/2018 22:27:21] /reload talkactions
+[12/3/2018 22:28:9] /reload talkactions
+[12/3/2018 22:28:44] /reload talkactions
+[12/3/2018 22:38:44] /reload talkactions
+[12/3/2018 22:56:30] /reload talkactions
+[12/3/2018 22:59:12] /reload talkactions
+[12/3/2018 22:59:50] /reload talkactions
+[12/3/2018 23:34:41] /reload talkactions
+[12/3/2018 23:35:56] /reload talkactions
+[12/3/2018 23:41:30] /reload talkactions
+[12/3/2018 23:41:47] /reload talkactions
+[12/3/2018 23:50:27] /reload talkactions
+[13/3/2018 0:1:47] /goto aviao
+[13/3/2018 0:3:0] /i coal basi
+[13/3/2018 0:3:2] /i coal basin
+[13/3/2018 0:3:5] /i coal basin
+[13/3/2018 0:3:6] /i coal basin
+[13/3/2018 0:3:7] /i coal basin
+[13/3/2018 0:3:8] /i coal basin
+[13/3/2018 0:3:18] /a 2
+[13/3/2018 0:10:6] /t
+[13/3/2018 0:10:11] /c aviao
+[13/3/2018 0:12:6] /c aviao
+[13/3/2018 1:34:14] /reload talkactions
+[13/3/2018 1:34:23] /reload creaturescripts
+[13/3/2018 1:35:8] /reload creaturescripts
+[13/3/2018 1:37:53] /reload creaturescripts
+[13/3/2018 1:51:21] /reload creaturescripts
+[13/3/2018 1:55:11] /reload creaturescripts
+[13/3/2018 2:2:56] /reload creaturescripts
+[13/3/2018 2:3:47] /reload globalevents
+[13/3/2018 2:3:49] /reload creaturescripts
+[13/3/2018 2:6:36] /reload creaturescripts
+[13/3/2018 2:13:8] /reload creaturescripts
+[13/3/2018 2:13:57] /reload globalevents
+[13/3/2018 2:14:1] /reload creaturescripts
+[13/3/2018 2:14:35] /reload globalevents
+[13/3/2018 2:14:45] /reload globalevents
+[13/3/2018 2:16:49] /reload creaturescripts
+[13/3/2018 2:19:44] /reload globalevents
+[13/3/2018 2:19:55] /reload creaturescripts
+[13/3/2018 2:21:47] /reload globalevents
+[13/3/2018 2:21:52] /reload creaturescripts
+[13/3/2018 2:24:21] /reload globalevents
+[13/3/2018 2:24:26] /reload creaturescripts
+[13/3/2018 2:27:24] /reload globalevents
+[13/3/2018 2:27:30] /reload creaturescripts
+[13/3/2018 2:29:50] /reload creaturescripts
+[13/3/2018 2:31:6] /reload creaturescripts
+[13/3/2018 2:32:39] /reload creaturescripts
+[13/3/2018 2:39:27] /reload creaturescripts
+[13/3/2018 2:40:16] /reload creaturescripts
+[13/3/2018 2:44:50] /reload creaturescripts
+[13/3/2018 2:45:39] /reload creaturescripts
+[13/3/2018 2:46:16] /reload creaturescripts
+[13/3/2018 2:47:24] /reload creaturescripts
+[13/3/2018 2:48:37] /reload creaturescripts
+[13/3/2018 2:49:51] /reload creaturescripts
+[13/3/2018 2:50:37] /reload creaturescripts
+[13/3/2018 2:53:42] /reload creaturescripts
+[13/3/2018 3:1:57] /reload creaturescripts
+[13/3/2018 3:3:59] /reload globalevents
+[13/3/2018 3:4:4] /reload creaturescripts
+[13/3/2018 3:4:17] /reload globalevents
+[13/3/2018 3:5:4] /reload globalevents
+[13/3/2018 3:5:15] /reload globalevents
+[13/3/2018 3:39:25] /reload globalevents
+[13/3/2018 3:39:30] /reload creaturescripts
+[13/3/2018 3:39:45] /m dragon
+[13/3/2018 3:39:45] /m dragon
+[13/3/2018 3:39:46] /m dragon
+[13/3/2018 3:39:46] /m dragon
+[13/3/2018 3:39:46] /m dragon
+[13/3/2018 3:39:46] /m dragon
+[13/3/2018 3:39:46] /m dragon
+[13/3/2018 3:39:46] /m dragon
+[13/3/2018 3:39:46] /m dragon
+[13/3/2018 3:41:17] /m dragon
+[13/3/2018 3:41:18] /reload globalevents
+[13/3/2018 3:41:23] /r
+[13/3/2018 3:41:25] /r
+[13/3/2018 3:41:26] /r
+[13/3/2018 3:41:28] /r
+[13/3/2018 3:41:29] /r
+[13/3/2018 3:55:3] /a 2
+[13/3/2018 3:55:4] /a 2
+[13/3/2018 3:55:4] /a 2
+[13/3/2018 3:55:4] /a 2
+[13/3/2018 3:55:4] /a 2
+[13/3/2018 3:55:4] /a 2
+[13/3/2018 3:55:4] /a 2
+[13/3/2018 3:55:4] /a 2
+[13/3/2018 3:55:4] /a 2
+[13/3/2018 3:55:4] /a 2
+[13/3/2018 3:55:5] /a 2
+[13/3/2018 3:55:5] /a 2
+[13/3/2018 3:55:5] /a 2
+[13/3/2018 3:55:14] /a 2
+[13/3/2018 3:55:17] /a 2
+[13/3/2018 3:55:17] /a 2
+[13/3/2018 3:55:18] /a 2
+[13/3/2018 3:55:18] /a 2
+[13/3/2018 3:55:18] /a 2
+[13/3/2018 3:55:18] /a 2
+[13/3/2018 3:55:18] /a 2
+[13/3/2018 3:55:20] /a 2
+[13/3/2018 3:55:20] /a 2
+[13/3/2018 3:55:21] /a 2
+[13/3/2018 3:55:22] /a 2
+[13/3/2018 3:55:23] /a 2
+[13/3/2018 3:55:24] /a 2
+[13/3/2018 3:55:26] /a 2
+[13/3/2018 3:55:27] /a 2
+[13/3/2018 3:55:27] /a 2
+[13/3/2018 3:55:27] /a 2
+[13/3/2018 3:55:27] /a 2
+[13/3/2018 3:55:27] /a 2
+[13/3/2018 3:55:27] /a 2
+[13/3/2018 3:55:28] /a 2
+[13/3/2018 3:55:30] /t
+[13/3/2018 3:55:51] /a 2
+[13/3/2018 3:55:52] /a 2
+[13/3/2018 3:55:52] /a 2
+[13/3/2018 3:55:52] /a 2
+[13/3/2018 3:55:55] /a 2
+[13/3/2018 3:55:55] /a 2
+[13/3/2018 3:55:57] /a 2
+[13/3/2018 3:55:58] /a 2
+[13/3/2018 3:55:58] /a 2
+[13/3/2018 3:55:58] /a 2
+[13/3/2018 3:55:58] /a 2
+[13/3/2018 3:55:58] /a 2
+[13/3/2018 3:56:0] /a 2
+[13/3/2018 3:56:1] /a 2
+[13/3/2018 3:56:1] /a 2
+[13/3/2018 3:56:3] /a 2
+[13/3/2018 3:56:3] /a 2
+[13/3/2018 3:56:3] /a 2
+[13/3/2018 3:56:3] /a 2
+[13/3/2018 3:56:4] /a 2
+[13/3/2018 3:56:4] /a 2
+[13/3/2018 3:56:4] /a 2
+[13/3/2018 3:56:5] /a 2
+[13/3/2018 3:56:5] /a 2
+[13/3/2018 3:56:5] /a 2
+[13/3/2018 3:56:5] /a 2
+[13/3/2018 3:56:5] /a 2
+[13/3/2018 3:56:7] /a 2
+[13/3/2018 3:56:7] /a 2
+[13/3/2018 3:56:7] /a 2
+[13/3/2018 3:56:8] /a 2
+[13/3/2018 3:56:10] /a 2
+[13/3/2018 3:56:11] /a 2
+[13/3/2018 3:56:11] /a 2
+[13/3/2018 3:56:11] /a 2
+[13/3/2018 3:56:11] /a 2
+[13/3/2018 3:56:34] /reload globalevents
+[13/3/2018 3:56:38] /t
+[13/3/2018 3:56:40] /m dragon
+[13/3/2018 3:56:41] /m dragon
+[13/3/2018 3:56:41] /m dragon
+[13/3/2018 3:56:41] /m dragon
+[13/3/2018 3:56:41] /m dragon
+[13/3/2018 3:56:41] /m dragon
+[13/3/2018 3:56:41] /m dragon
+[13/3/2018 3:56:42] /m dragon
+[13/3/2018 3:57:28] /reload globalevents
+[13/3/2018 4:3:4] /reload globalevents
+[13/3/2018 4:3:8] /reload globalevents
+[13/3/2018 4:3:10] /m dragon
+[13/3/2018 4:3:11] /m dragon
+[13/3/2018 4:3:11] /m dragon
+[13/3/2018 4:3:12] /m dragon
+[13/3/2018 4:3:12] /m dragon
+[13/3/2018 4:3:12] /m dragon
+[13/3/2018 4:3:12] /m dragon
+[13/3/2018 4:5:56] /reload globalevents
+[13/3/2018 4:6:0] /m dragon
+[13/3/2018 4:10:28] /reload globalevents
+[13/3/2018 4:10:35] /m dragon
+[13/3/2018 4:24:44] /reload globalevents
+[13/3/2018 4:24:46] /m dragon
+[13/3/2018 4:24:48] /m dragon
+[13/3/2018 4:26:18] /reload globalevents
+[13/3/2018 4:26:21] /m dragon
+[13/3/2018 12:26:36] /i diamond orb
+[13/3/2018 12:27:5] /i orb diamond
+[13/3/2018 12:27:34] /i 7632
+[13/3/2018 12:27:36] /i 7633
+[13/3/2018 12:27:57] /i coal basin
+[13/3/2018 12:27:59] /i coal basin
+[13/3/2018 12:28:0] /i coal basin
+[13/3/2018 12:28:1] /i coal basin
+[13/3/2018 12:28:2] /i coal basin
+[13/3/2018 12:28:4] /i coal basin
+[13/3/2018 12:28:5] /i coal basin
+[13/3/2018 12:28:6] /i coal basin
+[13/3/2018 12:28:10] /i coal basin
+[13/3/2018 12:28:11] /i coal basin
+[13/3/2018 12:28:13] /i coal basin
+[13/3/2018 12:28:14] /i coal basin
+[13/3/2018 12:28:15] /i coal basin
+[13/3/2018 12:28:16] /reload talkactions
+[13/3/2018 12:28:20] /m dragon
+[13/3/2018 12:28:20] /m dragon
+[13/3/2018 12:28:20] /m dragon
+[13/3/2018 12:28:21] /m dragon
+[13/3/2018 12:28:21] /m dragon
+[13/3/2018 12:28:21] /m dragon
+[13/3/2018 12:28:21] /m dragon
+[13/3/2018 12:28:21] /m dragon
+[13/3/2018 12:28:22] /a 2
+[13/3/2018 12:28:22] /a 2
+[13/3/2018 12:31:45] /reload actions
+[13/3/2018 13:10:50] /reload talkactions
+[13/3/2018 13:12:22] /i bronze exp orb
+[13/3/2018 13:12:54] /i diamond exp orb
+[13/3/2018 13:20:23] /reload talkactions
+[13/3/2018 13:22:21] /reload talkactions
+[13/3/2018 13:24:3] /reload talkactions
+[13/3/2018 13:25:5] /reload talkactions
+[13/3/2018 13:25:46] /reload talkactions
+[13/3/2018 13:27:33] /reload talkactions
+[13/3/2018 13:32:2] /reload talkactions
+[13/3/2018 13:33:57] /reload talkactions
+[13/3/2018 13:37:35] /reload creaturescripts
+[13/3/2018 13:38:45] /reload talkactions
+[13/3/2018 13:39:55] /reload talkactions
+[13/3/2018 13:40:17] /reload talkactions
+[13/3/2018 13:40:47] /reload talkactions
+[13/3/2018 13:41:41] /reload talkactions
+[13/3/2018 13:47:51] /reload talkactions
+[13/3/2018 13:47:54] /reload talkactions
+[13/3/2018 15:3:42] /reload creaturescripts
+[13/3/2018 15:7:43] /reload creaturescripts
+[13/3/2018 15:9:4] /reload creaturescripts
+[13/3/2018 15:11:2] /reload creaturescripts
+[13/3/2018 15:16:17] /reload creaturescripts
+[13/3/2018 15:16:52] /reload creaturescripts
+[13/3/2018 15:17:0] /reload actions
+[13/3/2018 15:17:10] /reload creaturescripts
+[13/3/2018 15:19:12] /reload creaturescripts
+[13/3/2018 15:20:12] /reload creaturescripts
+[13/3/2018 15:20:20] /reload actions
+[13/3/2018 15:22:19] /reload creaturescripts
+[13/3/2018 15:22:27] /reload actions
+[13/3/2018 15:23:31] /reload creaturescripts
+[13/3/2018 15:24:11] /reload creaturescripts
+[13/3/2018 15:25:52] /reload creaturescripts
+[13/3/2018 15:26:35] /reload creaturescripts
+[13/3/2018 15:27:32] /reload creaturescripts
+[13/3/2018 15:28:20] /reload creaturescripts
+[13/3/2018 15:29:49] /reload creaturescripts
+[13/3/2018 15:29:53] /reload actions
+[13/3/2018 15:31:56] /reload creaturescripts
+[13/3/2018 15:32:5] /reload actions
+[13/3/2018 15:33:14] /reload creaturescripts
+[13/3/2018 15:34:20] /reload creaturescripts
+[13/3/2018 15:34:26] /reload actions
+[13/3/2018 15:41:55] /reload creaturescripts
+[13/3/2018 15:42:33] /reload creaturescripts
+[13/3/2018 15:43:8] /reload creaturescripts
+[13/3/2018 15:43:51] /reload creaturescripts
+[13/3/2018 15:44:33] /reload creaturescripts
+[13/3/2018 15:45:7] /reload creaturescripts
+[13/3/2018 15:46:24] /reload creaturescripts
+[13/3/2018 15:47:18] /reload creaturescripts
+[13/3/2018 15:49:41] /reload creaturescripts
+[13/3/2018 15:49:47] /reload actions
+[13/3/2018 15:49:58] /reload creaturescripts
+[13/3/2018 15:54:32] /reload creaturescripts
+[13/3/2018 15:54:37] /reload talkactions
+[13/3/2018 15:59:15] /reload actions
+[13/3/2018 15:59:28] /reload creaturescripts
+[13/3/2018 16:0:21] /reload creaturescripts
+[13/3/2018 16:1:16] /reload creaturescripts
+[13/3/2018 16:2:16] /reload creaturescripts
+[13/3/2018 16:2:52] /reload creaturescripts
+[13/3/2018 16:7:45] /reload creaturescripts
+[13/3/2018 16:10:15] /reload creaturescripts
+[13/3/2018 16:10:40] /reload creaturescripts
+[13/3/2018 16:14:4] /reload creaturescripts
+[13/3/2018 16:14:41] /reload creaturescripts
+[13/3/2018 16:18:7] /z 14
+[13/3/2018 16:18:9] /z 14
+[13/3/2018 16:18:11] /z 15
+[13/3/2018 16:18:12] /z 16
+[13/3/2018 16:18:14] /z 17
+[13/3/2018 16:18:17] /z 12
+[13/3/2018 16:18:19] /z 13
+[13/3/2018 16:18:21] /z 14
+[13/3/2018 16:18:23] /z 12
+[13/3/2018 16:18:25] /z 11
+[13/3/2018 16:18:28] /z 12
+[13/3/2018 16:18:29] /z 12
+[13/3/2018 16:18:31] /z 13
+[13/3/2018 16:18:32] /z 14
+[13/3/2018 16:18:35] /z 14
+[13/3/2018 16:18:38] /z 14
+[13/3/2018 16:18:41] /z 13
+[13/3/2018 16:18:43] /z 12
+[13/3/2018 16:19:24] /reload creaturescripts
+[13/3/2018 16:38:9] /z 12
+[13/3/2018 16:38:11] /z 13
+[13/3/2018 16:38:13] /z 14
+[13/3/2018 16:38:16] /z 12
+[13/3/2018 16:38:18] /z 13
+[13/3/2018 16:38:21] /z 13
+[13/3/2018 16:38:22] /z 14
+[13/3/2018 16:38:24] /z 14
+[13/3/2018 16:38:26] /z 12
+[13/3/2018 16:38:28] /z 13
+[13/3/2018 17:5:58] /reload talkactions
+[13/3/2018 17:6:2] /reload creaturescripts
+[13/3/2018 17:6:5] /reload actions
+[13/3/2018 17:8:37] /reload talkactions
+[13/3/2018 17:12:2] /i bronze orb exp
+[13/3/2018 17:12:6] /i bronze exp orb
+[13/3/2018 17:27:24] /reload talkactions
+[13/3/2018 17:27:29] /reload creaturescripts
+[13/3/2018 17:51:32] /reload creaturescripts
+[13/3/2018 17:52:50] /reload creaturescripts
+[13/3/2018 18:3:54] /reload creaturescripts
+[13/3/2018 18:7:44] /reload creaturescripts
+[13/3/2018 18:7:49] /reload talkactions
+[13/3/2018 18:7:53] /reload actions
+[13/3/2018 18:17:6] /reload creaturescripts
+[13/3/2018 18:17:9] /reload actions
+[13/3/2018 18:17:28] /reload actions
+[13/3/2018 18:19:35] /reload creaturescripts
+[13/3/2018 18:19:45] /reload actions
+[13/3/2018 18:27:4] /reload creaturescripts
+[13/3/2018 18:27:7] /reload creaturescripts
+[13/3/2018 18:27:7] /reload creaturescripts
+[13/3/2018 18:29:32] /reload creaturescripts
+[13/3/2018 18:29:36] /reload talkactions
+[13/3/2018 18:29:40] /reload actions
+[13/3/2018 18:33:58] /reload creaturescripts
+[13/3/2018 18:34:3] /reload actions
+[13/3/2018 18:41:15] /reload creaturescripts
+[13/3/2018 18:45:48] /reload actions
+[13/3/2018 18:45:59] /reload creaturescripts
+[13/3/2018 18:49:48] /reload creaturescripts
+[13/3/2018 18:49:52] /reload actions
+[13/3/2018 18:52:21] /reload actions
+[13/3/2018 18:52:32] /reload creaturescripts
+[13/3/2018 19:5:56] /reload actions
+[13/3/2018 19:6:7] /reload creaturescripts
+[13/3/2018 19:7:11] /reload talkactions
+[13/3/2018 19:8:45] /reload talkactions
+[13/3/2018 19:9:36] /reload talkactions
+[13/3/2018 19:13:19] /reload talkactions
+[13/3/2018 19:13:23] /reload globalevents
+[13/3/2018 19:13:27] /reload creaturescripts
+[13/3/2018 19:13:30] /reload actions
+[13/3/2018 21:29:4] /reload items
+[13/3/2018 21:29:13] /i 2400
+[13/3/2018 21:30:48] /reload items
+[13/3/2018 21:46:32] /i life ring
+[13/3/2018 21:48:16] /reload items
+[13/3/2018 21:48:22] /i magic sword
+[13/3/2018 21:48:56] /reload items
+[13/3/2018 21:49:2] /r
+[13/3/2018 21:49:5] /i magic sword
+[13/3/2018 22:15:27] /i 2400
+[13/3/2018 22:15:32] /i 2400
+[13/3/2018 22:15:42] /i 2400
+[13/3/2018 22:24:56] /i 2400
+[13/3/2018 22:24:57] /i 2400
+[13/3/2018 23:16:0] /reload items
+[13/3/2018 23:16:5] /i 2400
+[13/3/2018 23:18:3] /i 2400
+[13/3/2018 23:18:31] /i 2400
+[13/3/2018 23:18:51] /i sword
+[13/3/2018 23:18:53] /i 2400
+[13/3/2018 23:23:10] /i magic sword
+[13/3/2018 23:23:40] /reload items
+[13/3/2018 23:23:43] /i magic sword
+[13/3/2018 23:25:57] /i sword
+[13/3/2018 23:25:59] /i 2400
+[13/3/2018 23:26:56] /save
+[13/3/2018 23:27:1] /save
+[13/3/2018 23:42:47] /i 2400
+[13/3/2018 23:43:8] /i 2400
+[13/3/2018 23:51:52] /save
+[14/3/2018 12:57:43] /m dragon
+[14/3/2018 12:58:50] /m dragon
+[14/3/2018 12:59:42] /i coal basi
+[14/3/2018 12:59:44] /i coal basin
+[14/3/2018 12:59:45] /i coal basin
+[14/3/2018 12:59:47] /i coal basin
+[14/3/2018 12:59:48] /i coal basin
+[14/3/2018 12:59:49] /i coal basin
+[14/3/2018 12:59:50] /i coal basin
+[14/3/2018 12:59:51] /i coal basin
+[14/3/2018 12:59:53] /i coal basin
+[14/3/2018 12:59:54] /i coal basin
+[14/3/2018 12:59:55] /i coal basin
+[14/3/2018 12:59:56] /i coal basin
+[14/3/2018 12:59:58] /m dragon
+[14/3/2018 12:59:58] /m dragon
+[14/3/2018 12:59:59] /a 2
+[14/3/2018 13:0:1] /a 2
+[14/3/2018 13:0:1] /a 2
+[14/3/2018 13:0:5] /a 2
+[14/3/2018 13:0:6] /a 2
+[14/3/2018 13:0:6] /a 2
+[14/3/2018 13:0:12] /a 2
+[14/3/2018 13:0:14] /a 2
+[14/3/2018 13:0:14] /a 2
+[14/3/2018 13:0:15] /a 2
+[14/3/2018 13:0:15] /a 2
+[14/3/2018 13:1:28] /reload talkactions
+[14/3/2018 13:2:3] /reload talkactions
+[14/3/2018 13:3:56] /reload talkactions
+[14/3/2018 13:4:25] /reload talkactions
+[14/3/2018 13:5:28] /reload talkactions
+[14/3/2018 13:6:10] /reload talkactions
+[14/3/2018 13:7:2] /reload talkactions
+[14/3/2018 13:8:4] /reload talkactions
+[14/3/2018 13:8:34] /reload talkactions
+[14/3/2018 13:9:16] /reload talkactions
+[14/3/2018 13:9:52] /reload talkactions
+[14/3/2018 13:10:46] /reload talkactions
+[14/3/2018 13:11:30] /reload talkactions
+[14/3/2018 13:12:22] /reload talkactions
+[14/3/2018 13:12:44] /reload talkactions
+[14/3/2018 13:13:5] /reload talkactions
+[14/3/2018 13:24:53] /reload talkactions
+[14/3/2018 13:27:30] /reload talkactions
+[14/3/2018 13:27:50] /reload talkactions
+[14/3/2018 13:28:40] /reload talkactions
+[14/3/2018 13:31:19] /reload talkactions
+[14/3/2018 13:33:11] /reload talkactions
+[14/3/2018 13:33:39] /reload talkactions
+[14/3/2018 13:33:57] /reload talkactions
+[14/3/2018 15:51:59] /i arrow
+[14/3/2018 15:56:28] /reload talkactions
+[14/3/2018 15:57:35] /reload talkactions
+[14/3/2018 16:1:28] /reload talkactions
+[14/3/2018 16:1:37] /reload creaturescripts
+[14/3/2018 16:2:10] /reload talkactions
+[14/3/2018 16:2:15] /reload creaturescripts
+[14/3/2018 16:3:14] /reload talkactions
+[14/3/2018 16:4:41] /save
+[14/3/2018 16:17:19] /reload creaturescripts
+[14/3/2018 18:2:39] /reload talkactions
+[14/3/2018 18:5:25] /reload talkactions
+[14/3/2018 18:6:45] /reload talkactions
+[14/3/2018 18:7:59] /reload talkactions
+[14/3/2018 18:9:8] /m dragon
+[14/3/2018 18:9:8] /reload talkactions
+[14/3/2018 18:9:12] /r
+[14/3/2018 18:9:14] /r
+[14/3/2018 18:9:16] /reload talkactions
+[14/3/2018 18:9:36] /m dragon
+[14/3/2018 18:26:4] /reload talkactions
+[14/3/2018 18:27:59] /reload talkactions
+[14/3/2018 18:28:43] /reload talkactions
+[14/3/2018 18:51:48] /i 2400
+[14/3/2018 18:51:49] /i 2400
+[14/3/2018 18:51:51] /i 2400
+[14/3/2018 18:51:59] /i 2400
+[14/3/2018 18:52:2] /i 2400
+[14/3/2018 18:56:3] /i 2400
+[14/3/2018 18:56:4] /i 2400
+[14/3/2018 18:56:4] /i 2400
+[14/3/2018 18:56:5] /i 2400
+[14/3/2018 18:56:5] /i 2400
+[14/3/2018 18:56:13] /i 2400
+[14/3/2018 18:56:19] /i 2400
+[14/3/2018 18:56:20] /i 2400
+[14/3/2018 18:57:39] /r
+[14/3/2018 18:58:28] /i 8901
+[14/3/2018 18:58:28] /i 8901
+[14/3/2018 18:58:28] /i 8901
+[14/3/2018 18:58:29] /i 8901
+[14/3/2018 18:58:31] /i 8901
+[14/3/2018 18:58:38] /i 8901
+[14/3/2018 18:58:42] /i 8901
+[14/3/2018 18:58:42] /i 8901
+[14/3/2018 18:58:54] /i 8901
+[14/3/2018 18:58:56] /i 8901
+[14/3/2018 18:58:56] /i 8901
+[14/3/2018 19:1:0] /i 2400
+[14/3/2018 19:11:26] /i 8901
+[14/3/2018 19:11:28] /i 8901
+[14/3/2018 19:11:29] /i 8901
+[14/3/2018 19:11:30] /i 8901
+[14/3/2018 19:24:36] /reload creaturescripts
+[14/3/2018 19:24:45] /i 8901
+[14/3/2018 19:24:47] /i 8901
+[14/3/2018 19:28:15] /reload creaturescripts
+[14/3/2018 19:29:53] /reload talkactions
+[14/3/2018 19:30:8] /i 8901
+[14/3/2018 19:30:9] /i 8901
+[14/3/2018 19:30:10] /i 8901
+[14/3/2018 19:37:50] /reload talkactions
+[14/3/2018 19:37:55] /reload creaturescripts
+[14/3/2018 19:40:20] /reload talkactions
+[14/3/2018 19:40:28] /reload creaturescripts
+[14/3/2018 19:40:32] /i 8901
+[14/3/2018 19:40:55] /i 8901
+[14/3/2018 19:41:45] /reload creaturescripts
+[14/3/2018 19:43:19] /reload creaturescripts
+[14/3/2018 19:44:42] /reload creaturescripts
+[14/3/2018 19:44:56] /reload creaturescripts
+[14/3/2018 19:48:25] /reload creaturescripts
+[14/3/2018 19:49:21] /reload creaturescripts
+[14/3/2018 19:55:25] /reload talkactions
+[14/3/2018 19:55:38] /reload talkactions
+[14/3/2018 19:55:58] /reload talkactions
+[14/3/2018 19:56:22] /reload talkactions
+[14/3/2018 19:56:41] /reload talkactions
+[14/3/2018 19:57:14] /reload talkactions
+[14/3/2018 19:57:27] /reload talkactions
+[14/3/2018 19:57:30] /reload talkactions
+[14/3/2018 19:57:30] /reload talkactions
+[14/3/2018 19:57:47] /reload talkactions
+[14/3/2018 19:57:58] /reload talkactions
+[14/3/2018 19:58:13] /reload talkactions
+[14/3/2018 19:58:47] /reload talkactions
+[14/3/2018 19:59:1] /reload talkactions
+[14/3/2018 20:1:20] /i 2400
+[14/3/2018 20:21:44] /reload talkactions
+[14/3/2018 21:56:18] /reload creaturescripts
+[14/3/2018 22:12:54] /reload talkactions
+[14/3/2018 22:15:45] /reload talkactions
+[14/3/2018 22:15:50] /reload creaturescripts
+[14/3/2018 22:16:23] /reload creaturescripts
+[14/3/2018 22:21:11] /reload creaturescripts
+[14/3/2018 22:22:14] /reload creaturescripts
+[14/3/2018 22:23:5] /reload creaturescripts
+[14/3/2018 22:24:33] /reload creaturescripts
+[14/3/2018 22:25:13] /reload creaturescripts
+[14/3/2018 22:25:16] /reload talkactios
+[14/3/2018 22:25:21] /reload talkactions
+[14/3/2018 22:26:4] /reload creaturescripts
+[14/3/2018 22:31:24] /reload creaturescripts
+[14/3/2018 22:36:49] /reload creaturescripts
+[14/3/2018 22:36:54] /reload globalevents
+[14/3/2018 22:37:1] /reload talkactions
+[14/3/2018 22:41:22] /reload talkactions
+[14/3/2018 22:41:31] /reload creaturescripts
+[14/3/2018 22:43:42] /reload creaturescripts
+[14/3/2018 22:44:10] /reload talkactions
+[14/3/2018 22:44:52] /reload creaturescripts
+[14/3/2018 22:44:58] /reload talkactions
+[14/3/2018 22:48:28] /reload creaturescripts
+[14/3/2018 22:48:34] /reload talkactions
+[14/3/2018 22:49:32] /reload talkactions
+[14/3/2018 22:49:38] /reload creaturescripts
+[14/3/2018 22:49:55] /reload talkactions
+[14/3/2018 22:50:48] /reload creaturescripts
+[14/3/2018 22:50:53] /reload talkactions
+[14/3/2018 22:56:0] /reload creaturescripts
+[14/3/2018 22:56:6] /reload talkactions
+[14/3/2018 22:59:8] /reload creaturescripts
+[14/3/2018 22:59:36] /reload talkactions
+[14/3/2018 23:0:57] /reload creaturescripts
+[14/3/2018 23:1:6] /reload talkactions
+[14/3/2018 23:1:43] /reload talkactions
+[14/3/2018 23:1:47] /reload creaturescripts
+[14/3/2018 23:4:22] /reload creaturescripts
+[14/3/2018 23:5:3] /reload creaturescripts
+[14/3/2018 23:5:47] /reload creaturescripts
+[14/3/2018 23:7:15] /m dragon
+[14/3/2018 23:7:15] /m dragon
+[14/3/2018 23:7:15] /m dragon
+[14/3/2018 23:7:15] /m dragon
+[14/3/2018 23:7:16] /m dragon
+[14/3/2018 23:7:27] /m dragon
+[14/3/2018 23:7:27] /m dragon
+[14/3/2018 23:7:27] /m dragon
+[14/3/2018 23:7:27] /m dragon
+[14/3/2018 23:7:28] /m dragon
+[14/3/2018 23:7:28] /m dragon
+[14/3/2018 23:7:28] /m dragon
+[14/3/2018 23:7:28] /m dragon
+[14/3/2018 23:7:28] /m dragon
+[14/3/2018 23:7:28] /m dragon
+[14/3/2018 23:7:28] /m dragon
+[14/3/2018 23:7:51] /m demon
+[14/3/2018 23:20:42] /m dragon
+[14/3/2018 23:20:42] /m dragon
+[14/3/2018 23:20:43] /m dragon
+[14/3/2018 23:20:43] /m dragon
+[14/3/2018 23:20:43] /m dragon
+[14/3/2018 23:20:43] /m dragon
+[14/3/2018 23:20:43] /m dragon
+[14/3/2018 23:20:43] /m dragon
+[14/3/2018 23:20:43] /m dragon
+[14/3/2018 23:20:43] /m dragon
+[14/3/2018 23:20:43] /m dragon
+[14/3/2018 23:20:43] /m dragon
+[14/3/2018 23:21:4] /m exp bug
+[14/3/2018 23:21:7] /m exp bug
+[14/3/2018 23:21:8] /m exp bug
+[14/3/2018 23:21:12] /m demon
+[14/3/2018 23:21:17] /m demon
+[14/3/2018 23:21:20] /m demon
+[14/3/2018 23:21:30] /m demon
+[14/3/2018 23:21:31] /m demon
+[14/3/2018 23:21:53] /r
+[14/3/2018 23:51:57] /i event token
+[15/3/2018 0:20:57] /m dragon
+[15/3/2018 0:20:57] /m dragon
+[15/3/2018 0:24:11] /reload globalevents
+[15/3/2018 0:27:51] /i backpack
+[15/3/2018 0:30:24] /m dragon
+[15/3/2018 0:30:38] /reload globalevents
+[15/3/2018 0:31:48] /reload globalevents
+[15/3/2018 0:31:52] /m dragon
+[15/3/2018 0:34:55] /i gold ingot
+[15/3/2018 0:37:28] /m dragon
+[15/3/2018 0:37:37] /reload globalevents
+[15/3/2018 0:40:1] /m dragon
+[15/3/2018 0:40:9] /reload globalevents
+[15/3/2018 0:46:53] /m dragon
+[15/3/2018 0:46:53] /m dragon
+[15/3/2018 0:47:10] /reload globalevent
+[15/3/2018 0:50:26] /m dragon
+[15/3/2018 0:50:26] /m dragon
+[15/3/2018 0:50:46] /reload globalevents
+[15/3/2018 0:53:15] /reload creaturescripts
+[15/3/2018 0:54:25] /m dragon
+[15/3/2018 0:55:47] /reload globalevents
+[15/3/2018 0:59:27] /reload globalevents
+[15/3/2018 0:59:30] /m dragon
+[15/3/2018 1:1:27] /reload globalevents
+[15/3/2018 1:1:31] /m dragon
+[15/3/2018 1:5:52] /m dragon
+[15/3/2018 1:17:11] /reload globalevents
+[15/3/2018 1:17:17] /m dragon
+[15/3/2018 1:19:50] /reload globalevents
+[15/3/2018 1:19:54] /m dragon
+[15/3/2018 1:21:30] /m dragon
+[15/3/2018 1:21:31] /reload globalevents
+[15/3/2018 1:23:17] /reload globalevents
+[15/3/2018 1:23:23] /m dragon
+[15/3/2018 1:25:11] /m dragon
+[15/3/2018 1:25:13] /reload globalevents
+[15/3/2018 1:28:34] /reload globalevents
+[15/3/2018 1:28:39] /m dragon
+[15/3/2018 1:32:57] /m dragon
+[15/3/2018 1:32:58] /m dragon
+[15/3/2018 1:33:0] /reload globalevents
+[15/3/2018 1:33:8] /reload globalevents
+[15/3/2018 1:35:38] /m dragon
+[15/3/2018 1:36:36] /m dragon
+[15/3/2018 1:36:42] /reload globalevents
+[15/3/2018 1:39:28] /m dragon
+[15/3/2018 1:39:30] /reload globalevents
+[15/3/2018 1:40:58] /m dragon
+[15/3/2018 1:40:59] /reload globalevents
+[15/3/2018 1:41:10] /reload globalevents
+[15/3/2018 1:43:6] /reload globalevents
+[15/3/2018 1:43:10] /m dragon
+[15/3/2018 1:47:33] /m dragon
+[15/3/2018 1:47:35] /reload globalevents
+[15/3/2018 1:49:35] /reload globalevents
+[15/3/2018 1:49:38] /m dragon
+[15/3/2018 1:51:35] /m dragon
+[15/3/2018 1:51:41] /reload globalevents
+[15/3/2018 1:55:13] /m dragon
+[15/3/2018 2:0:3] /reload globalevents
+[15/3/2018 2:0:10] /m dragon
+[15/3/2018 2:0:10] /m dragon
+[15/3/2018 2:0:10] /m dragon
+[15/3/2018 2:0:27] /r
+[15/3/2018 2:0:28] /r
+[15/3/2018 2:0:33] /m dragon
+[15/3/2018 2:0:39] /r
+[15/3/2018 2:0:44] /m dragon
+[15/3/2018 2:0:44] /m dragon
+[15/3/2018 2:0:59] /reload globalevents
+[15/3/2018 2:3:7] /reload globalevents
+[15/3/2018 2:3:11] /m dragon
+[15/3/2018 2:3:28] /i 2595
+[15/3/2018 2:4:53] /reload globalevents
+[15/3/2018 2:4:56] /m dragon
+[15/3/2018 2:5:2] /r
+[15/3/2018 2:5:7] /m dragon
+[15/3/2018 2:5:7] /m dragon
+[15/3/2018 2:5:13] /r
+[15/3/2018 2:5:17] /m dragon
+[15/3/2018 2:5:17] /m dragon
+[15/3/2018 2:5:18] /m dragon
+[15/3/2018 2:10:59] /m dragon
+[15/3/2018 2:11:9] /reload globalevents
+[15/3/2018 2:11:16] /r
+[15/3/2018 2:11:20] /m dragon
+[15/3/2018 2:11:25] /m dragon
+[15/3/2018 2:11:32] /r
+[15/3/2018 2:11:35] /reload talkactions
+[15/3/2018 2:11:39] /m dragon
+[15/3/2018 2:11:40] /m dragon
+[15/3/2018 2:11:40] /m dragon
+[15/3/2018 2:12:0] /reload globalevents
+[15/3/2018 2:14:17] /reload globalevents
+[15/3/2018 2:14:21] /m dragon
+[15/3/2018 2:14:28] /r
+[15/3/2018 2:14:32] /m dragon
+[15/3/2018 2:14:32] /m dragon
+[15/3/2018 2:14:40] /r
+[15/3/2018 2:14:46] /reload talkactions
+[15/3/2018 2:14:51] /m dragon
+[15/3/2018 2:14:51] /m dragon
+[15/3/2018 2:14:51] /m dragon
+[15/3/2018 2:14:51] /m dragon
+[15/3/2018 2:15:12] /reload globalevents
+[15/3/2018 2:16:47] /m dragon
+[15/3/2018 2:16:55] /r
+[15/3/2018 2:17:2] /m dragon
+[15/3/2018 2:17:2] /m dragon
+[15/3/2018 2:17:9] /r
+[15/3/2018 2:17:14] /m dragon
+[15/3/2018 2:17:14] /m dragon
+[15/3/2018 2:17:15] /m dragon
+[15/3/2018 2:17:30] /reload globalevents
+[15/3/2018 11:31:27] /reload talkactions
+[15/3/2018 11:31:54] /reload talkactions
+[15/3/2018 11:36:31] /reload talkactions
+[15/3/2018 11:45:32] /reload talkactions
+[15/3/2018 11:46:13] /reload talkactions
+[15/3/2018 11:54:52] /reload talkactions
+[15/3/2018 11:55:41] /reload talkactions
+[15/3/2018 11:56:0] /reload talkactions
+[15/3/2018 11:56:25] /reload talkactions
+[15/3/2018 11:57:1] /reload talkactions
+[15/3/2018 11:57:18] /reload talkactions
+[15/3/2018 11:59:10] /reload talkactions
+[15/3/2018 11:59:50] /reload talkactions
+[15/3/2018 12:6:35] /reload talkactions
+[15/3/2018 12:6:44] /reload talkactions
+[15/3/2018 12:8:13] /reload talkactions
+[15/3/2018 12:8:18] /reload talkactions
+[15/3/2018 12:13:5] /reload talkactions
+[15/3/2018 12:14:1] /reload talkactions
+[15/3/2018 12:14:33] /reload talkactions
+[15/3/2018 12:18:16] /reload talkactions
+[15/3/2018 12:23:7] /reload talkactions
+[15/3/2018 12:23:41] /reload talkactions
+[15/3/2018 12:24:28] /reload talkactions
+[15/3/2018 18:58:43] /reload talkactions
+[15/3/2018 18:59:16] /reload talkactions
+[15/3/2018 19:2:8] /reload talkactions
+[15/3/2018 19:2:15] /reload talkactions
+[15/3/2018 19:4:41] /reload talkactions
+[15/3/2018 19:5:21] /reload talkactions
+[15/3/2018 19:5:54] /reload talkactions
+[15/3/2018 19:6:31] /reload talkactions
+[15/3/2018 19:7:39] /reload talkactions
+[15/3/2018 19:10:51] /i 8901
+[15/3/2018 19:14:41] /reload talkactions
+[15/3/2018 19:15:9] /reload talkactions
+[15/3/2018 19:19:38] /reload talkactions
+[15/3/2018 19:20:15] /reload talkactions
+[15/3/2018 19:25:6] /reload talkactions
+[15/3/2018 19:26:10] /reload talkactions
+[15/3/2018 19:26:50] /reload talkactions
+[15/3/2018 19:31:7] /reload talkactions
+[15/3/2018 19:32:37] /reload talkactions
+[15/3/2018 19:33:24] /reload talkactions
+[15/3/2018 19:34:4] /reload talkactions
+[15/3/2018 19:35:29] /reload talkactions
+[15/3/2018 19:42:9] /reload talkactions
+[15/3/2018 19:42:25] /reload talkactions
+[15/3/2018 19:45:57] /reload talkactions
+[15/3/2018 19:46:53] /reload talkactions
+[15/3/2018 19:47:9] /reload talkactions
+[15/3/2018 19:47:56] /reload talkactions
+[15/3/2018 19:49:31] /reload talkactions
+[15/3/2018 19:50:24] /reload talkactions
+[15/3/2018 19:52:22] /reload talkactions
+[15/3/2018 19:53:41] /reload talkactions
+[15/3/2018 19:53:57] /reload talkactions
+[15/3/2018 19:54:10] /reload talkactions
+[15/3/2018 19:54:33] /m dragon
+[15/3/2018 19:54:33] /reload talkactions
+[15/3/2018 19:54:50] /r
+[15/3/2018 19:54:52] /reload talkactions
+[15/3/2018 19:55:35] /reload talkactions
+[15/3/2018 19:56:2] /reload talkactions
+[15/3/2018 19:57:4] /reload talkactions
+[15/3/2018 19:58:24] /reload talkactions
+[15/3/2018 19:59:14] /reload talkactions
+[15/3/2018 19:59:47] /reload talkactions
+[15/3/2018 20:0:10] /reload talkactions
+[15/3/2018 20:1:0] /reload talkactions
+[15/3/2018 20:1:25] /reload talkactions
+[15/3/2018 20:2:26] /reload talkactions
+[15/3/2018 20:3:26] /reload talkactions
+[15/3/2018 20:4:21] /reload talkactions
+[15/3/2018 20:5:34] /reload talkactions
+[15/3/2018 20:6:18] /reload talkactions
+[15/3/2018 20:7:13] /reload talkactions
+[15/3/2018 20:7:33] /reload talkactions
+[15/3/2018 20:7:46] /reload talkactions
+[15/3/2018 20:8:19] /reload talkactions
+[15/3/2018 20:11:13] /reload talkactions
+[15/3/2018 20:11:32] /reload talkactions
+[15/3/2018 20:11:51] /reload talkactions
+[15/3/2018 20:12:3] /reload talkactions
+[15/3/2018 20:12:30] /reload talkactions
+[15/3/2018 20:13:9] /reload talkactions
+[15/3/2018 20:13:24] /reload talkactions
+[15/3/2018 20:13:45] /reload talkactions
+[15/3/2018 20:14:11] /reload talkactions
+[15/3/2018 20:14:34] /reload talkactions
+[15/3/2018 20:14:51] /reload talkactions
+[15/3/2018 20:20:21] /reload talkactions
+[15/3/2018 20:23:28] /reload talkactions
+[15/3/2018 20:24:6] /reload talkactions
+[15/3/2018 20:24:33] /reload talkactions
+[15/3/2018 20:26:6] /reload talkactions
+[15/3/2018 20:27:20] /reload talkactions
+[15/3/2018 20:27:56] /reload talkactions
+[15/3/2018 20:29:19] /reload talkactions
+[15/3/2018 20:30:35] /reload talkactions
+[15/3/2018 20:32:6] /reload talkactions
+[15/3/2018 20:32:48] /reload talkactions
+[15/3/2018 20:33:27] /reload talkactions
+[15/3/2018 20:34:7] /m dragon
+[15/3/2018 20:34:8] /reload talkactions
+[15/3/2018 20:34:29] /reload talkactions
+[15/3/2018 20:45:24] /reload talkactions
+[15/3/2018 20:45:50] /reload talkactions
+[15/3/2018 20:46:42] /reload talkactions
+[15/3/2018 20:46:58] /reload talkactions
+[15/3/2018 20:47:7] /reload talkactions
+[15/3/2018 20:47:11] /m dragon
+[15/3/2018 20:48:7] /reload talkactions
+[15/3/2018 20:48:31] /reload talkactions
+[15/3/2018 20:50:9] /reload talkactions
+[15/3/2018 20:51:48] /reload talkactions
+[15/3/2018 20:52:10] /reload talkactions
+[15/3/2018 20:52:23] /reload talkactions
+[15/3/2018 20:52:53] /reload talkactions
+[15/3/2018 20:53:12] /reload talkactions
+[15/3/2018 20:53:32] /reload talkactions
+[15/3/2018 20:53:58] /a 2
+[15/3/2018 20:53:59] /m dragon
+[15/3/2018 20:54:0] /reload talkactions
+[15/3/2018 20:54:13] /reload talkactions
+[15/3/2018 20:54:27] /reload talkactions
+[15/3/2018 20:54:53] /reload talkactions
+[15/3/2018 20:55:24] /reload talkactions
+[15/3/2018 20:56:0] /reload talkactions
+[15/3/2018 20:56:51] /reload talkactions
+[15/3/2018 21:8:34] /reload talkactions
+[15/3/2018 21:9:59] /reload talkactions
+[15/3/2018 21:10:49] /reload talkactions
+[15/3/2018 21:20:4] /reload talkactions
+[15/3/2018 21:20:29] /reload talkactions
+[15/3/2018 21:20:41] /reload talkactions
+[15/3/2018 21:20:59] /reload talkactions
+[15/3/2018 21:21:29] /reload talkactions
+[15/3/2018 21:22:16] /reload talkactions
+[15/3/2018 21:27:8] /reload talkactions
+[15/3/2018 21:28:43] /reload talkactions
+[15/3/2018 21:30:40] /reload talkactions
+[15/3/2018 21:40:42] /reload talkactions
+[15/3/2018 21:41:29] /reload talkactions
+[16/3/2018 15:33:39] /m dragon
+[16/3/2018 15:34:2] /m dragon
+[16/3/2018 15:34:2] /m dragon
+[16/3/2018 15:34:2] /m dragon
+[16/3/2018 15:34:3] /m dragon
+[16/3/2018 15:34:3] /m dragon
+[16/3/2018 15:34:5] /m dragon
+[16/3/2018 15:34:5] /m dragon
+[16/3/2018 15:34:5] /m dragon
+[16/3/2018 15:34:14] /m baylor
+[16/3/2018 15:39:8] /r
+[16/3/2018 15:39:11] /r
+[16/3/2018 15:40:20] /r
+[16/3/2018 15:46:58] /m baylor
+[16/3/2018 15:46:58] /m baylor
+[16/3/2018 15:46:59] /m baylor
+[16/3/2018 15:47:9] /m baylor
+[16/3/2018 15:47:9] /m baylor
+[16/3/2018 15:47:10] /m baylor
+[16/3/2018 15:47:10] /m baylor
+[16/3/2018 15:47:18] /m baylor
+[16/3/2018 15:47:23] /m baylor
+[16/3/2018 15:47:23] /m baylor
+[16/3/2018 15:47:23] /m baylor
+[16/3/2018 15:47:24] /m baylor
+[16/3/2018 15:48:49] /r
+[16/3/2018 15:49:25] /reload talkactions
+[16/3/2018 15:49:37] /reload creaturescripts
+[16/3/2018 15:52:22] /reload creaturescpts
+[16/3/2018 15:52:28] /reload creaturescripts
+[16/3/2018 16:9:11] /m baylor
+[16/3/2018 16:9:11] /m baylor
+[16/3/2018 16:9:11] /m baylor
+[16/3/2018 16:9:11] /m baylor
+[16/3/2018 16:9:40] /m baylor
+[16/3/2018 16:9:40] /m baylor
+[16/3/2018 16:9:44] /m baylor
+[16/3/2018 16:9:45] /m baylor
+[16/3/2018 16:9:45] /m baylor
+[16/3/2018 16:9:45] /m baylor
+[16/3/2018 16:9:45] /m baylor
+[16/3/2018 16:11:20] /i 12724
+[16/3/2018 16:14:41] /reload creaturescripts
+[16/3/2018 16:16:11] /m baylor
+[16/3/2018 16:16:16] /m baylor
+[16/3/2018 16:16:17] /m baylor
+[16/3/2018 16:16:17] /m baylor
+[16/3/2018 16:16:18] /m baylor
+[16/3/2018 16:16:21] /m baylor
+[16/3/2018 16:16:24] /m baylor
+[16/3/2018 16:16:28] /m baylor
+[16/3/2018 16:16:32] /m baylor
+[16/3/2018 16:16:33] /m baylor
+[16/3/2018 16:16:34] /m baylor
+[16/3/2018 16:16:35] /m baylor
+[16/3/2018 16:16:37] /m baylor
+[16/3/2018 16:16:37] /m baylor
+[16/3/2018 16:16:38] /m baylor
+[16/3/2018 16:16:53] /r
+[16/3/2018 16:16:55] /r
+[16/3/2018 16:17:54] /reload talkactions
+[16/3/2018 16:18:3] /reload creaturescripts
+[16/3/2018 16:19:40] /r
+[16/3/2018 16:19:46] /m baylor
+[16/3/2018 16:19:46] /m baylor
+[16/3/2018 16:19:47] /m baylor
+[16/3/2018 16:19:47] /m baylor
+[16/3/2018 16:21:16] /reload creaturescripts
+[16/3/2018 16:22:3] /m baylor
+[16/3/2018 16:22:3] /m baylor
+[16/3/2018 16:22:10] /m baylor
+[16/3/2018 16:22:10] /m baylor
+[16/3/2018 16:22:10] /m baylor
+[16/3/2018 16:22:10] /m baylor
+[16/3/2018 16:22:10] /m baylor
+[16/3/2018 16:23:2] /m baylor
+[16/3/2018 16:23:2] /m baylor
+[16/3/2018 16:23:3] /m baylor
+[16/3/2018 16:23:3] /m baylor
+[16/3/2018 16:23:18] /m baylor
+[16/3/2018 16:23:18] /m baylor
+[16/3/2018 16:23:18] /m baylor
+[16/3/2018 16:23:18] /m baylor
+[16/3/2018 16:26:0] /m baylor
+[16/3/2018 16:26:0] /m baylor
+[16/3/2018 16:26:1] /m baylor
+[16/3/2018 16:26:1] /m baylor
+[16/3/2018 16:26:1] /m baylor
+[16/3/2018 16:27:21] /m baylor
+[16/3/2018 16:27:21] /m baylor
+[16/3/2018 16:27:22] /m baylor
+[16/3/2018 16:38:49] /m baylor
+[16/3/2018 16:38:50] /m baylor
+[16/3/2018 16:41:50] /r
+[16/3/2018 16:44:59] /m baylor
+[16/3/2018 16:44:59] /m baylor
+[16/3/2018 16:44:59] /m baylor
+[16/3/2018 16:44:59] /m baylor
+[16/3/2018 16:47:46] /r
+[16/3/2018 16:48:38] /m baylor
+[16/3/2018 16:48:38] /m baylor
+[16/3/2018 16:48:38] /m baylor
+[16/3/2018 16:49:49] /i coal basin
+[16/3/2018 16:49:52] /i coal basin
+[16/3/2018 16:49:54] /i coal basin
+[16/3/2018 16:49:57] /i coal basin
+[16/3/2018 16:49:59] /i coal basin
+[16/3/2018 16:50:2] /r
+[16/3/2018 16:50:6] /a 2
+[16/3/2018 16:50:8] /m baylor
+[16/3/2018 16:50:8] /m baylor
+[16/3/2018 16:50:10] /a 2
+[16/3/2018 16:50:11] /a 2
+[16/3/2018 16:50:13] /a 2
+[16/3/2018 16:50:14] /m baylor
+[16/3/2018 16:50:15] /a 2
+[16/3/2018 16:50:27] /r
+[16/3/2018 16:50:34] /m baylor
+[16/3/2018 16:50:34] /m baylor
+[16/3/2018 16:50:34] /m baylor
+[16/3/2018 16:56:17] /r
+[16/3/2018 16:56:23] /a 2
+[16/3/2018 16:56:24] /m baylor
+[16/3/2018 16:56:25] /m baylor
+[16/3/2018 16:56:25] /m baylor
+[16/3/2018 16:56:27] /a 2
+[16/3/2018 16:56:27] /a 2
+[16/3/2018 17:4:28] /reload talkactions
+[16/3/2018 17:17:1] /reload talkactions
+[16/3/2018 17:17:20] /reload talkactions
+[16/3/2018 17:18:22] /r
+[16/3/2018 17:22:7] /r
+[16/3/2018 17:58:54] /reload talkactions
+[16/3/2018 17:59:1] /reload creaturescripts
+[16/3/2018 18:0:17] /reload creaturescripts
+[16/3/2018 18:4:8] /reload talkactions
+[16/3/2018 18:4:37] /reload talkactions
+[16/3/2018 18:14:59] /reload creaturescripts
+[16/3/2018 18:15:6] /reload talkactions
+[16/3/2018 18:17:39] /reload talkactions
+[16/3/2018 18:24:48] /reload creaturescripts
+[16/3/2018 18:24:54] /reload talkactions
+[16/3/2018 19:5:39] /m baylor
+[16/3/2018 19:5:39] /reload creaturescripts
+[16/3/2018 19:14:16] /r
+[16/3/2018 19:44:27] /reload creaturescripts
+[16/3/2018 19:50:28] /reload creaturescripts
+[16/3/2018 19:53:33] /reload creaturescripts
+[16/3/2018 19:54:30] /reload creaturescripts
+[16/3/2018 20:11:37] /reload talkactions
+[16/3/2018 20:22:21] /reload creaturescripts
+[16/3/2018 20:22:26] /reload talkactions
+[16/3/2018 20:31:41] /reload creaturscripts
+[16/3/2018 20:31:44] /reload creaturescripts
+[16/3/2018 20:31:48] /r
+[16/3/2018 20:31:49] /r
+[16/3/2018 21:16:54] /reload talkactions
+[16/3/2018 21:16:58] /reload creaturescripts
+[16/3/2018 21:20:5] /reload creaturescripts
+[16/3/2018 21:20:12] /reload talkactions
+[16/3/2018 21:21:42] /reload creaturescripts
+[16/3/2018 21:23:11] /reload creaturescripts
+[16/3/2018 21:26:27] /reload creaturescripts
+[16/3/2018 21:29:40] /reload talkactions
+[16/3/2018 21:29:46] /reload creaturescripts
+[16/3/2018 21:30:33] /reload creaturescripts
+[16/3/2018 21:30:56] /reload creaturescripts
+[16/3/2018 21:32:57] /reload creaturescripts
+[16/3/2018 21:34:5] /reload creaturescripts
+[16/3/2018 21:37:24] /reload creaturescripts
+[16/3/2018 21:48:59] /reload talkactions
+[16/3/2018 21:50:4] /reload creaturescripts
+[16/3/2018 21:50:12] /reload creaturescripts
+[16/3/2018 21:57:34] /reload creaturescripts
+[16/3/2018 21:57:43] /reload talkactions
+[16/3/2018 22:0:3] /reload creaturescripts
+[16/3/2018 22:0:7] /reload talkactions
+[16/3/2018 22:0:16] /reload creaturescripts
+[16/3/2018 22:28:25] /reload creaturescripts
+[16/3/2018 22:28:32] /reload talkactions
+[16/3/2018 22:31:30] /reload creaturescripts
+[16/3/2018 22:37:24] /reload creaturescripts
+[16/3/2018 22:37:29] /reload talkactions
+[16/3/2018 22:56:8] /reload creaturescripts
+[16/3/2018 22:56:17] /reload talkactions
+[16/3/2018 22:57:50] /reload creaturescripts
+[16/3/2018 22:57:55] /reload talkactions
+[16/3/2018 22:58:37] /reload creaturescripts
+[16/3/2018 22:58:43] /reload talkactions
+[16/3/2018 23:1:27] /reload creaturescripts
+[16/3/2018 23:1:32] /reload talkactions
+[16/3/2018 23:1:39] /r
+[16/3/2018 23:1:55] /r
+[16/3/2018 23:2:59] /reload creaturescripts
+[16/3/2018 23:3:4] /reload talkactions
+[16/3/2018 23:3:29] /r
+[16/3/2018 23:7:46] /reload creaturescripts
+[16/3/2018 23:7:53] /reload talkactions
+[16/3/2018 23:10:4] /r
+[16/3/2018 23:43:10] /r
+[16/3/2018 23:43:12] /r
+[16/3/2018 23:43:12] /r
+[16/3/2018 23:51:48] /reload creaturescripts
+[17/3/2018 0:21:13] /reload creaturescripts
+[17/3/2018 1:40:22] /reload creaturescripts
+[17/3/2018 1:40:29] /reload talkactions
+[17/3/2018 1:42:0] /reload talkactions
+[17/3/2018 1:42:32] /reload talkactions
+[17/3/2018 1:43:6] /reload talkactions
+[17/3/2018 1:43:54] /reload talkactions
+[17/3/2018 1:46:59] /reload talkactions
+[17/3/2018 1:47:8] /reload creaturescripts
+[17/3/2018 1:48:8] /reload talkactions
+[17/3/2018 1:48:15] /reload creaturescripts
+[17/3/2018 1:49:37] /m baylor
+[17/3/2018 1:49:39] /reload talkactions
+[17/3/2018 1:50:35] /reload talkactions
+[17/3/2018 1:50:43] /reload creaturescripts
+[17/3/2018 1:50:57] /reload creaturescripts
+[17/3/2018 1:51:49] /reload creaturescripts
+[17/3/2018 1:52:9] /reload talkactions
+[17/3/2018 1:53:3] /reload creaturescripts
+[17/3/2018 1:53:9] /reload talkactions
+[17/3/2018 1:53:34] /reload talkactions
+[17/3/2018 1:53:39] /reload creaturescripts
+[17/3/2018 1:54:2] /reload creaturescripts
+[17/3/2018 1:54:8] /reload talkactions
+[17/3/2018 1:56:35] /reload creaturescripts
+[17/3/2018 2:4:11] /reload creaturescripts
+[17/3/2018 2:5:15] /reload creaturescripts
+[17/3/2018 2:6:10] /reload creaturescripts
+[17/3/2018 2:7:8] /reload creaturescripts
+[17/3/2018 2:7:35] /reload creaturescripts
+[17/3/2018 2:13:21] /reload creaturescripts
+[17/3/2018 2:13:32] /reload talkactions
+[17/3/2018 2:23:57] /reload talkactions
+[17/3/2018 2:24:19] /reload talkactions
+[17/3/2018 2:24:57] /reload talkactions
+[17/3/2018 2:25:42] /reload talkactions
+[17/3/2018 2:26:20] /reload talkactions
+[17/3/2018 2:26:56] /reload talkactions
+[17/3/2018 2:27:46] /reload talkactions
+[17/3/2018 2:28:7] /reload talkactions
+[17/3/2018 2:29:15] /reload talkactions
+[17/3/2018 2:39:13] /reload talkactions
+[17/3/2018 2:39:25] /reload creaturescripts
+[17/3/2018 2:40:51] /reload creaturescripts
+[17/3/2018 2:42:24] /reload talkactions
+[17/3/2018 2:42:34] /reload creaturescripts
+[17/3/2018 3:6:43] /reload talkactions
+[17/3/2018 3:7:34] /reload talkactions
+[17/3/2018 3:8:40] /reload talkactions
+[17/3/2018 3:14:34] /reload talkactions
+[17/3/2018 3:15:14] /reload talkactions
+[17/3/2018 3:15:35] /reload talkactions
+[17/3/2018 3:16:26] /reload talkactions
+[17/3/2018 3:17:0] /reload talkactions
+[17/3/2018 3:17:15] /reload talkactions
+[17/3/2018 3:18:3] /z 5
+[17/3/2018 3:18:5] /z 5
+[17/3/2018 3:18:7] /z 6
+[17/3/2018 3:18:10] /z 7
+[17/3/2018 3:18:12] /z 8
+[17/3/2018 3:18:14] /z 4
+[17/3/2018 3:18:16] /z 3
+[17/3/2018 3:18:18] /z 2
+[17/3/2018 3:18:20] /z 1
+[17/3/2018 3:18:21] /z 2
+[17/3/2018 3:18:23] /z 2
+[17/3/2018 3:18:25] /z 2
+[17/3/2018 3:18:26] /z 2
+[17/3/2018 3:18:32] /z 5
+[17/3/2018 3:18:34] /z 6
+[17/3/2018 3:18:37] /z 6
+[17/3/2018 3:18:51] /reload talkactions
+[17/3/2018 3:20:12] /reload talkactions
+[17/3/2018 3:21:23] /reload talkactions
+[17/3/2018 3:22:13] /reload talkactions
+[17/3/2018 3:30:31] /reload talkactions
+[17/3/2018 3:30:38] /reload creaturescripts
+[17/3/2018 3:32:13] /reload talkactions
+[17/3/2018 3:33:36] /reload talkactions
+[17/3/2018 3:33:58] /reload talkactions
+[17/3/2018 3:34:47] /reload talkactions
+[17/3/2018 3:35:13] /reload talkactions
+[17/3/2018 3:35:44] /reload talkactions
+[17/3/2018 3:38:37] /reload talkactions
+[17/3/2018 3:40:13] /reload talkactions
+[17/3/2018 3:42:20] /reload talkactions
+[17/3/2018 3:42:26] /reload creaturescripts
+[17/3/2018 3:43:27] /reload talkactions
+[17/3/2018 3:44:51] /reload talkactions
+[17/3/2018 3:44:58] /reload creaturescripts
+[17/3/2018 3:45:57] /reload talkactions
+[17/3/2018 3:46:4] /reload creaturescripts
+[17/3/2018 3:47:59] /reload talkactions
+[17/3/2018 3:48:6] /reload creaturescripts
+[17/3/2018 3:52:58] /reload talkactions
+[17/3/2018 3:53:4] /reload creaturescripts
+[17/3/2018 3:54:19] /reload talkactions
+[17/3/2018 3:54:30] /reload creaturescripts
+[17/3/2018 3:55:9] /m baylor
+[17/3/2018 3:55:15] /reload creaturescripts
+[17/3/2018 3:55:21] /reload talkactions
+[17/3/2018 3:56:36] /reload talkactions
+[17/3/2018 3:56:43] /reload creaturescripts
+[17/3/2018 3:59:5] /reload talkactions
+[17/3/2018 3:59:11] /reload creaturescripts
+[17/3/2018 4:1:2] /reload creaturescripts
+[17/3/2018 4:2:27] /reload talkactions
+[17/3/2018 4:2:33] /reload creaturescripts
+[17/3/2018 4:6:1] /reload talkactions
+[17/3/2018 4:6:9] /reload creaturescripts
+[17/3/2018 4:8:58] /reload creaturescripts
+[17/3/2018 4:11:58] /reload talkactions
+[17/3/2018 4:12:5] /reload creaturescripts
+[17/3/2018 4:19:6] /reload talkactions
+[17/3/2018 4:19:20] /reload creaturescripts
+[17/3/2018 4:20:18] /reload talkactions
+[17/3/2018 4:20:24] /reload creaturescripts
+[17/3/2018 4:20:42] /reload creaturescripts
+[17/3/2018 4:20:59] /reload creaturescripts
+[17/3/2018 14:21:8] /reload talkactions
+[17/3/2018 14:21:15] /reload talkactions
+[17/3/2018 14:21:37] /reload creaturescripts
+[17/3/2018 14:23:4] /reload creaturescripts
+[17/3/2018 14:25:55] /reload talkactions
+[17/3/2018 14:27:49] /r
+[17/3/2018 14:28:46] /m baylor
+[17/3/2018 14:28:47] /m baylor
+[17/3/2018 14:28:47] /m baylor
+[17/3/2018 14:29:11] /i wand of vortex
+[17/3/2018 16:20:54] /reload talkactions
+[17/3/2018 16:21:16] /a 2
+[17/3/2018 16:21:17] /a 2
+[17/3/2018 16:21:19] /a 2
+[17/3/2018 16:21:22] /a 2
+[17/3/2018 16:31:7] /reload creaturescripts
+[17/3/2018 17:14:16] /reload talkactions
+[17/3/2018 17:14:29] /reload creaturescripts
+[17/3/2018 17:18:10] /reload talkactions
+[17/3/2018 17:31:15] /reload talkactions
+[17/3/2018 18:1:39] /m baylor
+[17/3/2018 18:3:12] /m baylor
+[17/3/2018 18:3:13] /m baylor
+[17/3/2018 18:3:13] /m baylor
+[17/3/2018 18:3:13] /m baylor
+[17/3/2018 18:3:13] /m baylor
+[17/3/2018 18:3:30] /r
+[17/3/2018 18:3:31] /r
+[17/3/2018 18:3:32] /r
+[17/3/2018 18:3:33] /r
+[17/3/2018 18:3:34] /r
+[17/3/2018 18:20:33] /i 10558
+[17/3/2018 21:17:18] /reload creaturescripts
+[17/3/2018 21:30:7] /reload talkactions
+[17/3/2018 21:30:21] /reload creaturescripts
+[17/3/2018 21:31:53] /reload talkactions
+[17/3/2018 21:31:57] /reload creaturescripts
+[17/3/2018 21:32:32] /a 2
+[17/3/2018 21:32:34] /a 2
+[17/3/2018 21:32:36] /a 2
+[17/3/2018 21:32:37] /a 2
+[17/3/2018 21:32:43] /a 2
+[17/3/2018 21:32:44] /a 2
+[17/3/2018 21:32:45] /a 2
+[17/3/2018 21:32:45] /a 2
+[17/3/2018 21:32:45] /a 2
+[17/3/2018 21:32:45] /a 2
+[17/3/2018 21:32:45] /a 2
+[17/3/2018 21:33:1] /a 2
+[17/3/2018 21:33:2] /a 2
+[17/3/2018 21:33:2] /a 2
+[17/3/2018 21:33:2] /a 2
+[17/3/2018 21:33:3] /a 2
+[17/3/2018 21:33:3] /a 2
+[17/3/2018 21:33:12] /a 2
+[17/3/2018 21:33:39] /a 2
+[17/3/2018 21:33:39] /a 2
+[17/3/2018 21:33:39] /a 2
+[17/3/2018 21:33:40] /a 2
+[17/3/2018 21:33:46] /a 2
+[17/3/2018 21:33:46] /a 2
+[17/3/2018 21:33:46] /a 2
+[17/3/2018 21:33:47] /a 2
+[17/3/2018 21:33:48] /a 2
+[17/3/2018 21:33:48] /a 2
+[17/3/2018 21:33:49] /a 2
+[17/3/2018 21:33:49] /a 2
+[17/3/2018 21:33:50] /a 2
+[17/3/2018 21:33:50] /a 2
+[17/3/2018 21:33:50] /a 2
+[17/3/2018 21:34:8] /a 2
+[17/3/2018 21:34:18] /a 2
+[17/3/2018 21:34:19] /a 2
+[17/3/2018 21:34:22] /a 2
+[17/3/2018 21:34:26] /a 2
+[17/3/2018 21:34:28] /a 2
+[17/3/2018 21:34:30] /c aviao
+[17/3/2018 21:34:31] /a 2
+[17/3/2018 21:34:35] /a 2
+[17/3/2018 21:34:36] /a 2
+[17/3/2018 21:34:37] /a 2
+[17/3/2018 21:34:39] /c aviao
+[17/3/2018 21:34:43] /a 2
+[17/3/2018 21:34:45] /c aviao
+[17/3/2018 21:34:50] /a 2
+[17/3/2018 21:35:28] /goto aviao
+[17/3/2018 21:35:40] /a 2
+[17/3/2018 21:35:41] /a 2
+[17/3/2018 21:35:41] /a 2
+[17/3/2018 21:35:41] /a 2
+[17/3/2018 21:35:42] /a 2
+[17/3/2018 21:35:42] /a 2
+[17/3/2018 21:35:42] /a 2
+[17/3/2018 21:35:42] /a 2
+[17/3/2018 21:35:43] /a 2
+[17/3/2018 21:35:44] /a 2
+[17/3/2018 21:35:47] /a 2
+[17/3/2018 21:35:48] /a 2
+[17/3/2018 21:35:48] /a 2
+[17/3/2018 21:35:49] /a 2
+[17/3/2018 21:35:50] /a 2
+[17/3/2018 21:35:50] /a 2
+[17/3/2018 21:35:58] /a 2
+[17/3/2018 21:35:59] /a 2
+[17/3/2018 21:35:59] /a 2
+[17/3/2018 21:35:59] /a 2
+[17/3/2018 21:36:0] /a 2
+[17/3/2018 21:36:0] /a 2
+[17/3/2018 21:36:0] /a 2
+[17/3/2018 21:36:0] /a 2
+[17/3/2018 21:36:1] /a 2
+[17/3/2018 21:36:1] /a 2
+[17/3/2018 21:36:1] /a 2
+[17/3/2018 21:36:2] /a 2
+[17/3/2018 21:36:2] /a 2
+[17/3/2018 21:36:2] /a 2
+[17/3/2018 21:36:2] /a 2
+[17/3/2018 21:36:2] /a 2
+[17/3/2018 21:49:53] /reload creaturescripts
+[17/3/2018 21:50:37] /reload creaturescripts
+[17/3/2018 21:53:31] /reload creaturescripts
+[17/3/2018 21:55:14] /reload creaturescripts
+[17/3/2018 21:55:32] /reload creaturescripts
+[17/3/2018 21:57:36] /m baylor
+[17/3/2018 21:57:36] /m baylor
+[17/3/2018 21:57:36] /m baylor
+[17/3/2018 21:57:37] /m baylor
+[17/3/2018 21:57:37] /m baylor
+[17/3/2018 21:57:37] /m baylor
+[17/3/2018 21:57:37] /m baylor
+[17/3/2018 21:57:37] /m baylor
+[17/3/2018 22:0:59] /reload creaturescripts
+[17/3/2018 22:3:35] /reload talkactions
+[17/3/2018 22:3:40] /reload creaturescripts
+[17/3/2018 22:6:19] /reload creaturescripts
+[17/3/2018 22:10:47] /reload creaturescripts
+[17/3/2018 22:10:51] /reload talkactions
+[17/3/2018 22:26:1] /reload creaturescripts
+[17/3/2018 22:26:7] /reload talkactions
+[17/3/2018 23:4:37] /reload creaturescripts
+[17/3/2018 23:39:21] /reload creaturescripts
+[17/3/2018 23:39:34] /r
+[17/3/2018 23:39:40] /reload talkactions
+[18/3/2018 0:9:52] /reload talkactions
+[18/3/2018 0:9:58] /reload creaturescripts
+[18/3/2018 0:38:46] /reload creaturescripts
+[18/3/2018 0:57:37] /reload creaturescripts
+[18/3/2018 1:7:25] /reload creaturescripts
+[18/3/2018 1:39:23] /reload creaturescripts
+[18/3/2018 11:19:4] /a 2
+[18/3/2018 11:19:4] /a 2
+[18/3/2018 11:19:4] /a 2
+[18/3/2018 11:19:4] /a 2
+[18/3/2018 11:19:4] /a 2
+[18/3/2018 11:19:5] /a 2
+[18/3/2018 11:19:5] /a 2
+[18/3/2018 11:19:6] /a 2
+[18/3/2018 11:19:7] /a 2
+[18/3/2018 11:19:7] /a 2
+[18/3/2018 11:19:7] /a 2
+[18/3/2018 11:19:7] /a 2
+[18/3/2018 11:19:8] /a 2
+[18/3/2018 11:19:8] /a 2
+[18/3/2018 11:19:8] /a 2
+[18/3/2018 11:19:8] /a 2
+[18/3/2018 11:19:8] /a 2
+[18/3/2018 11:19:14] /a 2
+[18/3/2018 11:19:15] /a 2
+[18/3/2018 11:19:15] /a 2
+[18/3/2018 11:19:15] /a 2
+[18/3/2018 11:19:15] /a 2
+[18/3/2018 11:19:15] /a 2
+[18/3/2018 11:19:15] /a 2
+[18/3/2018 11:19:16] /a 2
+[18/3/2018 11:19:16] /a 2
+[18/3/2018 11:19:16] /a 2
+[18/3/2018 11:19:16] /a 2
+[18/3/2018 11:19:17] /a 2
+[18/3/2018 11:19:17] /a 2
+[18/3/2018 11:19:17] /a 2
+[18/3/2018 11:19:17] /a 2
+[18/3/2018 11:19:17] /a 2
+[18/3/2018 11:19:18] /a 2
+[18/3/2018 11:19:18] /a 2
+[18/3/2018 11:19:26] /a 2
+[18/3/2018 11:19:27] /a 2
+[18/3/2018 11:19:27] /a 2
+[18/3/2018 11:19:27] /a 2
+[18/3/2018 11:19:27] /a 2
+[18/3/2018 11:19:27] /a 2
+[21/3/2018 21:52:57] /reload talkactions
+[21/3/2018 21:53:31] /reload talkactions
+[21/3/2018 21:57:43] /reload talkactions
+[21/3/2018 22:1:35] /reload talkactions
+[21/3/2018 22:5:10] /reload creaturescripts
+[21/3/2018 22:5:16] /reload talkactions
+[22/3/2018 2:8:45] /reload creaturescripts
+[9/4/2018 21:28:46] /reload creaturescripts
+[9/4/2018 21:39:54] /reload creaturescripts
+[9/4/2018 21:40:18] /reload creaturescripts
+[9/4/2018 21:40:42] /reload creaturescripts
+[9/4/2018 21:41:8] /reload creaturescripts
+[9/4/2018 21:42:44] /reload creaturescripts
+[9/4/2018 21:45:8] /reload creaturescripts
+[15/4/2018 15:6:33] /t
+[15/4/2018 15:8:5] /a 2
+[15/4/2018 15:8:20] /a 2
+[15/4/2018 15:8:20] /a 2
+[15/4/2018 15:8:20] /a 2
+[15/4/2018 15:8:21] /a 2
+[15/4/2018 15:8:21] /a 2
+[15/4/2018 15:9:18] /a 2
+[15/4/2018 15:9:19] /a 2
+[15/4/2018 15:9:21] /a 2
+[15/4/2018 15:9:22] /a 2
+[15/4/2018 15:9:28] /a 2
+[15/4/2018 15:9:28] /a 2
+[15/4/2018 15:9:29] /a 2
+[15/4/2018 15:9:29] /a 2
+[15/4/2018 15:9:30] /a 2
+[15/4/2018 15:9:31] /a 2
+[15/4/2018 15:9:31] /a 2
+[15/4/2018 15:9:31] /a 2
+[15/4/2018 15:9:31] /a 2
+[15/4/2018 15:9:31] /a 2
+[15/4/2018 15:9:37] /a 2
+[15/4/2018 15:9:38] /a 2
+[15/4/2018 15:9:43] /a 2
+[15/4/2018 15:9:43] /a 2
+[15/4/2018 15:9:44] /a 2
+[15/4/2018 15:9:44] /a 2
+[15/4/2018 15:9:44] /a 2
+[15/4/2018 15:9:44] /a 2
+[15/4/2018 15:9:44] /a 2
+[15/4/2018 15:9:45] /a 2
+[15/4/2018 15:9:45] /a 2
+[15/4/2018 15:9:46] /a 2
+[15/4/2018 15:9:46] /a 2
+[15/4/2018 15:9:46] /a 2
+[15/4/2018 15:9:47] /a 2
+[15/4/2018 15:9:47] /a 2
+[15/4/2018 15:9:47] /a 2
+[15/4/2018 15:9:47] /a 2
+[15/4/2018 15:9:48] /a 2
+[15/4/2018 15:9:48] /a 2
+[15/4/2018 15:9:49] /a 2
+[15/4/2018 15:9:49] /a 2
+[15/4/2018 15:9:49] /a 2
+[15/4/2018 15:9:49] /a 2
+[15/4/2018 15:9:50] /a 2
+[15/4/2018 15:9:50] /a 2
+[15/4/2018 15:9:51] /a 2
+[15/4/2018 15:9:51] /a 2
+[15/4/2018 15:9:52] /a 2
+[15/4/2018 15:9:52] /a 2
+[15/4/2018 15:9:52] /a 2
+[15/4/2018 15:9:52] /a 2
+[15/4/2018 15:9:52] /a 2
+[15/4/2018 15:9:52] /a 2
+[15/4/2018 15:9:52] /a 2
+[15/4/2018 15:9:52] /a 2
+[15/4/2018 15:9:52] /a 2
+[15/4/2018 15:9:52] /a 2
+[15/4/2018 15:9:52] /a 2
+[15/4/2018 15:9:53] /t
+[15/4/2018 15:19:22] /n task normal
+[15/4/2018 15:27:50] /m goblins
+[15/4/2018 15:27:50] /m goblins
+[15/4/2018 15:27:51] /m goblins
+[15/4/2018 15:27:51] /m goblins
+[15/4/2018 15:27:52] /m goblins
+[15/4/2018 15:27:52] /m goblins
+[15/4/2018 15:27:53] /m goblins
+[15/4/2018 15:27:53] /m goblins
+[15/4/2018 15:27:53] /m goblins
+[15/4/2018 15:27:58] /m goblin
+[15/4/2018 15:28:0] /m goblin
+[15/4/2018 15:28:0] /m goblin
+[15/4/2018 15:28:0] /m goblin
+[15/4/2018 15:28:1] /m goblin
+[15/4/2018 15:28:1] /m goblin
+[15/4/2018 15:28:11] /m goblin
+[15/4/2018 15:28:12] /m goblin
+[15/4/2018 15:28:12] /m goblin
+[15/4/2018 15:28:12] /m goblin
+[15/4/2018 15:28:30] /m goblin
+[15/4/2018 15:28:31] /m goblin
+[15/4/2018 15:28:31] /m goblin
+[15/4/2018 15:28:34] /m troll
+[15/4/2018 15:28:37] /m crocodile
+[15/4/2018 15:28:52] /reload talkactions
+[15/4/2018 15:28:58] /m goblin
+[15/4/2018 15:29:0] /m goblin
+[15/4/2018 15:29:3] /m troll
+[15/4/2018 15:29:10] /m troll
+[15/4/2018 15:29:14] /m crocodile
+[15/4/2018 15:29:23] /m crocodile
+[15/4/2018 15:29:30] /m crocodile
+[15/4/2018 15:29:30] /m crocodile
+[15/4/2018 15:29:35] /m crocodile
+[15/4/2018 15:29:37] /m troll
+[15/4/2018 15:29:38] /m goblin
+[15/4/2018 15:42:39] /n task aleatoria
+[15/4/2018 18:41:21] /reload talkactions
+[15/4/2018 18:41:34] /reload creaturescripts
+[15/4/2018 18:43:14] /reload creaturescripts
+[15/4/2018 20:1:55] /m goblin
+[15/4/2018 20:1:55] /m goblin
+[15/4/2018 20:1:56] /m goblin
+[15/4/2018 20:1:56] /m goblin
+[15/4/2018 20:2:32] /r
+[17/4/2018 22:13:5] /a 2
+[17/4/2018 22:13:40] /a 2
+[17/4/2018 22:13:40] /a 2
+[17/4/2018 22:13:40] /a 2
+[17/4/2018 22:13:40] /a 2
+[17/4/2018 22:13:40] /a 2
+[17/4/2018 22:13:41] /a 2
+[17/4/2018 22:13:45] /a 2
+[17/4/2018 22:13:45] /a 2
+[17/4/2018 22:13:45] /a 2
+[17/4/2018 22:14:10] /reload talkactions
+[19/4/2018 18:33:54] /reload talkactions
+[19/4/2018 18:34:42] /reload talkactions
+[19/4/2018 18:35:6] /reload talkactions
+[19/4/2018 18:37:3] /reload talkactions
+[19/4/2018 18:42:28] /reload talkactions
+[19/4/2018 18:42:32] /reload talkactions
+[19/4/2018 18:44:12] /reload talkactions
+[19/4/2018 18:44:55] /reload talkactions
+[19/4/2018 18:47:29] /reload talkactions
+[19/4/2018 18:47:34] /reload talkactions
+[19/4/2018 18:47:39] /reload talkactions
+[19/4/2018 18:48:1] /reload talkactions
+[19/4/2018 18:48:7] !warcarlin
+[19/4/2018 18:48:20] !warcarlin invite
+[19/4/2018 19:17:35] /reload talkactions
+[19/4/2018 19:17:42] /reload creaturescripts
+[19/4/2018 19:56:15] /reload talkactions
+[19/4/2018 19:56:54] /reload talkactions
+[19/4/2018 19:57:53] /reload talkactions
+[19/4/2018 19:58:38] /c teste
+[19/4/2018 19:59:24] /reload talkactions
+[19/4/2018 19:59:49] /r
+[19/4/2018 19:59:51] /r
+[21/4/2018 16:37:53] /c aviao
+[21/4/2018 16:37:56] /r
+[21/4/2018 16:38:18] /a 2
+[21/4/2018 16:38:21] /t
+[21/4/2018 16:38:27] /a 2
+[21/4/2018 16:38:28] /a 2
+[21/4/2018 16:48:55] /reload talkactions
+[21/4/2018 16:49:1] /reload creaturescripts
+[21/4/2018 16:49:7] /t
+[21/4/2018 16:49:43] /reload talkactions
+[22/4/2018 1:55:25] /reload talkactions
+[22/4/2018 1:55:30] /reload creaturescripts
+[22/4/2018 15:53:34] /reload talkactions
+[22/4/2018 20:34:0] /cliport
+[22/4/2018 20:34:36] /a 5
+[22/4/2018 20:35:37] /t
+[22/4/2018 20:35:45] /t
+[22/4/2018 20:36:46] /t
+[22/4/2018 20:37:24] /r
+[22/4/2018 20:37:25] /r
+[22/4/2018 20:37:33] /a 
+[22/4/2018 20:37:34] /a 
+[22/4/2018 20:37:36] /r
+[22/4/2018 20:37:38] /r
+[22/4/2018 20:37:46] /i 9122
+[22/4/2018 20:38:1] /r
+[22/4/2018 20:38:19] /i 9476as
+[22/4/2018 20:38:21] /a 1
+[22/4/2018 20:38:22] /i 9476
+[22/4/2018 20:38:27] /r
+[22/4/2018 20:40:43] /a 1
+[22/4/2018 20:40:44] /a 1
+[22/4/2018 20:40:48] /r
+[22/4/2018 20:40:51] /a 1
+[22/4/2018 20:40:51] /a 1
+[22/4/2018 20:40:52] /a 1
+[22/4/2018 20:41:30] /i 1484
+[22/4/2018 20:41:31] /i 1484
+[22/4/2018 20:41:41] /r
+[22/4/2018 20:41:49] /r
+[22/4/2018 20:41:50] /r
+[22/4/2018 20:41:51] /r
+[22/4/2018 20:41:52] /r
+[22/4/2018 20:41:53] /r
+[22/4/2018 20:42:14] /r
+[22/4/2018 20:42:22] /i 9121
+[22/4/2018 20:42:23] /i 9121
+[22/4/2018 20:42:25] /i 9121
+[22/4/2018 20:42:31] /r
+[22/4/2018 20:42:33] /r
+[22/4/2018 20:42:35] /a 1
+[22/4/2018 20:42:36] /a 1
+[22/4/2018 20:42:36] /a 1
+[28/4/2018 19:8:45] /m goblin
+[28/4/2018 19:9:34] /reload talkactions
+[28/4/2018 19:9:40] /reload creaturescripts
+[28/4/2018 19:34:17] /m goblin
+[28/4/2018 19:35:40] /reload creaturescripts
+[28/4/2018 19:38:47] /reload creaturescripts
+[28/4/2018 19:38:58] /m goblin
+[28/4/2018 19:39:32] /reload creaturescripts
+[28/4/2018 19:40:15] /reload creaturescripts
+[28/4/2018 19:40:19] /m goblin
+[28/4/2018 19:51:26] /reload creaturescripts
+[28/4/2018 20:0:3] /n dodge seller
+[28/4/2018 20:19:37] /reload creaturescripts
+[28/4/2018 20:19:47] /reload npcs
+[28/4/2018 20:20:48] /reload npcs
+[28/4/2018 20:22:59] /reload npcs
+[28/4/2018 20:23:35] /reload npcs
+[28/4/2018 20:23:59] /reload npcs
+[28/4/2018 20:24:30] /reload npcs
+[28/4/2018 20:25:21] /reload npcs
+[28/4/2018 20:25:47] /reload npcs
+[28/4/2018 20:26:9] /reload npcs
+[28/4/2018 20:26:18] /reload npcs
+[28/4/2018 20:26:35] /reload npcs
+[28/4/2018 20:39:45] /reload talkactions
+[28/4/2018 20:39:53] /reload talkactions
+[28/4/2018 20:40:15] /m goblin
+[28/4/2018 20:40:16] /m goblin
+[28/4/2018 20:42:59] /reload talkactions
+[30/4/2018 9:57:6] /reload talkactions
+[30/4/2018 9:57:21] /reload talkactions
+[30/4/2018 10:8:2] /reload talkactions
+[30/4/2018 19:15:22] /reload talkactions
+[30/4/2018 19:15:28] /reload creaturescripts
+[30/4/2018 19:15:48] /reload talkactions
+[30/4/2018 20:43:46] /reload npcs
+[30/4/2018 20:43:55] /n token bank
+[30/4/2018 20:45:30] /reload npcs
+[30/4/2018 20:47:51] /reload npcs
+[30/4/2018 20:50:37] /reload npcs
+[30/4/2018 20:55:42] /reload npcs
+[30/4/2018 21:5:8] /reload npcs
+[30/4/2018 21:8:31] /reload npcs
+[30/4/2018 21:19:48] /reload npcs
+[30/4/2018 21:23:51] /i 12372,100
+[30/4/2018 21:23:52] /i 12372,100
+[30/4/2018 21:24:11] /reload npcs
+[30/4/2018 21:31:27] /reload npcs
+[30/4/2018 21:34:24] /reload npcs
+[30/4/2018 21:37:27] /reload npcs
+[30/4/2018 21:51:16] /reload npcs
+[30/4/2018 21:52:33] /reload npcs
+[30/4/2018 21:54:11] /reload ncs
+[30/4/2018 21:54:14] /reload npcs
+[30/4/2018 21:56:37] /reload npcs
+[30/4/2018 22:2:6] /reload talkactions
+[30/4/2018 22:5:22] /reload npcs
+[30/4/2018 22:9:8] /reload npcs
+[30/4/2018 22:13:57] /reload npcs
+[30/4/2018 22:27:15] /reload npcs
+[30/4/2018 22:27:21] /reload talkactions
+[30/4/2018 22:31:7] /reload talkactions
+[30/4/2018 22:33:5] /reload npcs
+[30/4/2018 22:33:8] /reload talkactions
+[30/4/2018 22:33:57] /i backpack
+[2/5/2018 11:20:51] /reload talkactions
+[2/5/2018 11:20:56] /reload creaturescripts
+[2/5/2018 11:27:25] /reload talkactions
+[2/5/2018 11:29:0] /reload talkactions
+[2/5/2018 11:29:25] /reload talkactions
+[2/5/2018 11:30:4] /i bag
+[2/5/2018 11:30:7] /i bag
+[2/5/2018 11:30:8] /i bag
+[2/5/2018 11:33:0] /reload talkactions
+[2/5/2018 11:34:1] /reload talkactions
+[2/5/2018 11:34:48] /reload talkactions
+[2/5/2018 11:36:13] /reload talkactions
+[2/5/2018 11:37:37] /reload talkactions
+[2/5/2018 11:38:11] /reload talkactions
+[2/5/2018 11:41:54] /reload talkactions
+[2/5/2018 11:42:14] /reload talkactions
+[2/5/2018 11:59:26] /reload talkactions
+[2/5/2018 12:0:7] /reload talkactions
+[2/5/2018 12:1:24] /reload talkactions
+[2/5/2018 12:2:52] /reload talkactions
+[2/5/2018 12:3:8] /reload talkactions
+[2/5/2018 12:5:56] /reload talkactions
+[2/5/2018 12:9:56] /reload talkactions
+[2/5/2018 12:10:46] /reload talkactions
+[2/5/2018 12:11:37] /reload talkactions
+[2/5/2018 12:14:25] /reload talkactions
+[2/5/2018 12:16:1] /reload talkactions
+[2/5/2018 12:16:49] /reload talkactions
+[2/5/2018 12:17:6] /reload talkactions
+[2/5/2018 12:24:10] /reload talkactions
+[2/5/2018 12:24:23] /reload talkactions
+[2/5/2018 12:24:34] /reload talkactions
+[2/5/2018 12:24:44] /reload talkactions
+[2/5/2018 12:24:55] /reload talkactions
+[2/5/2018 12:24:59] /reload creaturescripts
+[2/5/2018 12:25:10] /reload talkactions
+[2/5/2018 12:25:22] /reload talkactions
+[2/5/2018 12:25:50] /reload talkactions
+[2/5/2018 12:26:2] /reload talkactions
+[2/5/2018 12:26:13] /reload talkactions
+[2/5/2018 12:26:23] /reload talkactions
+[2/5/2018 12:26:35] /reload talkactions
+[2/5/2018 12:26:51] /reload talkactions
+[2/5/2018 12:27:2] /reload talkactions
+[2/5/2018 12:29:45] /reload talkactions
+[6/5/2018 0:34:1] /reload creaturescripts
+[6/5/2018 11:20:7] /reload talkactions
+[6/5/2018 11:20:38] /reload talkactions
+[6/5/2018 16:52:18] /a 10
+[6/5/2018 16:52:18] /a 10
+[6/5/2018 16:52:19] /a 10
+[6/5/2018 16:52:20] /a 10
+[6/5/2018 16:52:20] /a 10
+[6/5/2018 16:52:20] /a 10
+[6/5/2018 16:52:21] /a 10
+[6/5/2018 16:52:22] /a 10
+[6/5/2018 16:52:22] /a 10
+[6/5/2018 16:52:26] /t
+[6/5/2018 17:12:25] /goto matheus
+[6/5/2018 18:18:56] /a 10
+[6/5/2018 18:18:56] /a 10
+[6/5/2018 18:18:56] /a 10
+[6/5/2018 18:18:57] /a 10
+[6/5/2018 18:18:57] /a 10
+[6/5/2018 18:18:57] /a 10
+[6/5/2018 18:18:57] /a 10
+[6/5/2018 18:18:57] /a 10
+[6/5/2018 18:18:57] /a 10
+[6/5/2018 18:18:57] /a 10
+[6/5/2018 18:18:57] /a 10
+[6/5/2018 18:18:57] /a 10
+[6/5/2018 18:18:58] /a 10
+[6/5/2018 18:18:58] /a 10
+[6/5/2018 18:18:58] /a 10
+[6/5/2018 18:18:58] /a 10
+[6/5/2018 18:18:58] /a 10
+[6/5/2018 18:18:58] /a 10
+[6/5/2018 18:18:58] /a 10
+[6/5/2018 18:18:58] /a 10
+[6/5/2018 18:18:58] /a 10
+[6/5/2018 18:18:58] /a 10
+[6/5/2018 18:18:58] /a 10
+[6/5/2018 18:18:58] /a 10
+[6/5/2018 18:18:58] /a 10
+[6/5/2018 18:18:58] /a 10
+[6/5/2018 18:18:58] /a 10
+[6/5/2018 18:18:58] /a 10
+[6/5/2018 18:18:58] /a 10
+[6/5/2018 18:18:58] /a 10
+[6/5/2018 18:18:58] /a 10
+[6/5/2018 18:18:58] /a 10
+[6/5/2018 18:18:58] /a 10
+[6/5/2018 18:18:58] /a 10
+[6/5/2018 18:18:58] /a 10
+[6/5/2018 18:18:58] /a 10
+[6/5/2018 18:18:58] /a 10
+[6/5/2018 18:18:58] /a 10
+[6/5/2018 18:18:58] /a 10
+[6/5/2018 18:18:58] /a 10
+[6/5/2018 18:18:58] /a 10
+[6/5/2018 18:18:59] /a 10
+[6/5/2018 18:18:59] /a 10
+[6/5/2018 18:18:59] /a 10
+[6/5/2018 18:18:59] /a 10
+[6/5/2018 18:18:59] /a 10
+[6/5/2018 18:18:59] /a 10
+[6/5/2018 18:18:59] /a 10
+[6/5/2018 18:18:59] /a 10
+[6/5/2018 18:18:59] /a 10
+[6/5/2018 18:18:59] /a 10
+[6/5/2018 18:18:59] /a 10
+[6/5/2018 18:19:0] /a 10
+[6/5/2018 18:19:0] /a 10
+[6/5/2018 18:19:0] /a 10
+[6/5/2018 18:19:0] /a 10
+[6/5/2018 18:19:0] /a 10
+[6/5/2018 18:19:0] /a 10
+[6/5/2018 18:19:0] /a 10
+[6/5/2018 18:19:0] /a 10
+[6/5/2018 18:19:0] /a 10
+[6/5/2018 18:19:0] /a 10
+[6/5/2018 18:19:0] /a 10
+[6/5/2018 18:19:0] /a 10
+[6/5/2018 18:19:1] /a 10
+[6/5/2018 18:19:1] /a 10
+[6/5/2018 18:19:1] /a 10
+[6/5/2018 18:19:1] /a 10
+[6/5/2018 18:19:1] /a 10
+[6/5/2018 18:19:2] /a 10
+[6/5/2018 18:19:2] /a 10
+[6/5/2018 18:19:2] /a 10
+[6/5/2018 18:19:3] /a 10
+[6/5/2018 18:19:4] /a 10
+[6/5/2018 18:19:4] /a 10
+[6/5/2018 18:19:5] /a 10
+[6/5/2018 18:19:5] /a 10
+[6/5/2018 18:19:17] /a 10
+[6/5/2018 18:19:17] /a 10
+[6/5/2018 18:19:18] /a 10
+[6/5/2018 18:19:18] /a 10
+[6/5/2018 18:19:19] /a 10
+[6/5/2018 18:19:19] /a 10
+[6/5/2018 18:19:20] /a 10
+[6/5/2018 18:19:21] /a 10
+[6/5/2018 18:37:2] /t
+[6/5/2018 18:38:24] /a 10
+[6/5/2018 18:38:24] /a 10
+[6/5/2018 18:38:25] /a 10
+[6/5/2018 18:38:25] /a 10
+[6/5/2018 18:38:25] /a 10
+[6/5/2018 18:38:25] /a 10
+[6/5/2018 18:38:25] /a 10
+[6/5/2018 18:38:25] /a 10
+[6/5/2018 18:38:26] /a 10
+[6/5/2018 18:38:26] /a 10
+[6/5/2018 18:38:26] /a 10
+[6/5/2018 18:38:26] /a 10
+[6/5/2018 18:38:27] /a 10
+[6/5/2018 18:38:27] /a 10
+[6/5/2018 18:38:27] /a 10
+[6/5/2018 18:38:27] /a 10
+[6/5/2018 18:38:27] /a 10
+[6/5/2018 18:38:27] /a 10
+[6/5/2018 18:38:27] /a 10
+[6/5/2018 18:38:27] /a 10
+[6/5/2018 18:38:27] /a 10
+[6/5/2018 18:38:27] /a 10
+[6/5/2018 18:38:27] /a 10
+[6/5/2018 18:38:27] /a 10
+[6/5/2018 18:38:27] /a 10
+[6/5/2018 18:38:27] /a 10
+[6/5/2018 18:38:28] /a 10
+[6/5/2018 18:38:28] /a 10
+[6/5/2018 18:38:28] /a 10
+[6/5/2018 18:38:28] /a 10
+[6/5/2018 18:38:28] /a 10
+[6/5/2018 18:38:28] /a 10
+[6/5/2018 18:38:28] /a 10
+[6/5/2018 18:38:28] /a 10
+[6/5/2018 18:38:28] /a 10
+[6/5/2018 18:38:28] /a 10
+[6/5/2018 18:38:28] /a 10
+[6/5/2018 18:38:28] /a 10
+[6/5/2018 18:38:28] /a 10
+[6/5/2018 18:38:28] /a 10
+[6/5/2018 18:38:28] /a 10
+[6/5/2018 18:38:28] /a 10
+[6/5/2018 18:38:28] /a 10
+[6/5/2018 18:38:28] /a 10
+[6/5/2018 18:38:28] /a 10
+[6/5/2018 18:38:28] /a 10
+[6/5/2018 18:38:28] /a 10
+[6/5/2018 18:38:28] /a 10
+[6/5/2018 18:38:28] /a 10
+[6/5/2018 18:38:28] /a 10
+[6/5/2018 18:38:28] /a 10
+[6/5/2018 18:38:28] /a 10
+[6/5/2018 18:38:28] /a 10
+[6/5/2018 18:38:28] /a 10
+[6/5/2018 18:38:28] /a 10
+[6/5/2018 18:38:28] /a 10
+[6/5/2018 18:38:28] /a 10
+[6/5/2018 18:38:28] /a 10
+[6/5/2018 18:38:28] /a 10
+[6/5/2018 18:38:28] /a 10
+[6/5/2018 18:38:28] /a 10
+[6/5/2018 18:38:28] /a 10
+[6/5/2018 18:38:29] /a 10
+[6/5/2018 18:38:29] /a 10
+[6/5/2018 18:38:29] /a 10
+[6/5/2018 18:38:29] /a 10
+[6/5/2018 18:38:29] /a 10
+[6/5/2018 18:38:29] /a 10
+[6/5/2018 18:38:29] /a 10
+[6/5/2018 18:38:29] /a 10
+[6/5/2018 18:38:29] /a 10
+[6/5/2018 18:38:29] /a 10
+[6/5/2018 18:38:32] /a 10
+[6/5/2018 18:38:32] /a 10
+[6/5/2018 18:38:32] /a 10
+[6/5/2018 18:38:32] /a 10
+[6/5/2018 18:38:32] /a 10
+[6/5/2018 18:38:33] /a 10
+[6/5/2018 18:38:33] /a 10
+[6/5/2018 18:38:33] /a 10
+[6/5/2018 18:38:33] /a 10
+[6/5/2018 18:38:34] /a 10
+[6/5/2018 18:38:34] /a 10
+[6/5/2018 18:38:34] /a 10
+[6/5/2018 18:38:34] /a 10
+[6/5/2018 18:38:34] /a 10
+[6/5/2018 18:38:35] /a 10
+[6/5/2018 18:38:36] /a 10
+[6/5/2018 18:38:36] /a 10
+[6/5/2018 18:38:37] /a 10
+[6/5/2018 18:39:39] /a 10
+[6/5/2018 18:39:39] /a 10
+[6/5/2018 18:39:39] /a 10
+[6/5/2018 18:39:40] /a 10
+[6/5/2018 18:39:40] /a 10
+[6/5/2018 18:39:41] /a 10
+[6/5/2018 18:39:41] /a 10
+[6/5/2018 18:39:41] /a 10
+[6/5/2018 18:39:42] /a 10
+[6/5/2018 18:39:42] /a 10
+[6/5/2018 18:39:42] /a 10
+[6/5/2018 18:39:42] /a 10
+[6/5/2018 18:39:42] /a 10
+[6/5/2018 18:39:42] /a 10
+[6/5/2018 18:39:42] /a 10
+[6/5/2018 18:39:42] /a 10
+[6/5/2018 18:39:42] /a 10
+[6/5/2018 18:39:42] /a 10
+[6/5/2018 18:39:42] /a 10
+[6/5/2018 18:39:42] /a 10
+[6/5/2018 18:39:42] /a 10
+[6/5/2018 18:39:42] /a 10
+[6/5/2018 18:39:42] /a 10
+[6/5/2018 18:39:42] /a 10
+[6/5/2018 18:39:42] /a 10
+[6/5/2018 18:39:42] /a 10
+[6/5/2018 18:39:42] /a 10
+[6/5/2018 18:39:42] /a 10
+[6/5/2018 18:39:42] /a 10
+[6/5/2018 18:39:42] /a 10
+[6/5/2018 18:39:42] /a 10
+[6/5/2018 18:39:42] /a 10
+[6/5/2018 18:39:42] /a 10
+[6/5/2018 18:39:42] /a 10
+[6/5/2018 18:39:42] /a 10
+[6/5/2018 18:39:43] /a 10
+[6/5/2018 18:39:43] /a 10
+[6/5/2018 18:39:43] /a 10
+[6/5/2018 18:39:43] /a 10
+[6/5/2018 18:39:43] /a 10
+[6/5/2018 18:39:43] /a 10
+[6/5/2018 18:39:43] /a 10
+[6/5/2018 18:39:43] /a 10
+[6/5/2018 18:39:43] /a 10
+[6/5/2018 18:39:43] /a 10
+[6/5/2018 18:39:43] /a 10
+[6/5/2018 18:39:43] /a 10
+[6/5/2018 18:39:43] /a 10
+[6/5/2018 18:39:43] /a 10
+[6/5/2018 18:39:43] /a 10
+[6/5/2018 18:39:43] /a 10
+[6/5/2018 18:39:43] /a 10
+[6/5/2018 18:39:43] /a 10
+[6/5/2018 18:39:43] /a 10
+[6/5/2018 18:39:43] /a 10
+[6/5/2018 18:39:43] /a 10
+[6/5/2018 18:39:44] /a 10
+[6/5/2018 18:39:44] /a 10
+[6/5/2018 18:39:45] /a 10
+[6/5/2018 18:39:55] /a 10
+[6/5/2018 18:39:55] /a 10
+[6/5/2018 18:39:56] /a 10
+[6/5/2018 18:40:29] /t
+[6/5/2018 18:41:10] /a 10
+[6/5/2018 18:41:10] /a 10
+[6/5/2018 18:41:10] /a 10
+[6/5/2018 18:41:11] /a 10
+[6/5/2018 18:41:11] /a 10
+[6/5/2018 18:41:11] /a 10
+[6/5/2018 18:41:11] /a 10
+[6/5/2018 18:41:11] /a 10
+[6/5/2018 18:41:11] /a 10
+[6/5/2018 18:41:11] /a 10
+[6/5/2018 18:41:11] /a 10
+[6/5/2018 18:41:11] /a 10
+[6/5/2018 18:41:11] /a 10
+[6/5/2018 18:41:11] /a 10
+[6/5/2018 18:41:11] /a 10
+[6/5/2018 18:41:11] /a 10
+[6/5/2018 18:41:11] /a 10
+[6/5/2018 18:41:12] /a 10
+[6/5/2018 18:41:12] /a 10
+[6/5/2018 18:41:12] /a 10
+[6/5/2018 18:41:12] /a 10
+[6/5/2018 18:41:12] /a 10
+[6/5/2018 18:41:12] /a 10
+[6/5/2018 18:41:12] /a 10
+[6/5/2018 18:41:12] /a 10
+[6/5/2018 18:41:12] /a 10
+[6/5/2018 18:41:12] /a 10
+[6/5/2018 18:41:12] /a 10
+[6/5/2018 18:41:12] /a 10
+[6/5/2018 18:41:12] /a 10
+[6/5/2018 18:41:12] /a 10
+[6/5/2018 18:41:12] /a 10
+[6/5/2018 18:41:12] /a 10
+[6/5/2018 18:41:12] /a 10
+[6/5/2018 18:41:12] /a 10
+[6/5/2018 18:41:12] /a 10
+[6/5/2018 18:41:12] /a 10
+[6/5/2018 18:41:12] /a 10
+[6/5/2018 18:41:12] /a 10
+[6/5/2018 18:41:12] /a 10
+[6/5/2018 18:41:12] /a 10
+[6/5/2018 18:41:13] /a 10
+[6/5/2018 18:41:13] /a 10
+[6/5/2018 18:41:14] /a 10
+[6/5/2018 18:41:15] /a 10
+[6/5/2018 18:41:15] /a 10
+[6/5/2018 18:41:15] /a 10
+[6/5/2018 18:41:15] /a 10
+[6/5/2018 18:41:15] /a 10
+[6/5/2018 18:41:15] /a 10
+[6/5/2018 18:41:15] /a 10
+[6/5/2018 18:41:15] /a 10
+[6/5/2018 18:41:15] /a 10
+[6/5/2018 18:41:15] /a 10
+[6/5/2018 18:41:15] /a 10
+[6/5/2018 18:41:16] /a 10
+[6/5/2018 18:41:16] /a 10
+[6/5/2018 18:41:19] /a 10
+[6/5/2018 18:41:20] /a 10
+[6/5/2018 18:41:20] /a 10
+[6/5/2018 18:41:20] /a 10
+[6/5/2018 18:41:20] /a 10
+[6/5/2018 18:41:20] /a 10
+[6/5/2018 18:41:20] /a 10
+[6/5/2018 18:41:20] /a 10
+[6/5/2018 18:41:20] /a 10
+[6/5/2018 18:41:20] /a 10
+[6/5/2018 18:41:20] /a 10
+[6/5/2018 18:41:20] /a 10
+[6/5/2018 18:41:20] /a 10
+[6/5/2018 18:41:21] /a 10
+[6/5/2018 18:41:21] /a 10
+[6/5/2018 18:41:21] /a 10
+[6/5/2018 18:41:21] /a 10
+[6/5/2018 18:41:22] /a 10
+[6/5/2018 18:41:22] /a 10
+[6/5/2018 18:41:22] /a 10
+[6/5/2018 18:41:22] /a 10
+[6/5/2018 18:41:22] /a 10
+[6/5/2018 18:41:22] /a 10
+[6/5/2018 18:41:22] /a 10
+[6/5/2018 18:41:22] /a 10
+[6/5/2018 18:41:22] /a 10
+[6/5/2018 18:41:22] /a 10
+[6/5/2018 18:41:22] /a 10
+[6/5/2018 18:41:22] /a 10
+[6/5/2018 18:41:22] /a 10
+[6/5/2018 18:41:22] /a 10
+[6/5/2018 18:41:23] /a 10
+[6/5/2018 18:41:23] /a 10
+[6/5/2018 18:41:23] /a 10
+[6/5/2018 18:41:23] /a 10
+[6/5/2018 18:41:23] /a 10
+[6/5/2018 18:41:23] /a 10
+[6/5/2018 18:41:23] /a 10
+[6/5/2018 18:41:23] /a 10
+[6/5/2018 18:41:23] /a 10
+[6/5/2018 18:41:23] /a 10
+[6/5/2018 18:41:24] /a 10
+[6/5/2018 18:41:24] /a 10
+[6/5/2018 18:41:24] /a 10
+[6/5/2018 18:41:24] /a 10
+[6/5/2018 18:42:28] /t
+[6/5/2018 18:42:33] /reload movements
+[6/5/2018 18:43:34] /a 10
+[6/5/2018 18:43:35] /a 10
+[6/5/2018 18:43:35] /a 10
+[6/5/2018 18:43:35] /a 10
+[6/5/2018 18:43:35] /a 10
+[6/5/2018 18:43:35] /a 10
+[6/5/2018 18:43:35] /a 10
+[6/5/2018 18:43:35] /a 10
+[6/5/2018 18:43:35] /a 10
+[6/5/2018 18:43:35] /a 10
+[6/5/2018 18:43:35] /a 10
+[6/5/2018 18:43:35] /a 10
+[6/5/2018 18:43:35] /a 10
+[6/5/2018 18:43:35] /a 10
+[6/5/2018 18:43:35] /a 10
+[6/5/2018 18:43:35] /a 10
+[6/5/2018 18:43:36] /a 10
+[6/5/2018 18:43:36] /a 10
+[6/5/2018 18:43:36] /a 10
+[6/5/2018 18:43:36] /a 10
+[6/5/2018 18:43:36] /a 10
+[6/5/2018 18:43:36] /a 10
+[6/5/2018 18:43:36] /a 10
+[6/5/2018 18:43:36] /a 10
+[6/5/2018 18:43:36] /a 10
+[6/5/2018 18:43:36] /a 10
+[6/5/2018 18:43:36] /a 10
+[6/5/2018 18:43:36] /a 10
+[6/5/2018 18:43:36] /a 10
+[6/5/2018 18:43:36] /a 10
+[6/5/2018 18:43:36] /a 10
+[6/5/2018 18:43:36] /a 10
+[6/5/2018 18:43:36] /a 10
+[6/5/2018 18:43:36] /a 10
+[6/5/2018 18:43:36] /a 10
+[6/5/2018 18:43:36] /a 10
+[6/5/2018 18:43:36] /a 10
+[6/5/2018 18:43:37] /a 10
+[6/5/2018 18:43:37] /a 10
+[6/5/2018 18:43:38] /a 10
+[6/5/2018 18:43:38] /a 10
+[6/5/2018 18:43:38] /a 10
+[6/5/2018 18:43:38] /a 10
+[6/5/2018 18:43:38] /a 10
+[6/5/2018 18:43:38] /a 10
+[6/5/2018 18:43:38] /a 10
+[6/5/2018 18:43:38] /a 10
+[6/5/2018 18:43:38] /a 10
+[6/5/2018 18:43:38] /a 10
+[6/5/2018 18:43:38] /a 10
+[6/5/2018 18:43:39] /a 10
+[6/5/2018 18:43:39] /a 10
+[6/5/2018 18:43:39] /a 10
+[6/5/2018 18:43:39] /a 10
+[6/5/2018 18:43:39] /a 10
+[6/5/2018 18:43:40] /a 10
+[6/5/2018 18:43:40] /a 10
+[6/5/2018 18:43:41] /a 10
+[6/5/2018 18:43:41] /a 10
+[6/5/2018 18:43:41] /a 10
+[6/5/2018 18:43:42] /a 10
+[6/5/2018 18:43:54] /a 10
+[6/5/2018 18:43:55] /a 10
+[6/5/2018 18:43:55] /a 10
+[6/5/2018 18:43:55] /a 10
+[6/5/2018 18:43:55] /a 10
+[6/5/2018 18:43:55] /a 10
+[6/5/2018 18:43:55] /a 10
+[6/5/2018 18:43:55] /a 10
+[6/5/2018 18:43:55] /a 10
+[6/5/2018 18:43:55] /a 10
+[6/5/2018 18:43:55] /a 10
+[6/5/2018 18:43:55] /a 10
+[6/5/2018 18:43:55] /a 10
+[6/5/2018 18:43:55] /a 10
+[6/5/2018 18:43:55] /a 10
+[6/5/2018 18:43:55] /a 10
+[6/5/2018 18:43:56] /a 10
+[6/5/2018 18:43:56] /a 10
+[6/5/2018 18:43:56] /a 10
+[6/5/2018 18:43:56] /a 10
+[6/5/2018 18:43:56] /a 10
+[6/5/2018 18:43:56] /a 10
+[6/5/2018 18:43:56] /a 10
+[6/5/2018 18:43:56] /a 10
+[6/5/2018 18:43:56] /a 10
+[6/5/2018 18:43:56] /a 10
+[6/5/2018 18:43:56] /a 10
+[6/5/2018 18:43:56] /a 10
+[6/5/2018 18:43:56] /a 10
+[6/5/2018 18:43:57] /a 10
+[6/5/2018 18:43:57] /a 10
+[6/5/2018 18:43:57] /a 10
+[6/5/2018 18:43:57] /a 10
+[6/5/2018 18:43:57] /a 10
+[6/5/2018 18:43:57] /a 10
+[6/5/2018 18:43:57] /a 10
+[6/5/2018 18:43:57] /a 10
+[6/5/2018 18:43:57] /a 10
+[6/5/2018 18:43:57] /a 10
+[6/5/2018 18:43:57] /a 10
+[6/5/2018 18:43:57] /a 10
+[6/5/2018 18:43:57] /a 10
+[6/5/2018 18:43:57] /a 10
+[6/5/2018 18:43:57] /a 10
+[6/5/2018 18:43:57] /a 10
+[6/5/2018 18:43:57] /a 10
+[6/5/2018 18:43:57] /a 10
+[6/5/2018 18:43:57] /a 10
+[6/5/2018 18:43:57] /a 10
+[6/5/2018 18:43:57] /a 10
+[6/5/2018 18:43:57] /a 10
+[6/5/2018 18:43:58] /a 10
+[6/5/2018 18:43:58] /a 10
+[6/5/2018 18:43:58] /a 10
+[6/5/2018 18:43:58] /a 10
+[6/5/2018 18:43:58] /a 10
+[6/5/2018 18:43:59] /a 10
+[6/5/2018 18:44:0] /a 10
+[6/5/2018 18:44:1] /a 10
+[6/5/2018 18:45:2] /a 10
+[6/5/2018 18:45:3] /a 10
+[6/5/2018 18:45:3] /a 10
+[6/5/2018 18:45:3] /a 10
+[6/5/2018 18:45:3] /a 10
+[6/5/2018 18:45:3] /a 10
+[6/5/2018 18:45:3] /a 10
+[6/5/2018 18:45:3] /a 10
+[6/5/2018 18:45:3] /a 10
+[6/5/2018 18:45:3] /a 10
+[6/5/2018 18:45:4] /a 10
+[6/5/2018 18:45:4] /a 10
+[6/5/2018 18:45:4] /a 10
+[6/5/2018 18:45:4] /a 10
+[6/5/2018 18:45:4] /a 10
+[6/5/2018 18:45:4] /a 10
+[6/5/2018 18:45:4] /a 10
+[6/5/2018 18:45:4] /a 10
+[6/5/2018 18:45:4] /a 10
+[6/5/2018 18:45:4] /a 10
+[6/5/2018 18:45:4] /a 10
+[6/5/2018 18:45:4] /a 10
+[6/5/2018 18:45:4] /a 10
+[6/5/2018 18:45:4] /a 10
+[6/5/2018 18:45:4] /a 10
+[6/5/2018 18:45:4] /a 10
+[6/5/2018 18:45:4] /a 10
+[6/5/2018 18:45:4] /a 10
+[6/5/2018 18:45:4] /a 10
+[6/5/2018 18:45:4] /a 10
+[6/5/2018 18:45:4] /a 10
+[6/5/2018 18:45:4] /a 10
+[6/5/2018 18:45:4] /a 10
+[6/5/2018 18:45:4] /a 10
+[6/5/2018 18:45:5] /a 10
+[6/5/2018 18:45:5] /a 10
+[6/5/2018 18:45:5] /a 10
+[6/5/2018 18:45:5] /a 10
+[6/5/2018 18:45:5] /a 10
+[6/5/2018 18:45:6] /a 10
+[6/5/2018 18:45:6] /a 10
+[6/5/2018 18:45:6] /a 10
+[6/5/2018 18:45:6] /a 10
+[6/5/2018 18:45:7] /a 10
+[6/5/2018 18:45:7] /a 10
+[6/5/2018 18:45:7] /a 10
+[6/5/2018 18:45:7] /a 10
+[6/5/2018 18:45:8] /a 10
+[6/5/2018 18:45:9] /a 10
+[6/5/2018 18:45:10] /a 10
+[6/5/2018 18:45:11] /a 10
+[6/5/2018 18:45:12] /a 10
+[6/5/2018 18:45:12] /a 10
+[6/5/2018 18:47:40] /reload movements
+[6/5/2018 18:49:45] /reload movements
+[6/5/2018 18:50:15] /a 10
+[6/5/2018 18:50:15] /a 10
+[6/5/2018 18:50:16] /a 10
+[6/5/2018 18:50:16] /a 10
+[6/5/2018 18:50:16] /a 10
+[6/5/2018 18:50:16] /a 10
+[6/5/2018 18:50:16] /a 10
+[6/5/2018 18:50:17] /a 10
+[6/5/2018 18:50:17] /a 10
+[6/5/2018 18:50:17] /a 10
+[6/5/2018 18:50:17] /a 10
+[6/5/2018 18:50:17] /a 10
+[6/5/2018 18:50:17] /a 10
+[6/5/2018 18:50:17] /a 10
+[6/5/2018 18:50:17] /a 10
+[6/5/2018 18:50:17] /a 10
+[6/5/2018 18:50:17] /a 10
+[6/5/2018 18:50:17] /a 10
+[6/5/2018 18:50:18] /a 10
+[6/5/2018 18:50:18] /a 10
+[6/5/2018 18:50:19] /a 10
+[6/5/2018 18:50:19] /a 10
+[6/5/2018 18:50:20] /a 10
+[6/5/2018 18:50:20] /a 10
+[6/5/2018 18:50:22] /a 10
+[6/5/2018 18:50:23] /a 10
+[6/5/2018 18:50:36] /a 10
+[6/5/2018 18:50:36] /a 10
+[6/5/2018 18:50:37] /a 10
+[6/5/2018 18:50:39] /a 10
+[6/5/2018 18:50:39] /a 10
+[6/5/2018 18:50:39] /a 10
+[6/5/2018 18:50:40] /a 10
+[6/5/2018 18:50:40] /a 10
+[6/5/2018 18:50:40] /a 10
+[6/5/2018 18:50:40] /a 10
+[6/5/2018 18:50:40] /a 10
+[6/5/2018 18:50:40] /a 10
+[6/5/2018 18:50:40] /a 10
+[6/5/2018 18:50:40] /a 10
+[6/5/2018 18:50:40] /a 10
+[6/5/2018 18:50:40] /a 10
+[6/5/2018 18:50:40] /a 10
+[6/5/2018 18:50:40] /a 10
+[6/5/2018 18:50:40] /a 10
+[6/5/2018 18:50:40] /a 10
+[6/5/2018 18:50:40] /a 10
+[6/5/2018 18:50:40] /a 10
+[6/5/2018 18:50:40] /a 10
+[6/5/2018 18:50:40] /a 10
+[6/5/2018 18:50:40] /a 10
+[6/5/2018 18:50:40] /a 10
+[6/5/2018 18:50:40] /a 10
+[6/5/2018 18:50:40] /a 10
+[6/5/2018 18:50:41] /a 10
+[6/5/2018 18:50:41] /a 10
+[6/5/2018 18:50:41] /a 10
+[6/5/2018 18:50:41] /a 10
+[6/5/2018 18:50:41] /a 10
+[6/5/2018 18:50:41] /a 10
+[6/5/2018 18:50:41] /a 10
+[6/5/2018 18:50:41] /a 10
+[6/5/2018 18:50:41] /a 10
+[6/5/2018 18:50:41] /a 10
+[6/5/2018 18:50:41] /a 10
+[6/5/2018 18:50:41] /a 10
+[6/5/2018 18:50:41] /a 10
+[6/5/2018 18:50:41] /a 10
+[6/5/2018 18:50:41] /a 10
+[6/5/2018 18:50:41] /a 10
+[6/5/2018 18:50:41] /a 10
+[6/5/2018 18:50:41] /a 10
+[6/5/2018 18:50:41] /a 10
+[6/5/2018 18:50:41] /a 10
+[6/5/2018 18:50:41] /a 10
+[6/5/2018 18:50:41] /a 10
+[6/5/2018 18:50:41] /a 10
+[6/5/2018 18:50:42] /a 10
+[6/5/2018 18:50:42] /a 10
+[6/5/2018 18:50:42] /a 10
+[6/5/2018 18:50:42] /a 10
+[6/5/2018 18:50:42] /a 10
+[6/5/2018 18:50:46] /a 10
+[6/5/2018 18:51:51] /t
+[6/5/2018 18:56:43] /reload globalevents
+[6/5/2018 18:57:23] /reload globalevents
+[6/5/2018 18:57:36] /reload globalevents
+[6/5/2018 18:58:1] /reload globalevents
+[6/5/2018 18:58:15] /reload globalevents
+[6/5/2018 18:59:47] /goto matheus
+[6/5/2018 19:3:47] /t
+[6/5/2018 19:5:22] /a 10
+[6/5/2018 19:5:22] /a 10
+[6/5/2018 19:5:22] /a 10
+[6/5/2018 19:5:31] /t
+[6/5/2018 19:6:10] /clean
+[6/5/2018 19:6:47] /clean
+[6/5/2018 19:42:29] /i 2190
+[6/5/2018 20:5:22] /i backpack
+[6/5/2018 20:5:35] /i 2190
+[6/5/2018 20:5:37] /i magic sword
+[6/5/2018 20:5:38] /i magic sword
+[6/5/2018 20:8:48] /i backpack
+[6/5/2018 20:9:3] /i magic sword
+[6/5/2018 20:9:5] /i magic swor
+[6/5/2018 20:9:9] /i magic sworc
+[6/5/2018 20:9:10] /i magic sword
+[6/5/2018 20:10:25] /i demon
+[6/5/2018 20:10:29] /m demon
+[6/5/2018 20:12:5] /m demon
+[6/5/2018 20:12:20] /i backpack
+[6/5/2018 20:12:43] /m trainer
+[6/5/2018 20:12:46] /m trainer
+[6/5/2018 20:12:48] /m demon
+[6/5/2018 20:13:18] /m demon
+[6/5/2018 20:14:14] /i magic sword
+[6/5/2018 20:14:15] /i magic sword
+[6/5/2018 20:14:40] /m demon
+[6/5/2018 20:17:19] /i backpack
+[6/5/2018 20:17:30] /i magic sword
+[6/5/2018 20:17:31] /i magic sword
+[6/5/2018 20:17:35] /i 2190
+[6/5/2018 20:17:50] /m demon
+[6/5/2018 20:18:0] /i magic sword
+[6/5/2018 20:18:53] /i magic sword
+[6/5/2018 20:18:58] /i axe
+[6/5/2018 20:30:27] /i backpack
+[6/5/2018 20:30:37] /i 2190
+[6/5/2018 20:30:40] /i magic sword
+[6/5/2018 20:30:41] /i magic sword
+[6/5/2018 20:30:45] /i hellforged axe
+[6/5/2018 20:30:46] /i hellforged axe
+[6/5/2018 20:31:4] /m demon
+[6/5/2018 20:31:20] /m demon
+[6/5/2018 20:32:3] /m demon
+[6/5/2018 20:32:7] /r
+[6/5/2018 20:32:9] /m training monk
+[6/5/2018 20:32:12] /m treiner
+[6/5/2018 20:32:47] /m demon
+[6/5/2018 20:34:29] /i backpack
+[6/5/2018 20:34:37] /i 2190
+[6/5/2018 20:34:40] /i magic sword
+[6/5/2018 20:34:40] /i magic sword
+[6/5/2018 20:34:44] /i hellforged axe
+[6/5/2018 20:34:45] /i hellforged axe
+[6/5/2018 20:34:46] /save
+[6/5/2018 20:34:51] /m demon
+[6/5/2018 20:36:35] /m demon
+[6/5/2018 20:41:49] /m demon
+[6/5/2018 20:45:34] /m demon
+[6/5/2018 20:45:46] /i magic sword
+[6/5/2018 20:46:32] /i fire sword
+[6/5/2018 20:52:56] /m demon
+[6/5/2018 20:54:40] /i wand of decay
+[6/5/2018 20:54:41] /i wand of decay
+[6/5/2018 20:56:19] /m demon
+[6/5/2018 20:56:27] /i wand of decay
+[6/5/2018 20:56:28] /i wand of decay
+[6/5/2018 20:56:36] /save
+[6/5/2018 20:56:43] /m demon
+[6/5/2018 20:57:25] /m demon
+[6/5/2018 20:57:30] /clean
+[6/5/2018 20:57:32] /clean
+[6/5/2018 20:57:35] /r
+[6/5/2018 20:59:6] /i moonlight rod
+[6/5/2018 20:59:8] /save
+[6/5/2018 21:0:50] /m demon
+[6/5/2018 21:4:39] /clean
+[6/5/2018 21:4:43] /m demon
+[6/5/2018 21:5:15] /i moonlight rod
+[6/5/2018 21:5:49] /i hailstorm rod
+[6/5/2018 21:7:57] /r
+[6/5/2018 21:8:7] /r
+[6/5/2018 21:8:12] /m demon
+[6/5/2018 21:8:14] /m demon
+[6/5/2018 21:11:58] /i two handed sword
+[6/5/2018 21:12:15] /i dwarven shield
+[6/5/2018 21:12:45] /i two handed sword
+[6/5/2018 21:21:53] /i 12780
+[6/5/2018 21:22:16] /reload actions
+[6/5/2018 21:24:37] /reload actions
+[6/5/2018 21:26:22] /reload actions
+[6/5/2018 21:26:37] /i 10026
+[6/5/2018 21:26:46] /i 10026
+[6/5/2018 21:26:51] /i 10026
+[6/5/2018 21:27:27] /reload actions
+[6/5/2018 21:28:27] /i 10026
+[6/5/2018 21:28:37] /i 10026
+[6/5/2018 21:28:52] /i 2377
+[6/5/2018 21:29:55] /i knight sword
+[6/5/2018 21:29:58] /i knight sword
+[6/5/2018 21:30:0] /i knight sword
+[6/5/2018 21:30:1] /i knight sword
+[6/5/2018 21:30:4] /i knight axe
+[6/5/2018 21:30:5] /i knight axe
+[6/5/2018 21:30:10] /i 10026
+[6/5/2018 21:30:11] /i 10026
+[6/5/2018 21:30:11] /i 10026
+[6/5/2018 21:30:12] /i 10026
+[6/5/2018 21:31:3] /i knight axe
+[6/5/2018 21:31:4] /i knight axe
+[6/5/2018 21:35:35] /z 30
+[6/5/2018 21:35:38] /z 29
+[6/5/2018 21:35:53] /z 20
+[6/5/2018 21:35:55] /z 21
+[6/5/2018 21:35:58] /z 18
+[6/5/2018 21:36:4] /z 27
+[6/5/2018 21:36:10] /z 27
+[6/5/2018 21:36:12] /z 27
+[6/5/2018 21:36:14] /z 27
+[6/5/2018 21:36:17] /z 27
+[6/5/2018 21:36:37] /c matheus
+[6/5/2018 21:45:7] /i 8305
+[6/5/2018 21:46:21] /i pure energy
+[6/5/2018 21:48:18] /reload actions
+[6/5/2018 21:48:46] /save
+[6/5/2018 21:49:35] /i 8305
+[6/5/2018 21:49:44] /r
+[6/5/2018 21:49:51] /r
+[6/5/2018 21:50:7] /i 8305
+[6/5/2018 21:51:41] /i 8305
+[6/5/2018 21:51:41] /i 8305
+[6/5/2018 21:51:42] /i 8305
+[6/5/2018 21:51:42] /i 8305
+[6/5/2018 21:51:43] /i 8305
+[6/5/2018 21:51:45] /i 8305
+[6/5/2018 21:51:45] /i 8305
+[6/5/2018 21:51:46] /i 8305
+[6/5/2018 21:51:48] /i 8305
+[6/5/2018 21:51:49] /i 8305
+[6/5/2018 21:51:53] /i magic sword
+[6/5/2018 21:52:22] /i knight axe
+[6/5/2018 21:52:29] /r
+[6/5/2018 21:52:33] /i bow
+[6/5/2018 21:59:13] /i wand of inferno
+[6/5/2018 22:15:11] /m demon
+[6/5/2018 22:15:28] /i wand of decay
+[6/5/2018 22:23:28] /reload actions
+[6/5/2018 22:24:2] /i sword
+[6/5/2018 22:24:9] /i axe
+[6/5/2018 22:24:12] /i mace
+[6/5/2018 22:24:20] /i sword
+[6/5/2018 22:24:21] /i mace
+[6/5/2018 22:24:22] /i mace
+[6/5/2018 22:24:25] /i axe
+[6/5/2018 22:25:7] /reload actions
+[6/5/2018 22:25:29] /i beholder shield
+[6/5/2018 22:25:49] /i spear
+[6/5/2018 22:26:15] /reload actions
+[6/5/2018 22:27:8] /i beholder shield
+[6/5/2018 22:28:24] /i assassin star
+[6/5/2018 22:30:35] /reload actions
+[6/5/2018 22:31:0] /i crystal arrow
+[6/5/2018 23:48:44] /t
+[6/5/2018 23:49:25] /up
+[6/5/2018 23:50:20] /t
+[6/5/2018 23:57:42] /up
+[6/5/2018 23:57:44] /up
+[7/5/2018 0:6:1] /goto matheus
+[7/5/2018 15:42:43] /t
+[7/5/2018 15:54:21] /reload actions
+[7/5/2018 15:54:35] /i bow
+[7/5/2018 15:54:37] /i crossbow
+[7/5/2018 15:55:32] /save
+[7/5/2018 15:57:0] /i arrow
+[7/5/2018 16:0:15] /save
+[7/5/2018 16:1:9] /i assassin star
+[7/5/2018 16:1:16] /i 8305
+[7/5/2018 16:1:16] /i 8305
+[7/5/2018 16:1:17] /i 8305
+[7/5/2018 16:1:18] /i 8305
+[7/5/2018 16:1:18] /i 8305
+[7/5/2018 16:1:41] /m demon
+[7/5/2018 16:3:24] /r
+[7/5/2018 16:3:29] /clean
+[7/5/2018 16:3:32] /i spear
+[7/5/2018 16:3:41] /i necrotic rod
+[7/5/2018 16:3:52] /i wand of decay
+[7/5/2018 16:4:47] /i hailstorm
+[7/5/2018 16:4:49] /i hailstorm rod
+[7/5/2018 16:5:13] /save
+[7/5/2018 16:5:26] /save
+[7/5/2018 16:10:4] /i 2185
+[7/5/2018 16:10:10] /r
+[7/5/2018 16:10:37] /save
+[7/5/2018 16:14:50] /i 5875
+[7/5/2018 16:15:36] /i 8305
+[7/5/2018 16:15:37] /i 8305
+[7/5/2018 16:17:32] /m demon
+[7/5/2018 16:21:8] /i fire sword
+[7/5/2018 16:21:18] /i energy sword
+[7/5/2018 16:21:41] /i relic sword
+[7/5/2018 16:22:38] /i 2409
+[7/5/2018 16:22:58] /r
+[7/5/2018 16:23:4] /i fire sword
+[7/5/2018 16:23:17] /r
+[7/5/2018 16:23:22] /m cyslops
+[7/5/2018 16:23:25] /m cyclops
+[7/5/2018 16:23:28] /m cyclops
+[7/5/2018 16:23:34] /m cyclops
+[7/5/2018 16:23:37] /m cyclop
+[7/5/2018 16:23:43] /m minotaur
+[7/5/2018 16:24:21] /m Cyclops
+[7/5/2018 16:24:24] /m Cyclops
+[7/5/2018 16:24:47] /r
+[7/5/2018 16:24:48] /r
+[7/5/2018 16:26:27] /m demon
+[7/5/2018 16:27:43] /i enchanted spear
+[7/5/2018 17:8:25] /a 10
+[7/5/2018 17:8:25] /a 10
+[7/5/2018 17:8:25] /a 10
+[7/5/2018 17:8:26] /a 10
+[7/5/2018 17:14:50] /i 8305
+[7/5/2018 17:14:55] /i backpack
+[7/5/2018 17:15:0] /i backpack
+[7/5/2018 17:15:2] /i 8305
+[7/5/2018 17:15:4] /i 8305
+[7/5/2018 17:15:5] /i 8305
+[7/5/2018 17:15:5] /i 8305
+[7/5/2018 17:15:5] /i 8305
+[7/5/2018 17:15:5] /i 8305
+[7/5/2018 17:15:5] /i 8305
+[7/5/2018 17:15:5] /i 8305
+[7/5/2018 17:15:5] /i 8305
+[7/5/2018 17:15:5] /i 8305
+[7/5/2018 17:15:5] /i 8305
+[7/5/2018 17:15:5] /i 8305
+[7/5/2018 17:15:5] /i 8305
+[7/5/2018 17:15:5] /i 8305
+[7/5/2018 17:15:5] /i 8305
+[7/5/2018 17:15:5] /i 8305
+[7/5/2018 17:15:5] /i 8305
+[7/5/2018 17:15:5] /i 8305
+[7/5/2018 17:15:5] /i 8305
+[7/5/2018 17:15:5] /i 8305
+[7/5/2018 17:15:5] /i 8305
+[7/5/2018 17:15:5] /i 8305
+[7/5/2018 17:15:5] /i 8305
+[7/5/2018 17:15:5] /i 8305
+[7/5/2018 17:15:5] /i 8305
+[7/5/2018 17:15:5] /i 8305
+[7/5/2018 17:15:6] /i 8305
+[7/5/2018 17:15:6] /i 8305
+[7/5/2018 17:15:6] /i 8305
+[7/5/2018 17:15:6] /i 8305
+[7/5/2018 17:15:6] /i 8305
+[7/5/2018 17:15:6] /i 8305
+[7/5/2018 17:15:7] /i 8305
+[7/5/2018 17:15:7] /i 8305
+[7/5/2018 17:15:7] /i 8305
+[7/5/2018 17:15:7] /i 8305
+[7/5/2018 17:15:7] /i 8305
+[7/5/2018 17:15:7] /i 8305
+[7/5/2018 17:15:7] /i 8305
+[7/5/2018 17:15:7] /i 8305
+[7/5/2018 17:15:7] /i 8305
+[7/5/2018 17:15:7] /i 8305
+[7/5/2018 17:15:7] /i 8305
+[7/5/2018 17:15:7] /i 8305
+[7/5/2018 17:15:7] /i 8305
+[7/5/2018 17:15:8] /i 8305
+[7/5/2018 17:15:8] /i 8305
+[7/5/2018 17:15:8] /i 8305
+[7/5/2018 17:15:8] /i 8305
+[7/5/2018 17:15:8] /i 8305
+[7/5/2018 17:15:8] /i 8305
+[7/5/2018 17:15:8] /i 8305
+[7/5/2018 17:15:8] /i 8305
+[7/5/2018 17:15:8] /i 8305
+[7/5/2018 17:15:8] /i 8305
+[7/5/2018 17:15:8] /i 8305
+[7/5/2018 17:15:8] /i 8305
+[7/5/2018 17:15:8] /i 8305
+[7/5/2018 17:15:8] /i 8305
+[7/5/2018 17:15:8] /i 8305
+[7/5/2018 17:15:8] /i 8305
+[7/5/2018 17:15:8] /i 8305
+[7/5/2018 17:15:8] /i 8305
+[7/5/2018 17:15:8] /i 8305
+[7/5/2018 17:15:8] /i 8305
+[7/5/2018 17:15:8] /i 8305
+[7/5/2018 17:15:8] /i 8305
+[7/5/2018 17:15:8] /i 8305
+[7/5/2018 17:15:8] /i 8305
+[7/5/2018 17:15:8] /i 8305
+[7/5/2018 17:15:8] /i 8305
+[7/5/2018 17:15:8] /i 8305
+[7/5/2018 17:15:8] /i 8305
+[7/5/2018 17:15:8] /i 8305
+[7/5/2018 17:15:8] /i 8305
+[7/5/2018 17:15:8] /i 8305
+[7/5/2018 17:15:8] /i 8305
+[7/5/2018 17:15:9] /i 8305
+[7/5/2018 17:15:9] /i 8305
+[7/5/2018 17:15:9] /i 8305
+[7/5/2018 17:15:9] /i 8305
+[7/5/2018 17:15:9] /i 8305
+[7/5/2018 17:15:9] /i 8305
+[7/5/2018 17:15:9] /i 8305
+[7/5/2018 17:15:9] /i 8305
+[7/5/2018 17:15:9] /i 8305
+[7/5/2018 17:15:9] /i 8305
+[7/5/2018 17:15:9] /i 8305
+[7/5/2018 17:15:10] /i 8305
+[7/5/2018 17:15:10] /i 8305
+[7/5/2018 17:15:10] /i 8305
+[7/5/2018 17:15:10] /i 8305
+[7/5/2018 17:15:10] /i 8305
+[7/5/2018 17:15:10] /i 8305
+[7/5/2018 17:15:10] /i 8305
+[7/5/2018 17:15:10] /i 8305
+[7/5/2018 17:15:10] /i 8305
+[7/5/2018 17:15:10] /i 8305
+[7/5/2018 17:15:10] /i 8305
+[7/5/2018 17:15:10] /i 8305
+[7/5/2018 17:15:10] /i 8305
+[7/5/2018 17:15:36] /i dwarven shield
+[7/5/2018 17:23:13] /i beholder shield
+[7/5/2018 17:28:53] /r
+[7/5/2018 17:29:0] /i dwarven shield
+[7/5/2018 17:29:42] /i 8305
+[7/5/2018 17:29:43] /i 8305
+[7/5/2018 17:29:44] /i 8305
+[7/5/2018 17:30:1] /i dwarven shield
+[7/5/2018 17:30:8] /i dwarven shield
+[7/5/2018 17:34:18] /i nemsei qual e
+[7/5/2018 17:47:6] /i 8305
+[7/5/2018 17:47:26] /i magic sword
+[7/5/2018 17:47:43] /i sword
+[7/5/2018 17:48:25] /i bag
+[7/5/2018 17:48:28] /i 8305
+[7/5/2018 17:48:29] /i 8305
+[7/5/2018 17:48:29] /i 8305
+[7/5/2018 17:48:29] /i 8305
+[7/5/2018 17:48:29] /i 8305
+[7/5/2018 17:48:29] /i 8305
+[7/5/2018 17:48:29] /i 8305
+[7/5/2018 17:48:29] /i 8305
+[7/5/2018 17:48:29] /i 8305
+[7/5/2018 17:48:29] /i 8305
+[7/5/2018 17:48:29] /i 8305
+[7/5/2018 17:48:29] /i 8305
+[7/5/2018 17:48:29] /i 8305
+[7/5/2018 17:48:29] /i 8305
+[7/5/2018 17:48:29] /i 8305
+[7/5/2018 17:48:29] /i 8305
+[7/5/2018 17:48:29] /i 8305
+[7/5/2018 17:48:29] /i 8305
+[7/5/2018 17:48:29] /i 8305
+[7/5/2018 17:48:29] /i 8305
+[7/5/2018 17:48:30] /i 8305
+[7/5/2018 17:48:30] /i 8305
+[7/5/2018 17:48:30] /i 8305
+[7/5/2018 17:48:30] /i 8305
+[7/5/2018 17:48:30] /i 8305
+[7/5/2018 17:48:30] /i 8305
+[7/5/2018 17:48:30] /i 8305
+[7/5/2018 17:48:30] /i 8305
+[7/5/2018 17:52:47] /r
+[7/5/2018 17:52:57] /m demon
+[7/5/2018 18:21:53] /i beholder shield
+[7/5/2018 18:32:20] /i blessed shield
+[7/5/2018 19:42:30] /reload actions
+[7/5/2018 19:43:59] /i magic sword
+[7/5/2018 19:46:40] /i spear
+[7/5/2018 19:46:52] /i spear
+[7/5/2018 19:47:1] /i royal spear
+[7/5/2018 19:47:28] /i 8305
+[7/5/2018 19:48:0] /i backpack
+[7/5/2018 19:48:4] /i 8305
+[7/5/2018 19:48:4] /i 8305
+[7/5/2018 19:48:5] /i 8305
+[7/5/2018 19:48:5] /i 8305
+[7/5/2018 19:48:6] /i 8305
+[7/5/2018 19:48:15] /i royal spear
+[7/5/2018 19:49:27] /reload actions
+[7/5/2018 19:50:42] /reload actions
+[7/5/2018 19:52:20] /i royal spear
+[7/5/2018 19:53:41] /reload actions
+[7/5/2018 19:55:8] /reload actions
+[7/5/2018 19:55:48] /save
+[7/5/2018 19:57:51] /reload actions
+[7/5/2018 20:11:23] /i 8305
+[7/5/2018 20:11:24] /i 8305
+[7/5/2018 20:11:24] /i 8305
+[7/5/2018 20:15:7] /reload actions
+[7/5/2018 20:16:28] /i royal spear
+[7/5/2018 20:17:1] /reload actions
+[7/5/2018 20:17:50] /i 8305
+[7/5/2018 20:17:50] /i 8305
+[7/5/2018 20:17:50] /i 8305
+[7/5/2018 20:18:19] /reload actions
+[7/5/2018 20:24:23] /reload talkactions
+[7/5/2018 20:25:4] /reload talkactions
+[7/5/2018 20:27:13] /reload talkactions
+[7/5/2018 20:27:29] /reload talkactions
+[7/5/2018 20:27:49] /reload talkactions
+[7/5/2018 20:28:15] /reload talkactions
+[7/5/2018 20:28:42] /reload talkactions
+[7/5/2018 20:29:29] /reload talkactions
+[7/5/2018 20:30:30] /reload talkactions
+[7/5/2018 20:30:35] /reload talkactions
+[7/5/2018 20:30:35] /reload talkactions
+[7/5/2018 20:30:35] /a 10
+[7/5/2018 20:31:5] /reload talkactions
+[7/5/2018 20:31:36] /reload talkactions
+[7/5/2018 20:38:32] /reload talkactions
+[7/5/2018 20:38:38] /reload talkactions
+[7/5/2018 20:39:21] /reload talkactions
+[7/5/2018 20:39:47] /reload talkactions
+[7/5/2018 20:40:8] /reload talkactions
+[7/5/2018 20:40:40] /reload talkactions
+[7/5/2018 20:40:46] /reload talkactions
+[7/5/2018 20:41:26] /reload talkactions
+[7/5/2018 20:42:43] /reload talkactions
+[7/5/2018 20:43:19] /reload talkactions
+[7/5/2018 20:43:47] /reload talkactions
+[7/5/2018 20:44:12] /reload talkactions
+[7/5/2018 20:44:31] /reload talkactions
+[7/5/2018 20:45:11] /reload talkactions
+[7/5/2018 20:46:21] /reload talkactions
+[7/5/2018 22:41:39] /i 2190
+[7/5/2018 22:41:40] /i 2190
+[7/5/2018 22:42:48] /m bailor
+[7/5/2018 22:43:4] /m balor
+[7/5/2018 22:43:28] /m baylor
+[7/5/2018 22:43:29] /m baylor
+[7/5/2018 22:43:31] /m baylor
+[7/5/2018 22:43:31] /m baylor
+[7/5/2018 22:43:44] /m baylor
+[7/5/2018 22:43:45] /m baylor
+[7/5/2018 22:43:48] /m demon
+[7/5/2018 22:44:11] /m demon
+[7/5/2018 22:44:11] /m demon
+[7/5/2018 22:44:11] /m demon
+[7/5/2018 22:44:11] /m demon
+[7/5/2018 22:44:11] /m demon
+[7/5/2018 22:44:11] /m demon
+[7/5/2018 22:44:11] /m demon
+[7/5/2018 22:44:11] /m demon
+[7/5/2018 22:44:11] /m demon
+[7/5/2018 22:44:11] /m demon
+[7/5/2018 22:44:11] /m demon
+[7/5/2018 22:44:12] /m demon
+[7/5/2018 22:44:12] /m demon
+[7/5/2018 22:44:12] /m demon
+[7/5/2018 22:44:59] /r
+[7/5/2018 22:45:2] /r
+[7/5/2018 22:45:5] /r
+[7/5/2018 22:45:7] /r
+[7/5/2018 22:45:9] /r
+[7/5/2018 22:45:14] /r
+[7/5/2018 22:45:15] /r
+[7/5/2018 22:45:18] /r
+[7/5/2018 22:45:19] /r
+[7/5/2018 22:45:34] /r
+[7/5/2018 22:45:36] /r
+[7/5/2018 22:46:36] /m Baylor
+[7/5/2018 22:46:40] /m Baylor
+[7/5/2018 22:46:45] /m Demon
+[7/5/2018 22:46:46] /m Demon
+[7/5/2018 22:46:46] /m Demon
+[7/5/2018 22:46:46] /m Demon
+[7/5/2018 22:46:46] /m Demon
+[7/5/2018 22:46:46] /m Demon
+[7/5/2018 22:46:46] /m Demon
+[7/5/2018 22:46:46] /m Demon
+[7/5/2018 22:46:46] /m Demon
+[7/5/2018 22:46:46] /m Demon
+[7/5/2018 22:46:46] /m Demon
+[7/5/2018 22:46:46] /m Demon
+[7/5/2018 22:46:46] /m Demon
+[7/5/2018 22:46:46] /m Demon
+[7/5/2018 22:46:46] /m Demon
+[7/5/2018 22:48:55] /m Demon
+[7/5/2018 22:48:55] /m Demon
+[7/5/2018 22:48:56] /m Demon
+[7/5/2018 22:49:13] /m Demon
+[7/5/2018 22:49:13] /m Demon
+[7/5/2018 23:6:9] /i demon legs
+[7/5/2018 23:6:17] /i blue robe
+[7/5/2018 23:6:28] /r
+[8/5/2018 0:7:14] /reload talkactions
+[8/5/2018 0:8:15] /reload talkactions
+[8/5/2018 0:8:26] /warcarlin
+[8/5/2018 0:42:24] /reload talkactions
+[8/5/2018 0:44:4] /reload talkactions
+[8/5/2018 0:44:14] /warcarlin list
+[8/5/2018 0:57:45] /reload talkactions
+[8/5/2018 0:57:59] /warcarlin list
+[8/5/2018 0:58:0] /warcarlin list
+[8/5/2018 0:58:24] /warcarlin list
+[8/5/2018 0:58:28] /warcarlin list
+[8/5/2018 0:59:1] /reload talkactions
+[8/5/2018 0:59:5] /reload talkactions
+[8/5/2018 0:59:9] /reload talkactions
+[8/5/2018 0:59:14] /warcarlin list
+[8/5/2018 1:2:15] /reload talkactions
+[8/5/2018 1:3:4] /reload talkactions
+[8/5/2018 1:10:27] /reload talkactions
+[8/5/2018 1:10:33] /m Demon
+[8/5/2018 1:10:34] /m Demon
+[8/5/2018 1:10:45] /warcarlin list
+[8/5/2018 1:10:46] /warcarlin go
+[8/5/2018 1:10:48] /warcarlin go
+[8/5/2018 1:10:49] /warcarlin list
+[8/5/2018 1:10:51] /warcarlin go
+[8/5/2018 1:10:52] /warcarlin go
+[8/5/2018 8:29:41] /reload talkactions
+[8/5/2018 8:32:33] /reload talkactions
+[8/5/2018 8:34:42] /reload talkactions
+[8/5/2018 8:37:16] /reload talkactions
+[8/5/2018 8:50:15] /reload talkactions
+[8/5/2018 14:45:30] /reload talkactions
+[8/5/2018 14:46:2] /reload talkactions
+[8/5/2018 14:47:18] /reload talkactions
+[8/5/2018 14:47:28] /reload talkactions
+[8/5/2018 14:48:44] /reload talkactions
+[8/5/2018 14:49:13] /reload talkactions
+[8/5/2018 14:49:49] /reload talkactions
+[8/5/2018 14:50:3] /reload talkactions
+[8/5/2018 14:51:46] /reload talkactions
+[8/5/2018 14:52:17] /reload talkactions
+[8/5/2018 14:52:35] /reload talkactions
+[8/5/2018 15:4:24] /reload talkactions
+[8/5/2018 15:4:28] /warcarlin list
+[8/5/2018 15:46:34] /warcarlin accept, cocozin
+[8/5/2018 15:52:23] /reload talkactions
+[8/5/2018 16:0:39] /reload talkactions
+[8/5/2018 16:2:58] /reload talkactions
+[8/5/2018 16:16:22] /reload talkactions
+[8/5/2018 16:16:52] /reload talkactions
+[8/5/2018 16:23:4] /reload talkactions
+[8/5/2018 16:23:28] /reload talkactions
+[8/5/2018 16:27:53] /reload talkactions
+[8/5/2018 16:30:34] /reload talkactions
+[8/5/2018 16:31:27] /reload talkactions
+[8/5/2018 17:15:39] /reload talkactions
+[8/5/2018 17:26:47] /reload talkactions
+[8/5/2018 17:29:59] /reload talkactions
+[8/5/2018 17:30:38] /reload talkactions
+[8/5/2018 17:33:23] /reload talkactions
+[8/5/2018 17:33:34] /reload talkactions
+[8/5/2018 17:34:36] /reload talkactions
+[8/5/2018 17:34:42] /reload talkactions
+[8/5/2018 17:36:18] /reload talkactions
+[8/5/2018 17:36:21] /reload talkactions
+[8/5/2018 17:37:24] /reload talkactions
+[8/5/2018 17:39:40] /reload talkactions
+[8/5/2018 17:40:14] /reload talkactions
+[8/5/2018 17:40:35] /reload talkactions
+[8/5/2018 17:40:57] /reload talkactions
+[8/5/2018 17:41:10] /reload talkactions
+[8/5/2018 17:41:45] /reload talkactions
+[8/5/2018 17:45:35] /reload talkactions
+[8/5/2018 17:46:22] /reload talkactions
+[8/5/2018 17:46:50] /reload talkactions
+[8/5/2018 17:46:53] /reload talkactions
+[8/5/2018 17:47:55] /reload talkactions
+[8/5/2018 17:48:12] /reload talkactions
+[8/5/2018 17:49:0] /reload talkactions
+[8/5/2018 17:49:32] /reload talkactions
+[8/5/2018 17:49:50] /reload talkactions
+[8/5/2018 18:5:49] /reload talkactions
+[8/5/2018 18:17:7] /reload talkactions
+[8/5/2018 18:18:58] /reload talkactions
+[8/5/2018 18:19:35] /reload talkactions
+[8/5/2018 18:19:38] /reload talkactions
+[8/5/2018 18:19:42] /reload talkactions
+[8/5/2018 18:21:27] /reload talkactions
+[8/5/2018 18:22:51] /reload talkactions
+[8/5/2018 18:23:23] /reload talkactions
+[8/5/2018 18:23:45] /reload talkactions
+[8/5/2018 18:29:27] /reload talkactions
+[8/5/2018 18:29:49] /reload talkactions
+[8/5/2018 18:30:52] /reload talkactions
+[8/5/2018 18:32:12] /reload talkactions
+[8/5/2018 18:32:41] /reload talkactions
+[8/5/2018 18:35:25] /reload talkactions
+[8/5/2018 18:35:40] /reload talkactions
+[8/5/2018 18:36:13] /reload talkactions
+[8/5/2018 18:37:13] /reload talkactions
+[8/5/2018 18:37:56] /warcarlin list
+[8/5/2018 18:37:58] /reload talkactions
+[8/5/2018 18:38:49] /reload talkactions
+[8/5/2018 18:40:30] /reload talkactions
+[8/5/2018 18:41:29] /reload talkactions
+[8/5/2018 18:41:43] /reload talkactions
+[8/5/2018 18:42:29] /reload talkactions
+[8/5/2018 18:43:28] /reload talkactions
+[8/5/2018 18:44:12] /reload talkactions
+[8/5/2018 18:44:40] /reload talkactions
+[8/5/2018 18:45:54] /reload talkactions
+[8/5/2018 18:47:5] /reload talkactions
+[8/5/2018 18:48:59] /reload talkactions
+[8/5/2018 18:49:14] /reload talkactions
+[8/5/2018 18:49:30] /reload talkactions
+[8/5/2018 18:50:12] /reload talkactions
+[8/5/2018 18:50:41] /reload talkactions
+[8/5/2018 18:51:8] /reload talkactions
+[8/5/2018 18:52:31] /reload talkactions
+[8/5/2018 18:54:36] /reload talkactions
+[8/5/2018 18:54:55] /reload talkactions
+[8/5/2018 18:55:9] /reload talkactions
+[8/5/2018 18:56:25] /reload talkactions
+[8/5/2018 18:56:45] /reload talkactions
+[8/5/2018 18:57:26] /reload talkactions
+[8/5/2018 18:58:27] /reload talkactions
+[8/5/2018 18:58:31] /reload talkactions
+[8/5/2018 18:59:10] /reload talkactions
+[8/5/2018 19:0:3] /reload talkactions
+[8/5/2018 19:1:36] /reload talkactions
+[8/5/2018 19:1:49] /reload talkactions
+[8/5/2018 19:2:22] /reload talkactions
+[8/5/2018 19:2:55] /reload talkactions
+[8/5/2018 19:2:58] /reload talkactions
+[8/5/2018 19:3:39] /reload talkactions
+[8/5/2018 19:3:59] /reload talkactions
+[8/5/2018 19:4:35] /reload talkactions
+[8/5/2018 19:5:39] /reload talkactions
+[8/5/2018 19:6:3] /reload talkactions
+[8/5/2018 19:6:57] /reload talkactions
+[8/5/2018 19:7:11] /reload talkactions
+[8/5/2018 19:7:28] /reload talkactions
+[8/5/2018 19:7:50] /reload talkactions
+[8/5/2018 19:8:26] /reload talkactions
+[8/5/2018 19:9:47] /reload talkactions
+[8/5/2018 19:13:22] /reload talkactions
+[8/5/2018 19:16:9] /reload talkactions
+[8/5/2018 19:16:40] /reload talkactions
+[8/5/2018 19:17:25] /reload talkactions
+[8/5/2018 19:17:52] /reload talkactions
+[8/5/2018 19:23:30] /reload talkactions
+[8/5/2018 19:23:38] /reload talkactions
+[8/5/2018 19:49:39] /reload talkactions
+[8/5/2018 19:49:47] /warcarlin list
+[8/5/2018 19:52:2] /reload talkactions
+[8/5/2018 19:52:8] /warcarlin list
+[8/5/2018 20:35:32] /r
+[8/5/2018 20:37:28] /r
+[8/5/2018 20:37:41] /up
+[8/5/2018 20:37:44] /a 2
+[8/5/2018 20:37:46] /up
+[8/5/2018 20:37:49] /c yago
+[8/5/2018 20:38:9] /c yago
+[8/5/2018 20:38:16] /a 10
+[8/5/2018 20:38:20] /a 10
+[8/5/2018 20:38:38] /c yago
+[8/5/2018 20:38:38] /c yago
+[8/5/2018 20:38:39] /c yago
+[8/5/2018 20:38:41] /goto yago
+[8/5/2018 20:38:43] /goto yago
+[8/5/2018 20:38:47] /c yago
+[8/5/2018 20:39:3] /c yago
+[8/5/2018 20:39:40] /i toma
+[8/5/2018 20:39:49] /i 12272
+[8/5/2018 20:39:51] /i 12273
+[8/5/2018 20:39:53] /r
+[8/5/2018 20:39:55] /r
+[8/5/2018 20:40:0] /i 12372
+[8/5/2018 20:40:43] /a 10
+[8/5/2018 20:40:44] /c yago
+[8/5/2018 20:40:46] /c yago
+[8/5/2018 20:40:48] /c yago
+[8/5/2018 20:41:10] /a 10
+[8/5/2018 20:41:10] /a 10
+[8/5/2018 20:41:11] /a 10
+[8/5/2018 20:41:34] /goto yago
+[8/5/2018 20:42:27] /a 10
+[8/5/2018 20:42:27] /a 10
+[8/5/2018 20:42:27] /a 10
+[8/5/2018 20:42:27] /a 10
+[8/5/2018 20:42:27] /a 10
+[8/5/2018 20:42:28] /a 10
+[8/5/2018 20:42:28] /a 10
+[8/5/2018 20:42:28] /a 10
+[8/5/2018 20:42:28] /a 10
+[8/5/2018 20:42:28] /a 10
+[8/5/2018 20:42:28] /a 10
+[8/5/2018 20:42:28] /a 10
+[8/5/2018 20:42:28] /a 10
+[8/5/2018 20:42:28] /a 10
+[8/5/2018 20:42:28] /a 10
+[8/5/2018 20:42:28] /a 10
+[8/5/2018 20:42:29] /a 10
+[8/5/2018 20:42:29] /a 10
+[8/5/2018 20:42:29] /a 10
+[8/5/2018 20:42:29] /a 10
+[8/5/2018 20:42:29] /a 10
+[8/5/2018 20:42:29] /a 10
+[8/5/2018 20:42:29] /a 10
+[8/5/2018 20:42:29] /a 10
+[8/5/2018 20:42:29] /a 10
+[8/5/2018 20:42:29] /a 10
+[8/5/2018 20:42:29] /a 10
+[8/5/2018 20:42:29] /a 10
+[8/5/2018 20:42:29] /a 10
+[8/5/2018 20:42:29] /a 10
+[8/5/2018 20:42:29] /a 10
+[8/5/2018 20:42:29] /a 10
+[8/5/2018 20:42:29] /a 10
+[8/5/2018 20:42:29] /a 10
+[8/5/2018 20:42:29] /a 10
+[8/5/2018 20:42:29] /a 10
+[8/5/2018 20:42:29] /a 10
+[8/5/2018 20:42:29] /a 10
+[8/5/2018 20:42:29] /a 10
+[8/5/2018 20:42:29] /a 10
+[8/5/2018 20:42:29] /a 10
+[8/5/2018 20:42:30] /a 10
+[8/5/2018 20:42:30] /a 10
+[8/5/2018 20:42:31] /a 10
+[8/5/2018 20:42:31] /a 10
+[8/5/2018 20:42:31] /a 10
+[8/5/2018 20:42:31] /a 10
+[8/5/2018 20:42:31] /a 10
+[8/5/2018 20:42:31] /a 10
+[8/5/2018 20:42:31] /a 10
+[8/5/2018 20:42:31] /a 10
+[8/5/2018 20:42:31] /a 10
+[8/5/2018 20:42:31] /a 10
+[8/5/2018 20:42:31] /a 10
+[8/5/2018 20:42:31] /a 10
+[8/5/2018 20:42:32] /a 10
+[8/5/2018 20:42:32] /a 10
+[8/5/2018 20:42:32] /a 10
+[8/5/2018 20:42:32] /a 10
+[8/5/2018 20:42:32] /a 10
+[8/5/2018 20:42:32] /a 10
+[8/5/2018 20:42:32] /a 10
+[8/5/2018 20:42:32] /a 10
+[8/5/2018 20:42:33] /a 10
+[8/5/2018 20:42:33] /a 10
+[8/5/2018 20:42:34] /a 10
+[8/5/2018 20:42:34] /a 10
+[8/5/2018 20:42:34] /a 10
+[8/5/2018 20:42:34] /a 10
+[8/5/2018 20:42:39] /a 10
+[8/5/2018 20:42:41] /c yago
+[8/5/2018 20:44:21] /goto yago
+[8/5/2018 20:45:26] /c yago
+[8/5/2018 20:45:27] /c yago
+[8/5/2018 20:45:30] /c yago
+[8/5/2018 20:45:32] /c yago
+[8/5/2018 20:45:34] /c yago
+[8/5/2018 20:45:35] /c yago
+[8/5/2018 20:45:56] /a 10
+[8/5/2018 20:45:56] /a 10
+[8/5/2018 20:45:57] /a 10
+[8/5/2018 20:45:57] /a 10
+[8/5/2018 20:45:57] /a 10
+[8/5/2018 20:45:57] /a 10
+[8/5/2018 20:45:57] /a 10
+[8/5/2018 20:45:57] /a 10
+[8/5/2018 20:45:57] /a 10
+[8/5/2018 20:45:57] /a 10
+[8/5/2018 20:45:57] /a 10
+[8/5/2018 20:45:57] /a 10
+[8/5/2018 20:45:57] /a 10
+[8/5/2018 20:45:57] /a 10
+[8/5/2018 20:45:57] /a 10
+[8/5/2018 20:45:58] /a 10
+[8/5/2018 20:45:58] /a 10
+[8/5/2018 20:45:58] /a 10
+[8/5/2018 20:45:58] /a 10
+[8/5/2018 20:45:58] /a 10
+[8/5/2018 20:45:58] /a 10
+[8/5/2018 20:45:58] /a 10
+[8/5/2018 20:45:58] /a 10
+[8/5/2018 20:45:58] /a 10
+[8/5/2018 20:45:58] /a 10
+[8/5/2018 20:45:58] /a 10
+[8/5/2018 20:45:58] /a 10
+[8/5/2018 20:45:58] /a 10
+[8/5/2018 20:45:58] /a 10
+[8/5/2018 20:45:58] /a 10
+[8/5/2018 20:45:58] /a 10
+[8/5/2018 20:45:58] /a 10
+[8/5/2018 20:45:58] /a 10
+[8/5/2018 20:45:58] /a 10
+[8/5/2018 20:45:58] /a 10
+[8/5/2018 20:45:58] /a 10
+[8/5/2018 20:45:58] /a 10
+[8/5/2018 20:45:58] /a 10
+[8/5/2018 20:45:58] /a 10
+[8/5/2018 20:45:58] /a 10
+[8/5/2018 20:45:59] /a 10
+[8/5/2018 20:45:59] /a 10
+[8/5/2018 20:45:59] /a 10
+[8/5/2018 20:45:59] /a 10
+[8/5/2018 20:45:59] /a 10
+[8/5/2018 20:45:59] /a 10
+[8/5/2018 20:45:59] /a 10
+[8/5/2018 20:45:59] /a 10
+[8/5/2018 20:45:59] /a 10
+[8/5/2018 20:45:59] /a 10
+[8/5/2018 20:45:59] /a 10
+[8/5/2018 20:45:59] /a 10
+[8/5/2018 20:45:59] /a 10
+[8/5/2018 20:45:59] /a 10
+[8/5/2018 20:45:59] /a 10
+[8/5/2018 20:45:59] /a 10
+[8/5/2018 20:45:59] /a 10
+[8/5/2018 20:45:59] /a 10
+[8/5/2018 20:45:59] /a 10
+[8/5/2018 20:46:0] /a 10
+[8/5/2018 20:46:0] /a 10
+[8/5/2018 20:46:0] /a 10
+[8/5/2018 20:46:0] /a 10
+[8/5/2018 20:46:1] /a 10
+[8/5/2018 20:46:1] /a 10
+[8/5/2018 20:46:1] /a 10
+[8/5/2018 20:46:1] /a 10
+[8/5/2018 20:46:1] /a 10
+[8/5/2018 20:46:1] /a 10
+[8/5/2018 20:46:1] /a 10
+[8/5/2018 20:46:1] /a 10
+[8/5/2018 20:46:1] /a 10
+[8/5/2018 20:46:1] /a 10
+[8/5/2018 20:46:1] /a 10
+[8/5/2018 20:46:1] /a 10
+[8/5/2018 20:46:2] /a 10
+[8/5/2018 20:46:2] /a 10
+[8/5/2018 20:46:2] /a 10
+[8/5/2018 20:46:2] /a 10
+[8/5/2018 20:46:2] /a 10
+[8/5/2018 20:46:2] /a 10
+[8/5/2018 20:46:3] /a 10
+[8/5/2018 20:46:3] /a 10
+[8/5/2018 20:46:3] /a 10
+[8/5/2018 20:46:3] /a 10
+[8/5/2018 20:46:3] /a 10
+[8/5/2018 20:46:6] /a 10
+[8/5/2018 20:46:7] /c yago
+[8/5/2018 20:46:44] /a 10
+[8/5/2018 20:46:45] /a 10
+[8/5/2018 20:46:46] /c yago
+[8/5/2018 20:46:46] /a 10
+[8/5/2018 20:46:47] /c yago
+[8/5/2018 20:46:48] /a 10
+[8/5/2018 20:46:48] /c yago
+[8/5/2018 20:46:49] /a 10
+[8/5/2018 20:46:49] /c yago
+[8/5/2018 20:46:50] /a 10
+[8/5/2018 20:46:50] /c yago
+[8/5/2018 20:46:52] /a 10
+[8/5/2018 20:46:52] /c yago
+[8/5/2018 20:46:52] /a 10
+[8/5/2018 20:46:53] /c yago
+[8/5/2018 20:46:53] /a 10
+[8/5/2018 20:46:53] /c yago
+[8/5/2018 20:46:54] /a 10
+[8/5/2018 20:46:54] /c yago
+[8/5/2018 20:46:54] /a 10
+[8/5/2018 20:46:54] /c yago
+[8/5/2018 20:46:55] /a 10
+[8/5/2018 20:46:55] /c yago
+[8/5/2018 20:46:56] /a 10
+[8/5/2018 20:46:56] /c yago
+[8/5/2018 20:46:56] /a 10
+[8/5/2018 20:46:56] /c yago
+[8/5/2018 20:46:56] /a 10
+[8/5/2018 20:46:57] /c yago
+[8/5/2018 20:46:57] /a 10
+[8/5/2018 20:46:57] /c yago
+[8/5/2018 20:46:58] /a 10
+[8/5/2018 20:46:58] /c yago
+[8/5/2018 20:46:58] /a 10
+[8/5/2018 20:46:58] /c yago
+[8/5/2018 20:46:58] /a 10
+[8/5/2018 20:46:58] /c yago
+[8/5/2018 20:46:59] /a 10
+[8/5/2018 20:46:59] /c yago
+[8/5/2018 20:46:59] /a 10
+[8/5/2018 20:46:59] /c yago
+[8/5/2018 20:46:59] /a 10
+[8/5/2018 20:46:59] /c yago
+[8/5/2018 20:47:0] /c yago
+[8/5/2018 20:47:0] /a 10
+[8/5/2018 20:47:0] /c yago
+[8/5/2018 20:47:0] /a 10
+[8/5/2018 20:47:0] /c yago
+[8/5/2018 20:47:0] /a 10
+[8/5/2018 20:47:1] /c yago
+[8/5/2018 20:47:1] /a 10
+[8/5/2018 20:47:2] /a 10
+[8/5/2018 20:47:2] /a 10
+[8/5/2018 20:47:3] /a 10
+[8/5/2018 20:47:3] /c yago
+[8/5/2018 20:47:4] /a 10
+[8/5/2018 20:47:4] /a 10
+[8/5/2018 20:47:4] /a 10
+[8/5/2018 20:47:4] /a 10
+[8/5/2018 20:47:4] /a 10
+[8/5/2018 20:47:4] /a 10
+[8/5/2018 20:47:5] /a 10
+[8/5/2018 20:47:5] /a 10
+[8/5/2018 20:47:5] /a 10
+[8/5/2018 20:47:5] /a 10
+[8/5/2018 20:47:5] /a 10
+[8/5/2018 20:47:5] /a 10
+[8/5/2018 20:47:5] /a 10
+[8/5/2018 20:47:5] /a 10
+[8/5/2018 20:47:6] /a 10
+[8/5/2018 20:47:6] /a 10
+[8/5/2018 20:47:6] /a 10
+[8/5/2018 20:47:6] /a 10
+[8/5/2018 20:47:6] /a 10
+[8/5/2018 20:47:6] /a 10
+[8/5/2018 20:47:6] /a 10
+[8/5/2018 20:47:6] /a 10
+[8/5/2018 20:47:6] /a 10
+[8/5/2018 20:47:6] /a 10
+[8/5/2018 20:47:6] /a 10
+[8/5/2018 20:47:6] /a 10
+[8/5/2018 20:47:6] /a 10
+[8/5/2018 20:47:6] /a 10
+[8/5/2018 20:47:6] /a 10
+[8/5/2018 20:47:6] /a 10
+[8/5/2018 20:47:7] /a 10
+[8/5/2018 20:47:7] /a 10
+[8/5/2018 20:47:7] /a 10
+[8/5/2018 20:47:7] /a 10
+[8/5/2018 20:47:7] /a 10
+[8/5/2018 20:47:7] /a 10
+[8/5/2018 20:47:7] /a 10
+[8/5/2018 20:47:7] /a 10
+[8/5/2018 20:47:7] /a 10
+[8/5/2018 20:47:8] /a 10
+[8/5/2018 20:47:8] /a 10
+[8/5/2018 20:47:8] /a 10
+[8/5/2018 20:47:8] /c yago
+[8/5/2018 20:47:8] /a 10
+[8/5/2018 20:47:8] /c yago
+[8/5/2018 20:47:8] /a 10
+[8/5/2018 20:47:8] /c yago
+[8/5/2018 20:47:8] /a 10
+[8/5/2018 20:47:8] /c yago
+[8/5/2018 20:47:8] /a 10
+[8/5/2018 20:47:8] /c yago
+[8/5/2018 20:47:9] /a 10
+[8/5/2018 20:47:9] /a 10
+[8/5/2018 20:47:9] /c yago
+[8/5/2018 20:47:9] /a 10
+[8/5/2018 20:47:9] /c yago
+[8/5/2018 20:47:10] /a 10
+[8/5/2018 20:47:10] /c yago
+[8/5/2018 20:47:10] /a 10
+[8/5/2018 20:47:10] /c yago
+[8/5/2018 20:47:11] /a 10
+[8/5/2018 20:47:11] /c yago
+[8/5/2018 20:47:11] /a 10
+[8/5/2018 20:47:11] /c yago
+[8/5/2018 20:47:11] /a 10
+[8/5/2018 20:47:12] /a 10
+[8/5/2018 20:47:12] /c yago
+[8/5/2018 20:47:13] /c yago
+[8/5/2018 20:47:13] /a 10
+[8/5/2018 20:47:13] /c yago
+[8/5/2018 20:47:15] /a 10
+[8/5/2018 20:47:17] /c yago
+[8/5/2018 20:47:23] /a 10
+[8/5/2018 20:47:24] /c yago
+[8/5/2018 20:47:24] /a 10
+[8/5/2018 20:47:24] /c yago
+[8/5/2018 20:47:25] /a 10
+[8/5/2018 20:47:25] /c yago
+[8/5/2018 20:47:26] /c yago
+[8/5/2018 20:47:26] /a 10
+[8/5/2018 20:47:27] /c yago
+[8/5/2018 20:47:27] /a 10
+[8/5/2018 20:47:28] /c yago
+[8/5/2018 20:47:28] /a 10
+[8/5/2018 20:47:28] /c yago
+[8/5/2018 20:47:28] /a 10
+[8/5/2018 20:47:28] /c yago
+[8/5/2018 20:47:29] /a 10
+[8/5/2018 20:47:29] /c yago
+[8/5/2018 20:47:30] /c yago
+[8/5/2018 20:47:30] /a 10
+[8/5/2018 20:47:30] /c yago
+[8/5/2018 20:47:30] /a 10
+[8/5/2018 20:47:30] /c yago
+[8/5/2018 20:47:30] /a 10
+[8/5/2018 20:47:30] /c yago
+[8/5/2018 20:47:31] /a 10
+[8/5/2018 20:47:31] /c yago
+[8/5/2018 20:47:31] /a 10
+[8/5/2018 20:47:31] /c yago
+[8/5/2018 20:47:31] /a 10
+[8/5/2018 20:47:31] /c yago
+[8/5/2018 20:47:32] /a 10
+[8/5/2018 20:47:32] /c yago
+[8/5/2018 20:47:32] /a 10
+[8/5/2018 20:47:32] /c yago
+[8/5/2018 20:47:33] /a 10
+[8/5/2018 20:47:33] /c yago
+[8/5/2018 20:47:33] /a 10
+[8/5/2018 20:47:33] /c yago
+[8/5/2018 20:47:33] /a 10
+[8/5/2018 20:47:33] /c yago
+[8/5/2018 20:47:33] /a 10
+[8/5/2018 20:47:33] /c yago
+[8/5/2018 20:47:33] /a 10
+[8/5/2018 20:47:34] /c yago
+[8/5/2018 20:47:34] /a 10
+[8/5/2018 20:47:34] /c yago
+[8/5/2018 20:47:34] /a 10
+[8/5/2018 20:47:34] /c yago
+[8/5/2018 20:47:34] /a 10
+[8/5/2018 20:47:34] /c yago
+[8/5/2018 20:47:34] /a 10
+[8/5/2018 20:47:35] /c yago
+[8/5/2018 20:47:35] /a 10
+[8/5/2018 20:47:35] /a 10
+[8/5/2018 20:47:35] /c yago
+[8/5/2018 20:47:36] /a 10
+[8/5/2018 20:47:36] /c yago
+[8/5/2018 20:47:36] /a 10
+[8/5/2018 20:47:37] /c yago
+[8/5/2018 20:47:37] /a 10
+[8/5/2018 20:47:37] /c yago
+[8/5/2018 20:47:37] /a 10
+[8/5/2018 20:47:37] /c yago
+[8/5/2018 20:47:37] /a 10
+[8/5/2018 20:47:37] /c yago
+[8/5/2018 20:47:38] /a 10
+[8/5/2018 20:47:38] /c yago
+[8/5/2018 20:47:38] /a 10
+[8/5/2018 20:47:39] /a 10
+[8/5/2018 20:47:39] /c yago
+[8/5/2018 20:47:39] /a 10
+[8/5/2018 20:47:39] /c yago
+[8/5/2018 20:47:40] /a 10
+[8/5/2018 20:47:40] /c yago
+[8/5/2018 20:47:40] /a 10
+[8/5/2018 20:47:40] /c yago
+[8/5/2018 20:47:40] /a 10
+[8/5/2018 20:47:41] /a 10
+[8/5/2018 20:47:41] /c yago
+[8/5/2018 20:47:42] /a 10
+[8/5/2018 20:47:42] /c yago
+[8/5/2018 20:47:44] /c yago
+[8/5/2018 20:47:45] /a 10
+[8/5/2018 20:47:47] /a 10
+[8/5/2018 20:47:48] /c yago
+[8/5/2018 20:47:49] /a 10
+[8/5/2018 20:47:50] /a 10
+[8/5/2018 20:47:52] /c yago
+[8/5/2018 20:48:46] /t
+[8/5/2018 20:48:47] /c yago
+[8/5/2018 20:48:58] /m demon
+[8/5/2018 20:49:11] /i enchanted spear
+[8/5/2018 20:49:14] /i 8305
+[8/5/2018 20:49:31] /i assassin star
+[8/5/2018 20:50:2] /i 8305
+[8/5/2018 20:50:30] /i 8305
+[8/5/2018 20:51:40] /reload actions
+[8/5/2018 20:51:59] /i 8305
+[8/5/2018 20:52:0] /i 8305
+[8/5/2018 20:52:0] /i 8305
+[8/5/2018 20:52:1] /i 8305
+[8/5/2018 20:52:1] /i 8305
+[8/5/2018 20:52:2] /i 8305
+[8/5/2018 20:52:2] /i 8305
+[8/5/2018 20:52:3] /i 8305
+[8/5/2018 20:53:23] /i 8852
+[8/5/2018 20:53:33] /r
+[8/5/2018 20:53:51] /r
+[8/5/2018 20:53:56] /i enchanted spear
+[8/5/2018 20:56:15] /i blessed shield
+[8/5/2018 20:56:16] /i blessed shield
+[8/5/2018 20:58:6] /i sim
+[8/5/2018 20:58:32] /i fire sword
+[8/5/2018 20:58:37] /i serpent sword
+[8/5/2018 20:58:41] /i 8305
+[8/5/2018 20:58:58] /m cyclops
+[8/5/2018 20:59:13] /m cyclops
+[8/5/2018 21:1:27] /goto yago
+[8/5/2018 21:2:2] /i 12723
+[8/5/2018 21:4:47] /attr group 0
+[8/5/2018 21:5:59] /attr group 6
+[8/5/2018 21:6:3] /r
+[8/5/2018 21:6:58] /attr set attack 800
+[8/5/2018 21:7:19] /attr attack 900
+[8/5/2018 21:21:47] /t
+[8/5/2018 21:30:2] /r
+[8/5/2018 21:30:57] /i 12505
+[8/5/2018 21:53:1] /a 3
+[8/5/2018 21:53:7] /a 3
+[8/5/2018 21:53:39] /t
+[8/5/2018 21:54:19] /goto bazir
+[8/5/2018 21:54:25] /goto demon
+[8/5/2018 21:54:28] /t
+[8/5/2018 21:59:30] /bc oiii
+[8/5/2018 21:59:35] /bc white oi
+[8/5/2018 21:59:46] /bc red oi
+[8/5/2018 22:5:57] /attr attack 500
+[8/5/2018 22:6:9] /attr set attack 500
+[8/5/2018 22:6:46] /attr attackspeed 50
+[8/5/2018 22:6:56] /attr set attackspeed 50
+[8/5/2018 22:7:17] /attr vocation 1
+[8/5/2018 22:8:31] /send Baiak Scripts, demon
+[8/5/2018 22:8:55] /send Baiak Scripts, x
+[8/5/2018 22:8:59] /send Baiak Scripts, y
+[8/5/2018 22:10:37] /attr position 1103
+[8/5/2018 22:10:48] /attr position 7
+[10/5/2018 16:36:16] /i health potion
+[10/5/2018 16:36:40] /m demon
+[10/5/2018 16:36:43] /r
+[10/5/2018 16:36:44] /m cyclops
+[10/5/2018 16:36:45] /m cyclops
+[10/5/2018 16:36:46] /m cyclops
+[10/5/2018 16:36:46] /m cyclops
+[10/5/2018 16:39:9] /reload spells
+[10/5/2018 16:41:11] /reload spells
+[10/5/2018 16:50:39] /m cyclops
+[10/5/2018 16:50:40] /m cyclops
+[10/5/2018 16:50:40] /m cyclops
+[10/5/2018 16:50:41] /m cyclops
+[10/5/2018 16:54:7] /reload spell
+[10/5/2018 16:59:32] /reload spells
+[10/5/2018 16:59:42] /m cyclops
+[10/5/2018 16:59:43] /m cyclops
+[10/5/2018 16:59:44] /m cyclops
+[10/5/2018 16:59:45] /m cyclops
+[10/5/2018 17:2:7] /reload actions
+[10/5/2018 17:3:14] /reload actions
+[10/5/2018 17:6:51] /reload config
+[10/5/2018 17:9:46] /reload actions
+[10/5/2018 17:14:18] /reload config
+[10/5/2018 17:16:3] /m cyclops
+[10/5/2018 17:16:3] /m cyclops
+[10/5/2018 17:16:4] /m cyclops
+[10/5/2018 17:16:5] /m cyclops
+[10/5/2018 17:41:25] /m cyclops
+[10/5/2018 17:41:25] /m cyclops
+[10/5/2018 17:41:26] /m cyclops
+[10/5/2018 17:41:26] /m cyclops
+[10/5/2018 17:41:27] /m cyclops
+[10/5/2018 17:48:41] /reload config
+[10/5/2018 17:48:51] /m cyclops
+[10/5/2018 17:48:52] /m cyclops
+[10/5/2018 17:48:53] /m cyclops
+[10/5/2018 17:48:53] /m cyclops
+[10/5/2018 17:52:10] /m cyclops
+[10/5/2018 17:52:10] /m cyclops
+[10/5/2018 17:52:11] /m cyclops
+[10/5/2018 17:52:11] /m cyclops
+[10/5/2018 17:52:12] /m cyclops
+[10/5/2018 17:58:52] /reload spells
+[10/5/2018 17:59:43] /reload config
+[10/5/2018 18:1:55] /z 1
+[10/5/2018 18:2:2] /x 1
+[10/5/2018 18:2:4] /x 1
+[10/5/2018 18:2:5] /x 1
+[10/5/2018 18:2:6] /x 1
+[10/5/2018 18:2:7] /x 1
+[10/5/2018 18:2:9] /x 1
+[10/5/2018 18:2:10] /x 1
+[10/5/2018 18:2:13] /y 1
+[10/5/2018 18:2:17] /y 2
+[10/5/2018 18:2:21] /y 3
+[10/5/2018 18:2:23] /y 4
+[10/5/2018 18:2:23] /y 6
+[10/5/2018 18:2:24] /y 7
+[10/5/2018 18:2:26] /y 9
+[10/5/2018 18:6:40] /x 
+[10/5/2018 18:6:59] /y 89
+[10/5/2018 18:7:2] /y 112
+[10/5/2018 18:7:5] /y 120
+[10/5/2018 18:7:10] /y 205
+[10/5/2018 18:7:15] /y 255
+[10/5/2018 18:7:18] /y 256
+[10/5/2018 18:7:20] /y 255
+[10/5/2018 18:7:23] /y 215
+[10/5/2018 18:7:25] /y 210
+[10/5/2018 18:7:28] /y 190
+[10/5/2018 18:7:32] /y 190
+[10/5/2018 18:10:21] /y 190
+[10/5/2018 18:10:27] /y 190
+[10/5/2018 18:10:29] /y 190
+[10/5/2018 18:10:32] /y 190
+[10/5/2018 18:10:40] /y 190
+[10/5/2018 18:10:44] /y 215
+[10/5/2018 18:14:54] /y 95
+[10/5/2018 18:19:15] /y 123
+[10/5/2018 18:20:49] /reload spells
+[10/5/2018 18:22:40] /y 210
+[10/5/2018 18:22:43] /y 206
+[10/5/2018 18:22:45] /y 202
+[10/5/2018 18:22:47] /y 2034
+[10/5/2018 18:22:48] /y 203
+[10/5/2018 18:22:51] /y 202
+[10/5/2018 18:22:54] /y 145
+[10/5/2018 18:30:38] /reload talkactions
+[10/5/2018 18:31:16] /reload talkactions
+[10/5/2018 18:35:2] /reload talkactions
+[10/5/2018 18:40:0] /reload talkactions
+[10/5/2018 18:40:30] /reload talkactions
+[10/5/2018 18:42:43] /reload talkactions
+[10/5/2018 18:43:22] /y 5
+[10/5/2018 18:43:24] /y 5
+[10/5/2018 18:43:25] /y 5
+[10/5/2018 18:44:17] /y 10
+[10/5/2018 18:44:32] /y 18
+[10/5/2018 18:44:33] /y 18
+[10/5/2018 18:44:35] /y 18
+[10/5/2018 18:45:6] /y 30
+[10/5/2018 18:45:19] /y 35
+[10/5/2018 18:45:59] /y 65
+[10/5/2018 18:46:0] /y 65
+[10/5/2018 18:46:1] /y 65
+[10/5/2018 18:47:3] /y 130
+[10/5/2018 18:47:6] /y 129
+[10/5/2018 18:47:34] /y 144
+[10/5/2018 18:47:50] /y 149
+[10/5/2018 18:47:52] /y 149
+[10/5/2018 18:48:31] /y 173
+[10/5/2018 18:48:33] /y 171
+[10/5/2018 18:48:35] /y 171
+[10/5/2018 18:48:37] /y 171
+[10/5/2018 18:48:39] /y 1712
+[10/5/2018 18:48:41] /y 172
+[10/5/2018 18:48:43] /y 173
+[10/5/2018 18:48:45] /y 170
+[10/5/2018 18:48:48] /y 169
+[10/5/2018 18:48:51] /y 170
+[10/5/2018 18:48:52] /y 171
+[10/5/2018 18:48:53] /y 172
+[10/5/2018 18:48:55] /y 173
+[10/5/2018 18:48:56] /y 174
+[10/5/2018 18:48:58] /y 175
+[10/5/2018 18:50:32] /y 221
+[10/5/2018 18:51:1] /y 241
+[10/5/2018 18:51:8] /y 241
+[10/5/2018 18:51:9] /y 241
+[10/5/2018 18:51:10] /y 241
+[10/5/2018 18:51:11] /y 241
+[10/5/2018 18:51:25] /y 245
+[10/5/2018 18:51:28] /y 245
+[10/5/2018 18:52:16] /y 251
+[10/5/2018 18:52:21] /y 251
+[10/5/2018 18:52:22] /y 252
+[10/5/2018 18:52:27] /y 252
+[10/5/2018 18:52:36] /y 252
+[10/5/2018 18:52:37] /y 252
+[10/5/2018 18:52:38] /y 252
+[10/5/2018 18:52:40] /y 252
+[10/5/2018 18:52:41] /y 252
+[10/5/2018 18:52:42] /y 252
+[10/5/2018 18:52:43] /y 252
+[10/5/2018 18:52:44] /y 252
+[10/5/2018 18:53:47] /y 255
+[10/5/2018 18:53:49] /y 254
+[10/5/2018 18:59:24] /y 5
+[10/5/2018 18:59:29] /y 10
+[10/5/2018 18:59:32] /y 18
+[10/5/2018 18:59:37] /y 24
+[10/5/2018 18:59:44] /y 18
+[10/5/2018 18:59:46] /y 24
+[10/5/2018 18:59:49] /y 30
+[10/5/2018 18:59:53] /y 35
+[10/5/2018 18:59:56] /y 65
+[10/5/2018 18:59:59] /y 55
+[10/5/2018 19:2:29] /reload talkactions
+[10/5/2018 19:3:2] /reload talkactions
+[10/5/2018 19:3:38] /reload talkactions
+[10/5/2018 19:4:15] /reload talkactions
+[10/5/2018 19:8:0] /y 185
+[10/5/2018 19:8:1] /y 185
+[10/5/2018 19:8:14] /y 186
+[10/5/2018 19:8:16] /y 185
+[10/5/2018 19:8:18] /y 184
+[10/5/2018 19:8:19] /y 183
+[10/5/2018 19:26:41] /reload npcs
+[10/5/2018 19:26:45] /n deruno
+[10/5/2018 19:26:59] /reload npcs
+[10/5/2018 19:27:2] /n deruno
+[10/5/2018 20:18:3] /reload spells
+[10/5/2018 20:19:8] /reload spells
+[10/5/2018 20:19:32] /reload spells
+[10/5/2018 20:19:41] /reload spells
+[10/5/2018 20:20:28] /reload spells
+[10/5/2018 20:22:0] /reload spells
+[10/5/2018 20:25:17] /reload spells
+[10/5/2018 20:25:31] /clean
+[10/5/2018 23:53:21] /reload spells
+[10/5/2018 23:53:27] /t
+[10/5/2018 23:56:18] /reload spell
+[10/5/2018 23:57:1] /reload spell
+[10/5/2018 23:59:5] /reload spell
+[10/5/2018 23:59:58] /reload spell
+[11/5/2018 0:0:45] /reload spell
+[11/5/2018 0:7:13] /reload actions
+[11/5/2018 0:7:33] /i 2263
+[11/5/2018 0:8:1] /m cyclops
+[11/5/2018 0:15:36] /reload spells
+[11/5/2018 0:17:39] /reload spells
+[11/5/2018 0:18:19] /reload spells
+[11/5/2018 0:19:44] /reload spells
+[11/5/2018 0:33:48] /reload creaturescripts
+[11/5/2018 0:34:8] /reload spells
+[11/5/2018 0:37:40] /reload creaturescripts
+[11/5/2018 0:37:56] /m cyclops
+[11/5/2018 0:39:46] /reload spells
+[11/5/2018 0:39:50] /m cyclops
+[11/5/2018 0:40:37] /reload creaturescripts
+[11/5/2018 0:40:46] /m cyclops
+[11/5/2018 0:41:12] /reload creaturescripts
+[11/5/2018 0:41:17] /m cyclops
+[11/5/2018 0:41:22] /m cyclops
+[11/5/2018 0:41:44] /reload creaturescripts
+[11/5/2018 0:42:20] /r
+[11/5/2018 0:42:21] /r
+[11/5/2018 0:44:59] /reload talkactions
+[11/5/2018 1:4:48] /t
+[11/5/2018 14:5:17] /reload globalevents
+[11/5/2018 15:7:30] /reload talkactions
+[11/5/2018 15:7:35] /reload talkactions
+[11/5/2018 15:7:58] /reload talkactions
+[11/5/2018 15:8:40] /reload talkactions
+[11/5/2018 15:9:58] /reload talkactions
+[11/5/2018 15:10:2] /addpoints
+[11/5/2018 15:10:11] /addpoints BaiakScripts,10
+[11/5/2018 15:10:18] /addpoints Baiak Scripts,10
+[11/5/2018 15:11:55] /reload talkactions
+[11/5/2018 15:12:1] /reload talkactions
+[11/5/2018 15:12:6] /addpoints Baiak Scripts,10
+[11/5/2018 15:12:59] /reload talkactions
+[11/5/2018 15:13:7] /addpoints Baiak Scripts,10
+[11/5/2018 15:14:8] /reload talkactions
+[11/5/2018 15:21:56] /reload talkactions
+[11/5/2018 15:28:9] /addpoints Matheus,10
+[11/5/2018 15:28:27] /addpoints Matheus,1
+[11/5/2018 15:30:5] /addpoints matheus, 3
+[11/5/2018 15:30:44] /addpoints Matcholas
+[11/5/2018 15:32:13] /reload talkactions
+[11/5/2018 15:32:38] /addpoints matheus,1
+[11/5/2018 15:32:40] /addpoints matheus,1
+[11/5/2018 15:33:42] /reload talkactions
+[11/5/2018 15:34:33] /addpoints boizao,1
+[11/5/2018 15:54:8] /i 2854
+[11/5/2018 15:54:24] /i backpack of holding
+[11/5/2018 16:19:31] /addpoints matheus,20
+[11/5/2018 16:20:30] /addpoints matheus,1
+[11/5/2018 16:20:33] /addpoints matheus,1
+[11/5/2018 16:20:35] /r
+[11/5/2018 16:20:37] /addpoints matheus,1
+[11/5/2018 16:20:39] /addpoints matheus,1
+[11/5/2018 16:20:45] /addpoints matheus,1
+[11/5/2018 16:20:46] /addpoints matheus,1
+[11/5/2018 16:20:47] /addpoints matheus,1
+[11/5/2018 16:44:18] /addpoints Baiak Scripts, 100
+[11/5/2018 16:45:30] /addpoints Baiak Scripts, 100
+[11/5/2018 16:45:37] /addpoints Baiak Scripts, 100
+[11/5/2018 16:45:49] /reload talkactions
+[11/5/2018 16:45:56] /addpoints Baiak Scripts, 100
+[11/5/2018 16:49:30] /addpoints Baiak Scripts, 100
+[11/5/2018 16:49:36] /reload talkactions
+[11/5/2018 16:49:43] /addpoints Baiak Scripts, 100
+[12/5/2018 1:8:5] /addpoints matheus,200
+[12/5/2018 1:8:22] /addpoints Vacona 201
+[12/5/2018 1:8:26] /addpoints Vacona,201
+[12/5/2018 1:9:4] /addpoints teste,20
+[12/5/2018 1:9:33] /addpoints vacona,20
+[12/5/2018 1:11:55] /addpoints male,100
+[13/5/2018 3:11:4] /m cyclops
+[13/5/2018 3:34:35] /m dragon
+[13/5/2018 3:34:37] /m dragon
+[13/5/2018 12:41:36] /m cyclops
+[13/5/2018 13:9:41] /m rat
+[13/5/2018 13:40:24] /m cyclops
+[15/5/2018 19:56:26] /a 10
+[15/5/2018 19:56:31] /a 2
+[15/5/2018 20:10:29] /a 1
+[15/5/2018 20:17:14] /reload actions
+[15/5/2018 20:29:48] /reload creaturescripts
+[15/5/2018 20:29:55] /reload actions
+[15/5/2018 20:50:32] /reload config
+[15/5/2018 21:6:54] /reload creaturescripts
+[15/5/2018 21:14:29] /reload creaturescripts
+[15/5/2018 21:17:12] /reload creaturescripts
+[15/5/2018 21:17:38] /c vacona
+[15/5/2018 21:54:28] /reload creaturescripts
+[15/5/2018 22:4:34] /reload creaturescripts
+[15/5/2018 22:7:45] /reload creaturescripts
+[15/5/2018 22:11:24] /reload creatursecripts
+[15/5/2018 22:11:28] /reload creaturescripts
+[15/5/2018 22:20:2] /reload creaturescripts
+[15/5/2018 22:25:4] /reload creaturescripts
+[15/5/2018 22:25:7] /goto elou
+[15/5/2018 22:25:15] /up
+[15/5/2018 22:25:16] /up
+[15/5/2018 22:25:20] /a 3
+[15/5/2018 22:25:24] /c elou
+[15/5/2018 22:25:45] /reload creaturescripts
+[15/5/2018 22:35:16] /reload creaturescripts
+[15/5/2018 22:35:28] /reload creaturescripts
+[15/5/2018 22:35:33] /c elou
+[15/5/2018 22:36:55] /reload creaturescripts
+[15/5/2018 22:36:59] /c elou
+[15/5/2018 22:53:20] /reload creaturescripts
+[15/5/2018 22:53:26] /c elou
+[15/5/2018 22:53:31] /c matheus
+[15/5/2018 23:8:59] /c vacona
+[15/5/2018 23:30:41] /reload creaturescripts
+[15/5/2018 23:31:41] /reload creaturescripts
+[15/5/2018 23:32:31] /reload creaturescripts
+[15/5/2018 23:33:22] /reload creaturescripts
+[15/5/2018 23:36:8] /reload creaturescripts
+[15/5/2018 23:37:23] /reload creaturescripts
+[15/5/2018 23:38:10] /reload creaturescripts
+[15/5/2018 23:38:46] /reload creaturescripts
+[15/5/2018 23:39:28] /reload creaturescripts
+[15/5/2018 23:40:19] /r
+[15/5/2018 23:40:21] /r
+[15/5/2018 23:40:22] /r
+[15/5/2018 23:40:24] /r
+[15/5/2018 23:57:35] /reload creaturescripts
+[15/5/2018 23:58:10] /reload creaturescripts
+[15/5/2018 23:58:22] /reload creaturescripts
+[15/5/2018 23:58:39] /reload creaturescripts
+[15/5/2018 23:59:28] /reload creaturescripts
+[15/5/2018 23:59:44] /reload creaturescripts
+[16/5/2018 0:1:34] /reload creaturescripts
+[16/5/2018 0:3:38] /c vacona
+[16/5/2018 0:3:39] /c elou
+[21/5/2018 19:53:3] /c pqj
+[21/5/2018 20:2:2] /reload actions
+[21/5/2018 20:2:19] /reload creaturescripts
+[21/5/2018 20:4:50] /i wand of vortex
+[21/5/2018 20:9:54] /reload creaturescripts
+[21/5/2018 20:17:21] /reload creaturescripts
+[21/5/2018 20:36:58] /b espera 3 min
+[21/5/2018 20:38:54] /goto elou
+[21/5/2018 20:38:59] /t
+[21/5/2018 20:39:12] /c elou
+[21/5/2018 23:4:1] /reload globalevents
+[21/5/2018 23:7:15] /reload movements
+[23/5/2018 22:9:59] /reload creaturescripts
+[23/5/2018 22:10:5] /reload movements
+[23/5/2018 22:10:14] /reload talkactions
+[23/5/2018 22:14:42] /reload creaturescripts
+[23/5/2018 22:16:17] /reload creaturescripts
+[23/5/2018 22:16:22] /reload movements
+[23/5/2018 22:16:30] /reload talkactions
+[23/5/2018 22:17:14] /reload talkactions
+[23/5/2018 22:24:25] /r
+[23/5/2018 22:24:28] /r
+[23/5/2018 22:24:29] /r
+[23/5/2018 22:24:31] /a 2
+[23/5/2018 22:24:33] /a 2
+[23/5/2018 22:24:36] /c haha
+[23/5/2018 22:26:6] /c haha
+[23/5/2018 22:26:8] /c haha
+[23/5/2018 22:27:49] /reload creaturescripts
+[23/5/2018 22:31:41] /reload creaturescripts
+[23/5/2018 22:31:46] /reload globalevents
+[23/5/2018 22:31:51] /reload movements
+[23/5/2018 22:32:0] /reload talkactions
+[23/5/2018 22:34:43] /reload talkactions
+[23/5/2018 22:35:13] /reload talkactions
+[23/5/2018 22:37:21] /c haha
+[23/5/2018 22:37:24] /r
+[23/5/2018 22:37:25] /r
+[23/5/2018 22:45:51] /reload creaturescripts
+[23/5/2018 22:45:56] /reload movements
+[23/5/2018 22:46:7] /reload talkactions
+[23/5/2018 22:46:16] /reload globalevents
+[23/5/2018 22:49:7] /reload talkactions
+[23/5/2018 22:51:31] /reload creaturescript
+[23/5/2018 22:54:26] /reload creaturescripts
+[23/5/2018 22:55:18] /reload creaturescripts
+[9/6/2018 22:25:8] /reload talkactions
+[9/6/2018 22:25:48] /reload talkactions
+[9/6/2018 22:26:3] /reload talkactions
+[9/6/2018 22:26:48] /reload talkactions
+[9/6/2018 22:27:31] /reload talkactions
+[9/6/2018 22:28:36] /reload talkactions
+[9/6/2018 22:31:20] /reload talkactions
+[9/6/2018 22:32:1] /reload talkactions
+[9/6/2018 22:34:13] /reload talkactions
+[9/6/2018 22:34:37] /reload talkactions
+[9/6/2018 22:36:0] /reload talkactions
+[9/6/2018 22:37:0] /reload talkactions
+[9/6/2018 22:39:11] /reload talkactions
+[9/6/2018 22:39:58] /reload talkactions
+[9/6/2018 23:30:0] /reload talkactions
+[9/6/2018 23:31:34] /reload talkactions
+[9/6/2018 23:33:29] /reload talkactions
+[9/6/2018 23:33:48] /reload talkactions
+[9/6/2018 23:34:33] /reload talkactions
+[9/6/2018 23:35:5] /reload talkactions
+[9/6/2018 23:40:6] /reload talkactions
+[9/6/2018 23:40:11] /reload talkactions
+[9/6/2018 23:40:30] /reload talkactions
+[9/6/2018 23:40:37] /reload talkactions
+[9/6/2018 23:42:0] /reload talkactions
+[9/6/2018 23:42:5] /reload talkactions
+[9/6/2018 23:42:39] /reload talkactions
+[9/6/2018 23:46:20] /reload talkactions
+[9/6/2018 23:47:49] /reload talkactions
+[9/6/2018 23:50:37] /reload talkactions
+[9/6/2018 23:50:47] /reload talkactions
+[9/6/2018 23:51:7] /reload talkactions
+[9/6/2018 23:51:59] /reload talkactions
+[9/6/2018 23:53:6] /reload talkactions
+[9/6/2018 23:56:2] /reload talkactions
+[9/6/2018 23:56:44] /reload talkactions
+[9/6/2018 23:59:36] /reload talkactions
+[10/6/2018 0:0:23] /reload talkactions
+[10/6/2018 0:3:30] /reload talkactions
+[10/6/2018 0:4:28] /reload talkactions
+[10/6/2018 0:5:12] /reload talkactions
+[10/6/2018 0:5:18] /reload talkactions
+[10/6/2018 0:6:10] /reload talkactions
+[10/6/2018 0:10:33] /reload talkactions
+[10/6/2018 0:12:48] /reload talkactions
+[10/6/2018 0:15:11] /reload talkactions
+[10/6/2018 0:52:12] /a 1
+[10/6/2018 0:52:21] /a 1
+[10/6/2018 1:8:57] /reload talkactions
+[10/6/2018 1:9:38] /reload talkactions
+[10/6/2018 1:10:18] /reload talkactions
+[10/6/2018 1:10:30] /t
+[10/6/2018 1:10:31] /t
+[10/6/2018 1:11:8] /a 2
+[10/6/2018 1:17:24] /reload creaturescripts
+[10/6/2018 1:20:58] /reload talkactions
+[10/6/2018 1:21:11] /reload talkactions
+[10/6/2018 1:21:26] /reload creaturescripts
+[10/6/2018 1:33:5] /reload creaturescripts
+[10/6/2018 1:33:16] /reload talkactions
+[10/6/2018 1:43:38] /reload talkactions
+[10/6/2018 1:45:51] /a 8
+[10/6/2018 1:46:7] /t
+[10/6/2018 1:49:46] /a 9
+[10/6/2018 1:50:6] /a 9
+[10/6/2018 1:50:9] /t
+[10/6/2018 2:46:6] /reload talkactions
+[10/6/2018 2:52:53] /reload talkactions
+[10/6/2018 2:53:52] /reload talkactions
+[10/6/2018 2:54:17] /reload talkactions
+[10/6/2018 2:58:10] /reload talkactions
+[10/6/2018 2:59:13] /reload talkactions
+[10/6/2018 3:0:36] /reload talkactions
+[10/6/2018 3:9:26] /reload talkactions
+[10/6/2018 3:12:9] /reload talkactions
+[10/6/2018 3:14:21] /reload talkactions
+[10/6/2018 3:17:14] /reload talkactions
+[10/6/2018 3:21:4] /reload talkactions
+[10/6/2018 3:21:20] /t
+[10/6/2018 11:41:9] /a 2
+[10/6/2018 11:41:33] /r
+[10/6/2018 12:0:11] /a 2
+[10/6/2018 12:0:35] /reload talkactions
+[10/6/2018 12:1:43] /a 3
+[10/6/2018 13:36:54] /reload creaturescripts
+[10/6/2018 13:37:21] /reload creaturescripts
+[10/6/2018 13:39:9] /reload creaturescripts
+[10/6/2018 13:39:19] /a 2
+[10/6/2018 13:39:22] /a 2
+[10/6/2018 13:39:24] /a 2
+[10/6/2018 13:39:34] /a 2
+[10/6/2018 13:40:0] /reload creaturescripts
+[10/6/2018 13:43:17] /reload creaturescripts
+[10/6/2018 13:45:12] /reload creaturescripts
+[10/6/2018 13:47:16] /reload creaturescripts
+[10/6/2018 13:47:29] /reload creaturescripts
+[10/6/2018 13:49:9] /reload creaturescripts
+[10/6/2018 13:51:6] /reload creaturescripts
+[10/6/2018 14:0:21] /reload creaturescripts
+[10/6/2018 14:0:49] /c pqj
+[10/6/2018 14:1:52] /c pqj
+[10/6/2018 14:1:55] /a 2
+[10/6/2018 14:1:59] /a
+[10/6/2018 14:2:4] /a 3
+[10/6/2018 14:3:0] /a 2
+[10/6/2018 14:3:2] /a 2
+[10/6/2018 14:7:31] /reload creaturescripts
+[10/6/2018 14:14:19] /t
+[10/6/2018 14:14:23] /reload creaturescripts
+[10/6/2018 14:16:3] /reload creaturescripts
+[10/6/2018 14:19:31] /reload creaturescripts
+[10/6/2018 14:21:7] /reload creaturescripts
+[10/6/2018 14:23:7] /reload creaturescripts
+[10/6/2018 14:23:40] /reload creaturescripts
+[10/6/2018 14:24:14] /reload creaturescripts
+[10/6/2018 14:51:26] /reload creaturescripts
+[10/6/2018 14:57:2] /a 1
+[10/6/2018 14:59:18] /reload movements
+[10/6/2018 15:17:30] /reload movements
+[10/6/2018 15:19:38] /reload movements
+[10/6/2018 15:24:30] /a 3
+[10/6/2018 15:25:12] /a 2
+[10/6/2018 15:25:18] /reload movements
+[10/6/2018 15:25:42] /a 1
+[10/6/2018 15:31:37] /reload talkactions
+[10/6/2018 15:31:48] /reload creaturescripts
+[10/6/2018 15:35:16] /reload talkactions
+[10/6/2018 15:36:9] /reload talkactions
+[10/6/2018 15:53:13] /m stron orshabaal
+[10/6/2018 15:53:14] /m stron orshabaal
+[10/6/2018 15:53:20] /m strong orshabaal
+[10/6/2018 15:53:39] /m rat
+[10/6/2018 15:53:42] /m Strong Orshabaal
+[10/6/2018 15:53:44] /m Strong Orshabaal
+[10/6/2018 15:53:47] /m Strong Orshabaal
+[10/6/2018 15:54:35] /reload monsters
+[10/6/2018 15:54:38] /m Strong Orshabaal
+[10/6/2018 15:54:42] /r
+[11/2/2019 1:1:0] /t
+[11/2/2019 1:1:6] /m demon
+[11/2/2019 1:1:16] /c sandro braz
+[11/2/2019 1:1:21] /m frost dragon
+[11/2/2019 1:2:56] /t
+[11/2/2019 1:2:59] /m demon
+[11/2/2019 1:3:11] /goto demon
+[11/2/2019 1:3:12] /goto demon
+[11/2/2019 1:3:13] /goto demon
+[11/2/2019 1:3:14] /goto demon
+[11/2/2019 1:3:15] /goto demon
+[11/2/2019 1:3:18] /goto frost dragon
+[11/2/2019 1:3:21] /t
+[11/2/2019 1:3:24] /r
+[11/2/2019 1:3:25] /r
+[11/2/2019 1:3:27] /r
+[11/2/2019 1:3:28] /r
+[11/2/2019 1:3:30] /r
+[11/2/2019 1:3:49] /a
+[11/2/2019 1:3:52] /a 2
+[11/2/2019 1:4:0] /goto vip trainer
+[11/2/2019 1:7:36] /goto 307,195,8
+[11/2/2019 1:7:39] /c Matheus
+[11/2/2019 1:8:31] /save

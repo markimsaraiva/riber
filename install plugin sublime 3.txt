@@ -1,0 +1,8 @@
+
+lua complete
+emmete
+snipper make
+color scheme= deep blue sea
+theme = dev predawn
+bracket highlither
+l2u auto complete

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groups>
+	<group id="1" name="Player"/>
+	<group id="2" access="1" name="Tutor" flags="137455730688" customFlags="2"/>
+	<group id="3" access="2" name="Gamemaster" flags="25562570661675" customFlags="34161091964175" violationReasons="20" nameViolationFlags="426" statementViolationFlags="469" depotLimit="1000" maxVips="300" outfit="75"/>"GM" flags="137455730688" customFlags="2"/>
+	<group id="4" access="3" name="God" flags="57172457136122" customFlags="67108863" violationReasons="23" nameViolationFlags="426" statementViolationFlags="469"/>
+
+</groups>

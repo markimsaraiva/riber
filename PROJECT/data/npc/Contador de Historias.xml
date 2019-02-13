@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Contador de Historias" script="historias.lua" walkinterval="2000" floorchange="0">
+          <health now="150" max="150" />
+          <look type="277" head="0" body="0" legs="0" feet="0"/>
+          <parameters>
+                    <parameter key="message_greet" value="Ola |PLAYERNAME|. Eu conto historias, tenho duas historias pra contar. A {historia um} e a {historia dois}" />
+                    <parameter key="message_farewell" value="Volte para ouvir mais historias!" />
+          </parameters>
+</npc>

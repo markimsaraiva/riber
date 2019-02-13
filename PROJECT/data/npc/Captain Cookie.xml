@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Captain Cookie" script="data/npc/scripts/Captain Cookie.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="96" head="0" body="0" legs="0" feet="0" addons="0"/>
+<voices>
+<voice text="Passagens para Aracura, Solaris, Nissey, Baiak City e Ancient City!" interval2="100" margin="1" yell="no"/>
+</voices>
+<parameters>
+<parameter key="message_farewell" value="Valew! Fico Feliz por ter vindo ate mim!" />
+<parameter key="message_walkaway" value="Valew! Fico Feliz por ter vindo ate mim!" />
+ <parameter key="message_greet" value="Bem vindo a bordo, |PLAYERNAME|. Aqui e Sarn. Para onde iremos ir hoje? {aracura} , {solaris} , {nissey} , {baiak} city , {ancient} city."/>
+</parameters>
+</npc>

@@ -1,0 +1,7 @@
+<npc name="Task Aleatoria" script="data/npc/scripts/taskaleatoria.lua" access="5" lookdir="1">
+<health now="1000" max="1000"/>
+<look type="134" head="39" body="113" legs="38" feet="0" addons="3"/>
+	<parameters>
+		<parameter key="message_greet" value="Bem vindo|PLAYERNAME|.Estou procurando por pessoas para me ajudar.. Voce esta interessado em um desafio? {challenge} ou esta apenas procurando por recompensas {reward} ?" />
+	</parameters>
+</npc>

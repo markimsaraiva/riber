@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Guide Tiko" script="data/npc/scripts/guide5.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="133" head="96" body="78" legs="101" feet="116" addons="0"/>
+<parameters>
+        <parameter key="message_greet" value=" Ola |PLAYERNAME|! Voce quer auxilio de {marcacoes} no mapa? ?!"/>
+    </parameters>
+</npc>

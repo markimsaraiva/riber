@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Nellydois" script="nellydois.lua" walkinterval="0" floorchange="0">
+    <health now="90" max="150"/>
+    <look type="148" head="40" body="45" legs="99" feet="79"/>
+    <parameters>
+        <parameter key="message_greet" value="Hello. I am trapped in here, please, {help} me!"/>
+    </parameters>
+</npc>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Captain Greyhound" script="data/npc/scripts/Captain Greyhound.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="129" head="96" body="113" legs="95" feet="115" addons="0"/>
+<voices>
+<voice text="Passagens para Baiak City, Solaris, Nissey, Sarn e Ancient City!" interval2="100" margin="1" yell="no"/>
+</voices>
+<parameters>
+<parameter key="message_farewell" value="Valew! Fico Feliz por ter vindo ate mim!" />
+<parameter key="message_walkaway" value="Valew! Fico Feliz por ter vindo ate mim!" />
+ <parameter key="message_greet" value="Bem vindo a bordo, |PLAYERNAME|. Aqui e Aracura. Para onde iremos ir hoje? {baiak} city , {solaris} , {nissey} , {sarn} , {ancient} city."/>
+
+</parameters>
+</npc>

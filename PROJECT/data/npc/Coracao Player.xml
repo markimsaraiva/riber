@@ -1,0 +1,8 @@
+<npc name="Coracao Player" script="data/npc/scripts/coracaoplayer.lua">
+        <health now="100" max="100"/>
+		<look type="129" head="114" body="114" legs="114" feet="94" addons="1" />	
+<parameters>
+                    <parameter key="message_greet" value="Ola |PLAYERNAME|. Voce deseja trocar {coracao} de players comigo?" />
+                    <parameter key="message_farewell" value="Flw!" />
+          </parameters>		
+</npc>

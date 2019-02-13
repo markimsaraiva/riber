@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Elemental Bruttus" nameDescription="a the Elemental Bruttus" race="blood" experience="5400000" speed="500" manacost="0">
+<health now="5400000" max="5400000"/>
+<look type="12" head="20" body="30" legs="114" feet="50" corpse="5527"/>
+<targetchange interval="5000" chance="8"/>
+<strategy attack="100" defense="0"/>
+<flags>
+<flag summonable="0"/>
+<flag attackable="1"/>
+<flag hostile="1"/>
+<flag illusionable="0"/>
+<flag convinceable="0"/>
+<flag pushable="0"/>
+<flag canpushitems="1"/>
+<flag canpushcreatures="1"/>
+<flag targetdistance="0"/>
+<flag staticattack="90"/>
+<flag runonhealth="0"/>
+</flags>
+<attacks>
+<attack name="melee" interval="1000" skill="120" attack="205"/>
+<attack name="fire" interval="2000" chance="20" radius="9" target="0" min="-1200" max="-1800">
+ <attribute key="areaEffect" value="explosion"/>
+    </attack>
+<attack name="fire" interval="1000" chance="23" range="7" target="1" min="-2460" max="-2600">
+		<attribute key="shootEffect" value="fire"/>
+		<attribute key="areaEffect" value="firearea"/>
+</attack>
+ <attack name="ice" interval="2000" chance="20" radius="9" target="0" min="-1200" max="-1800">
+ <attribute key="areaEffect" value="giantice"/>
+    </attack>
+<attack name="ice" interval="1000" chance="23" range="7" target="1" min="-2460" max="-2600">
+		<attribute key="shootEffect" value="smallice"/>
+		<attribute key="areaEffect" value="iceattack"/>
+	</attack>
+	  <attack name="poison" interval="2000" chance="20" radius="9" target="1" min="-1200" max="-1800">
+ <attribute key="areaEffect" value="BIGPLANTS"/>
+    </attack>
+<attack name="poison" interval="1000" chance="23" range="7" target="1" min="-2460" max="-2600">
+		<attribute key="shootEffect" value="SMALLEARTH"/>
+		<attribute key="areaEffect" value="poison"/>
+	</attack>
+	    <attack name="death" interval="2000" chance="20" radius="9" target="1" min="-1200" max="-1800">
+ <attribute key="areaEffect" value="mortarea"/>
+    </attack>
+<attack name="death" interval="1000" chance="20" range="7" target="1" min="-2460" max="-2600">
+		<attribute key="shootEffect" value="suddendeath"/>
+		<attribute key="areaEffect" value="mortarea"/>
+	</attack>
+</attacks>
+<defenses armor="20" defense="20">
+<defense name="healing" interval="1000" chance="15" min="9200" max="11300">
+<attribute key="areaEffect" value="blueshimmer"/>
+</defense>
+<defense name="outfit" interval="100" chance="50" monster="Fire Bruttus" duration="1500">
+<attribute key="areaEffect" value="blueshimmer"/>
+</defense>
+<defense name="outfit" interval="100" chance="50" monster="Ice Bruttus" duration="1500">
+<attribute key="areaEffect" value="blueshimmer"/>
+</defense>
+<defense name="outfit" interval="100" chance="50" monster="Poison Bruttus" duration="1500">
+<attribute key="areaEffect" value="blueshimmer"/>
+</defense>
+<defense name="outfit" interval="100" chance="50" monster="Dark Bruttus" duration="1500">
+<attribute key="areaEffect" value="blueshimmer"/>
+</defense>
+</defenses>
+<elements>
+<element earthPercent="20"/>
+<element energyPercent="20"/>
+<element icePercent="20"/>
+<element deathPercent="20"/>
+<element physicalPercent="-50"/>
+<element firePercent="20"/>
+<element holyPercent="20"/>
+</elements>
+<immunities>
+<immunity invisible="1"/>
+</immunities>
+<loot capacity="5000">
+<item id="2349" countmax="1" chance="1200500"/>
+</loot>
+</monster> 

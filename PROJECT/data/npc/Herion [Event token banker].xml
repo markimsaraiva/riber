@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Herion [Event token banker]" script="data/npc/scripts/token_npc.lua" walkinterval="0" floorchange="0" access="5" level="1" maglevel="1">
+    <health now="150" max="150"/>
+    <look type="132" head="114" body="76" legs="114" feet="76" addons="2" />
+    
+    <parameters>
+        <parameter key="message_greet" value="Welcome |PLAYERNAME|! Here, you can {deposit}, {withdraw}, {balance} or {transfer} your event token from your event token bank account."/>
+        <parameter key="message_alreadyfocused" value="You are drunked ? I talk with you."/>
+        <parameter key="message_farewell" value="Goodbye. I wanna see your tokens... oh you again."/>
+    </parameters>
+</npc>

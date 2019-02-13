@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Buy Itens Donate" script="data/npc/scripts/buyitensdonate.lua" walkinterval="0" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="146" head="12" body="101" legs="122" feet="115" addons="2"/>
+	<parameters>
+		<parameter key="message_greet" value=" Ola |PLAYERNAME| eu compro seus itens donate pela metade dos pontos! (item de 10 pontos pago 5, item de 15 pontos pago 7, etc) Diga {trade}." />
+	</parameters>
+</npc>
+
